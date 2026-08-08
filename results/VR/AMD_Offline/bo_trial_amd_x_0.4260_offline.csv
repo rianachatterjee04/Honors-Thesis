@@ -1,0 +1,97 @@
+frame_idx,source_env,source_file,yolo_max_conf,detected_classes,status,vlm_response,latency_ms,usage_ratio
+1,custom,trial_x_0.385_raw.mp4,0.4763,chair,YOLO_ONLY,N/A,0,0.0000
+2,custom,trial_x_0.385_raw.mp4,0.5657,chair;traffic light,YOLO_ONLY,N/A,0,0.0000
+3,custom,trial_x_0.385_raw.mp4,0.5878,chair;traffic light,YOLO_ONLY,N/A,0,0.0000
+4,custom,trial_x_0.385_raw.mp4,0.4958,chair;traffic light,YOLO_ONLY,N/A,0,0.0000
+5,custom,trial_x_0.385_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+6,custom,trial_x_0.385_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+7,custom,trial_x_0.385_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+8,custom,trial_x_0.385_raw.mp4,0.4381,bottle,YOLO_ONLY,N/A,0,0.0000
+9,custom,trial_x_0.385_raw.mp4,0.6141,bottle;refrigerator;refrigerator,YOLO_ONLY,N/A,0,0.0000
+10,custom,trial_x_0.385_raw.mp4,0.4112,bottle;refrigerator,VLM_TRIGGERED,PENDING...,0,0.0000
+10,custom,trial_x_0.385_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too blurred to identify any obstacles or hazards with precision. However; from what can be discerned; there appears to be a clear path leading towards the center of the room; where the black blurry circle is located. The floor seems to be a standard; untextured surface; and there are no visible obstacles or hazards in the immediate vicinity of the path.,4520.7,0.1000
+11,custom,trial_x_0.385_raw.mp4,0.3064,toothbrush,VLM_TRIGGERED,PENDING...,0,0.0909
+11,custom,trial_x_0.385_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too blurred to identify any obstacles or hazards. It appears to be a photograph of a room with a large black circle in the center; which is likely a camera artifact simulating AMD. The rest of the image is too indistinct to provide a detailed description of the floor and path.,4013.4,0.1818
+12,custom,trial_x_0.385_raw.mp4,0.3268,bottle;tv,VLM_TRIGGERED,PENDING...,0,0.1667
+12,custom,trial_x_0.385_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a room with a whiteboard on the wall; which is the most prominent feature. There is a black circular object in the center that appears to be a camera artifact simulating AMD; which is a common issue in digital photography. The floor is not clearly visible due to the blurriness; but it seems to be a standard office or classroom floor. There are no other discernible obstacles or hazards in the visible area of the image.,5082.4,0.2500
+13,custom,trial_x_0.385_raw.mp4,0.4093,bottle;person,VLM_TRIGGERED,PENDING...,0,0.2308
+13,custom,trial_x_0.385_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too blurred to identify any obstacles or hazards. It appears to be a room with a white wall and a black circular object; which could be a camera artifact simulating AMD. The clear areas of the image show a floor and a path; but due to the blurriness; no specific details can be discerned.,4388.5,0.3077
+14,custom,trial_x_0.385_raw.mp4,0.6722,chair;bottle,YOLO_ONLY,N/A,0,0.2857
+15,custom,trial_x_0.385_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2667
+16,custom,trial_x_0.385_raw.mp4,0.4325,chair,YOLO_ONLY,N/A,0,0.2500
+17,custom,trial_x_0.385_raw.mp4,0.8283,chair,YOLO_ONLY,N/A,0,0.2353
+18,custom,trial_x_0.385_raw.mp4,0.4143,chair;tv,VLM_TRIGGERED,PENDING...,0,0.2222
+18,custom,trial_x_0.385_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a room with a whiteboard on the wall; which is the most prominent feature. There is a black circular object in the center that appears to be a camera artifact simulating AMD; which is a common issue in digital photography. The floor is not clearly visible due to the blurriness; but it seems to be a standard office or classroom floor. There are no other discernible obstacles or hazards in the visible area of the image.,4805.8,0.2778
+19,custom,trial_x_0.385_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2632
+20,custom,trial_x_0.385_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2500
+21,custom,trial_x_0.385_raw.mp4,0.2931,person,VLM_TRIGGERED,PENDING...,0,0.2381
+21,custom,trial_x_0.385_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too blurred to identify any obstacles or hazards. It appears to be a photograph of a room with a black circular object in the center; which is likely a camera artifact simulating AMD. The rest of the image is too indistinct to provide a detailed description of the floor and path.,4021.5,0.2857
+22,custom,trial_x_0.385_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2727
+23,custom,trial_x_0.385_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2609
+24,custom,trial_x_0.385_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2500
+25,custom,trial_x_0.385_raw.mp4,0.4050,toilet,VLM_TRIGGERED,PENDING...,0,0.2400
+25,custom,trial_x_0.385_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards. It appears to be a photograph of a room with a whiteboard and a black object in the center; which could be a camera artifact simulating AMD.,3711.8,0.2800
+26,custom,trial_x_0.385_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2692
+27,custom,trial_x_0.385_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2593
+28,custom,trial_x_0.385_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2500
+29,custom,trial_x_0.385_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2414
+30,custom,trial_x_0.385_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2333
+31,custom,trial_x_0.385_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2258
+32,custom,trial_x_0.385_raw.mp4,0.3469,person,VLM_TRIGGERED,PENDING...,0,0.2188
+32,custom,trial_x_0.385_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too blurred to identify any obstacles or hazards. It appears to be a photograph of a room with a camera artifact simulating AMD; which is a common issue in low-light photography. The clear areas of the image show a floor and a path; but due to the blurriness; no specific details about the floor or path can be discerned.,4386.9,0.2500
+33,custom,trial_x_0.385_raw.mp4,0.3341,person,VLM_TRIGGERED,PENDING...,0,0.2424
+33,custom,trial_x_0.385_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too blurred to identify any obstacles or hazards. It appears to be a photograph of a room with a camera artifact simulating AMD; which is a common issue in low-light photography. The clear areas of the image show a path leading to a darker area; possibly a doorway or a corner of the room.,4193.4,0.2727
+34,custom,trial_x_0.385_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2647
+35,custom,trial_x_0.385_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2571
+36,custom,trial_x_0.385_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2500
+37,custom,trial_x_0.385_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2432
+38,custom,trial_x_0.385_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2368
+39,custom,trial_x_0.385_raw.mp4,0.2932,refrigerator,VLM_TRIGGERED,PENDING...,0,0.2308
+39,custom,trial_x_0.385_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too blurred to identify any obstacles or hazards. It appears to be a photograph of a room with a whiteboard and a shelf; but due to the lack of clarity; no specific details can be discerned.,3738.0,0.2564
+40,custom,trial_x_0.385_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2500
+41,custom,trial_x_0.385_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2439
+42,custom,trial_x_0.385_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2381
+43,custom,trial_x_0.385_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2326
+44,custom,trial_x_0.385_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2273
+45,custom,trial_x_0.385_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2222
+46,custom,trial_x_0.385_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2174
+47,custom,trial_x_0.385_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2128
+48,custom,trial_x_0.385_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2083
+49,custom,trial_x_0.385_raw.mp4,0.2817,truck,VLM_TRIGGERED,PENDING...,0,0.2041
+49,custom,trial_x_0.385_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a room with a whiteboard on the left; which has some writing on it; and a metal shelf on the right with various items on it. The floor appears to be a standard office or laboratory floor; and there are no immediate obstacles or hazards visible in the clear areas of the image. The black blurry circle in the center is a camera artifact simulating AMD; and it does not represent an actual obstacle or hazard in the room.,4799.7,0.2245
+50,custom,trial_x_0.385_raw.mp4,0.2966,truck,VLM_TRIGGERED,PENDING...,0,0.2200
+50,custom,trial_x_0.385_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a room with a whiteboard on the left; which has some writing on it; and a metal shelf on the right with various items on it. There is a black object on the shelf that appears to be a camera lens; which is the source of the camera artifact. The floor is not clearly visible due to the camera lens obscuring the view; but it seems to be a standard office or laboratory floor. There are no immediate hazards visible in the image; but the camera lens could be a potential safety concern if it is not properly secured or if it is in use.,5437.1,0.2400
+51,custom,trial_x_0.385_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2353
+52,custom,trial_x_0.385_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2308
+53,custom,trial_x_0.385_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2264
+54,custom,trial_x_0.385_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2222
+55,custom,trial_x_0.385_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2182
+56,custom,trial_x_0.385_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2143
+57,custom,trial_x_0.385_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2105
+58,custom,trial_x_0.385_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2069
+59,custom,trial_x_0.385_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2034
+60,custom,trial_x_0.385_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2000
+61,custom,trial_x_0.385_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1967
+62,custom,trial_x_0.385_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1935
+63,custom,trial_x_0.385_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1905
+64,custom,trial_x_0.385_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1875
+65,custom,trial_x_0.385_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1846
+66,custom,trial_x_0.385_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1818
+67,custom,trial_x_0.385_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1791
+68,custom,trial_x_0.385_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1765
+69,custom,trial_x_0.385_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1739
+70,custom,trial_x_0.385_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1714
+71,custom,trial_x_0.385_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1690
+72,custom,trial_x_0.385_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1667
+73,custom,trial_x_0.385_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1644
+74,custom,trial_x_0.385_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1622
+75,custom,trial_x_0.385_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1600
+76,custom,trial_x_0.385_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1579
+77,custom,trial_x_0.385_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1558
+78,custom,trial_x_0.385_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1538
+79,custom,trial_x_0.385_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1519
+80,custom,trial_x_0.385_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1500
+81,custom,trial_x_0.385_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1481
+82,custom,trial_x_0.385_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1463
+83,custom,trial_x_0.385_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1446
+84,custom,trial_x_0.385_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1429

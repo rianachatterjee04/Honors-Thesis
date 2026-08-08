@@ -1,0 +1,141 @@
+frame,object,confidence,depth_ft,used_vlm,direction,vlm_text,latency_ms
+1,person,0.263,29.48,1,none,[VLM ERROR],366.69
+2,bench,0.261,28.8,1,none,[VLM ERROR],270.42
+3,person,0.289,30.83,1,none,[VLM ERROR],240.35
+4,person,0.278,30.19,1,none,[VLM ERROR],255.58
+5,person,0.26,30.15,1,none,[VLM ERROR],229.99
+6,person,0.256,28.81,1,none,[VLM ERROR],234.51
+7,person,0.252,30.57,1,none,[VLM ERROR],231.58
+8,person,0.268,28.46,1,none,[VLM ERROR],223.27
+9,person,0.253,28.98,1,none,[VLM ERROR],225.6
+10,person,0.268,29.48,1,none,[VLM ERROR],225.06
+11,person,0.321,30.04,1,none,[VLM ERROR],228.37
+12,person,0.312,29.89,1,none,[VLM ERROR],228.46
+13,person,0.299,29.1,1,none,[VLM ERROR],239.24
+14,person,0.277,28.82,1,none,[VLM ERROR],230.51
+15,person,0.266,28.27,1,none,[VLM ERROR],231.3
+16,person,0.254,27.87,1,none,[VLM ERROR],239.4
+17,person,0.314,28.76,1,none,[VLM ERROR],227.25
+18,potted plant,0.29,19.39,1,none,[VLM ERROR],232.58
+19,potted plant,0.31,22.34,1,none,[VLM ERROR],225.16
+20,potted plant,0.356,20.7,1,none,[VLM ERROR],226.66
+21,bench,0.266,26.39,1,none,[VLM ERROR],229.44
+22,person,0.272,26.48,1,none,[VLM ERROR],229.35
+23,bench,0.286,24.09,1,none,[VLM ERROR],236.17
+24,person,0.262,26.83,1,none,[VLM ERROR],231.27
+25,person,0.32,27.6,1,none,[VLM ERROR],235.89
+26,person,0.306,28.17,1,none,[VLM ERROR],225.72
+27,person,0.254,27.88,1,none,[VLM ERROR],222.84
+28,person,0.31,27.59,1,none,[VLM ERROR],226.97
+29,person,0.309,26.69,1,none,[VLM ERROR],233.06
+30,person,0.259,26.91,1,none,[VLM ERROR],235.15
+31,person,0.26,26.82,1,none,[VLM ERROR],222.31
+32,person,0.254,27.62,1,none,[VLM ERROR],225.4
+33,bench,0.275,3.94,0,right,[FAST MODE - TOO CLOSE],220.27
+34,bench,0.27,24.74,1,none,[VLM ERROR],226.32
+35,bench,0.25,25.29,1,none,[VLM ERROR],236.05
+36,person,0.282,27.71,1,none,[VLM ERROR],228.05
+37,person,0.271,27.76,1,none,[VLM ERROR],236.85
+38,person,0.254,28.67,1,none,[VLM ERROR],229.56
+39,potted plant,0.261,16.8,1,none,[VLM ERROR],230.22
+40,person,0.271,28.19,1,none,[VLM ERROR],230.68
+41,person,0.304,26.44,1,none,[VLM ERROR],225.81
+42,person,0.271,26.12,1,none,[VLM ERROR],229.43
+43,bench,0.308,25.6,1,none,[VLM ERROR],232.37
+44,bench,0.306,24.75,1,none,[VLM ERROR],221.63
+45,person,0.269,25.02,1,none,[VLM ERROR],232.83
+46,person,0.378,27.21,1,none,[VLM ERROR],228.38
+47,person,0.251,25.98,1,none,[VLM ERROR],222.53
+48,clock,0.273,20.79,1,none,[VLM ERROR],231.55
+49,person,0.318,27.92,1,none,[VLM ERROR],225.77
+50,person,0.265,27.63,1,none,[VLM ERROR],225.85
+51,person,0.251,28.49,1,none,[VLM ERROR],234.22
+52,person,0.278,28.74,1,none,[VLM ERROR],249.54
+53,person,0.251,27.3,1,none,[VLM ERROR],259.13
+54,person,0.25,27.11,1,none,[VLM ERROR],251.9
+55,person,0.252,24.09,1,none,[VLM ERROR],262.61
+56,clock,0.461,20.95,0,right,[FAST MODE],268.83
+57,clock,0.375,21.62,1,none,[VLM ERROR],235.97
+58,bench,0.281,25.32,1,none,[VLM ERROR],243.25
+59,person,0.25,27.32,1,none,[VLM ERROR],232.05
+60,potted plant,0.502,27.75,0,right,[FAST MODE],217.3
+61,person,0.258,28.81,1,none,[VLM ERROR],225.25
+62,person,0.253,28.44,1,none,[VLM ERROR],225.24
+63,person,0.251,29.49,1,none,[VLM ERROR],232.97
+64,person,0.288,28.72,1,none,[VLM ERROR],226.91
+65,person,0.285,29.28,1,none,[VLM ERROR],229.06
+66,person,0.292,29.16,1,none,[VLM ERROR],226.87
+67,person,0.28,29.53,1,none,[VLM ERROR],241.01
+68,person,0.264,29.75,1,none,[VLM ERROR],225.77
+69,person,0.263,24.49,1,none,[VLM ERROR],239.47
+70,person,0.307,29.39,1,none,[VLM ERROR],245.28
+71,person,0.28,29.67,1,none,[VLM ERROR],247.07
+72,potted plant,0.255,28.9,1,none,[VLM ERROR],256.45
+73,person,0.322,29.68,1,none,[VLM ERROR],250.47
+74,person,0.3,26.94,1,none,[VLM ERROR],222.88
+75,person,0.268,29.14,1,none,[VLM ERROR],225.94
+76,person,0.261,27.33,1,none,[VLM ERROR],230.82
+77,person,0.257,29.41,1,none,[VLM ERROR],233.38
+78,potted plant,0.306,24.3,1,none,[VLM ERROR],228.02
+79,potted plant,0.357,23.94,1,none,[VLM ERROR],223.69
+80,person,0.253,29.48,1,none,[VLM ERROR],230.16
+81,person,0.295,28.28,1,none,[VLM ERROR],228.5
+82,person,0.269,28.89,1,none,[VLM ERROR],223.76
+83,clock,0.252,21.01,1,none,[VLM ERROR],234.64
+84,potted plant,0.34,23.65,1,none,[VLM ERROR],221.61
+85,potted plant,0.288,28.94,1,none,[VLM ERROR],230.68
+86,potted plant,0.29,29.01,1,none,[VLM ERROR],229.26
+87,potted plant,0.274,29.51,1,none,[VLM ERROR],221.1
+88,potted plant,0.252,29.84,1,none,[VLM ERROR],225.96
+89,person,0.272,27.4,1,none,[VLM ERROR],231.63
+90,person,0.27,27.82,1,none,[VLM ERROR],218.36
+91,person,0.406,28.42,0,left,[FAST MODE],220.04
+92,person,0.444,29.36,0,left,[FAST MODE],216.07
+93,potted plant,0.448,23.95,0,right,[FAST MODE],218.05
+94,potted plant,0.413,24.34,0,right,[FAST MODE],231.65
+95,person,0.314,29.02,1,none,[VLM ERROR],225.02
+96,person,0.263,26.99,1,none,[VLM ERROR],226.7
+97,person,0.328,28.27,1,none,[VLM ERROR],224.36
+98,person,0.385,28.57,1,none,[VLM ERROR],233.23
+99,potted plant,0.373,24.48,1,none,[VLM ERROR],222.78
+100,potted plant,0.373,23.87,1,none,[VLM ERROR],228.35
+101,potted plant,0.4,24.05,0,right,[FAST MODE],217.53
+102,person,0.291,26.67,1,none,[VLM ERROR],225.89
+103,potted plant,0.252,29.03,1,none,[VLM ERROR],230.77
+104,potted plant,0.279,29.35,1,none,[VLM ERROR],221.48
+105,potted plant,0.267,29.62,1,none,[VLM ERROR],221.68
+106,person,0.267,29.92,1,none,[VLM ERROR],232.34
+107,potted plant,0.275,29.48,1,none,[VLM ERROR],225.69
+108,potted plant,0.251,29.49,1,none,[VLM ERROR],226.49
+109,potted plant,0.325,26.04,1,none,[VLM ERROR],227.88
+110,potted plant,0.26,29.95,1,none,[VLM ERROR],221.25
+111,potted plant,0.257,29.93,1,none,[VLM ERROR],242.92
+112,potted plant,0.265,30.52,1,none,[VLM ERROR],246.59
+113,bench,0.282,27.91,1,none,[VLM ERROR],233.9
+114,potted plant,0.273,28.27,1,none,[VLM ERROR],250.14
+115,potted plant,0.263,28.63,1,none,[VLM ERROR],310.88
+116,potted plant,0.254,28.47,1,none,[VLM ERROR],309.87
+117,potted plant,0.268,29.61,1,none,[VLM ERROR],265.23
+118,potted plant,0.257,30.3,1,none,[VLM ERROR],263.39
+119,person,0.259,28.87,1,none,[VLM ERROR],250.82
+120,person,0.251,30.09,1,none,[VLM ERROR],247.01
+121,person,0.251,31.52,1,none,[VLM ERROR],241.94
+122,potted plant,0.26,29.43,1,none,[VLM ERROR],233.97
+123,potted plant,0.262,26.36,1,none,[VLM ERROR],239.35
+124,potted plant,0.262,29.67,1,none,[VLM ERROR],246.58
+125,potted plant,0.258,29.47,1,none,[VLM ERROR],254.47
+126,potted plant,0.26,29.24,1,none,[VLM ERROR],246.14
+127,potted plant,0.253,29.13,1,none,[VLM ERROR],250.98
+128,bench,0.279,16.33,1,none,[VLM ERROR],251.33
+129,potted plant,0.258,29.34,1,none,[VLM ERROR],252.88
+130,potted plant,0.268,25.8,1,none,[VLM ERROR],280.18
+131,potted plant,0.267,26.24,1,none,[VLM ERROR],262.76
+132,potted plant,0.365,29.47,1,none,[VLM ERROR],240.27
+133,potted plant,0.253,26.24,1,none,[VLM ERROR],255.12
+134,person,0.259,28.3,1,none,[VLM ERROR],249.04
+135,potted plant,0.27,26.19,1,none,[VLM ERROR],243.29
+136,potted plant,0.291,26.42,1,none,[VLM ERROR],222.55
+137,potted plant,0.256,29.77,1,none,[VLM ERROR],282.2
+138,potted plant,0.262,26.34,1,none,[VLM ERROR],260.48
+139,potted plant,0.258,26.12,1,none,[VLM ERROR],224.07
+140,potted plant,0.251,26.51,1,none,[VLM ERROR],238.11

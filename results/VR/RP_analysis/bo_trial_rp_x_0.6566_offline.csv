@@ -1,0 +1,98 @@
+frame_idx,source_env,source_file,yolo_max_conf,detected_classes,status,vlm_response,latency_ms,usage_ratio
+1,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+2,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+3,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+4,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+5,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+6,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+7,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+8,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+9,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+10,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+11,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+12,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+13,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+14,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+15,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+16,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+17,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+18,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+19,RP,trial_x_0.355.mp4,0.2723,tv,VLM_TRIGGERED,PENDING...,0,0.0000
+19,RP,trial_x_0.355.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too small and unclear to provide a detailed description or to identify any obstacles or hazards.,3103.6,0.0526
+20,RP,trial_x_0.355.mp4,0.4650,kite;tv,VLM_TRIGGERED,PENDING...,0,0.0500
+20,RP,trial_x_0.355.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too small and blurry to provide a detailed description or to identify obstacles and hazards.,3141.0,0.1000
+21,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0952
+22,RP,trial_x_0.355.mp4,0.4257,tv,VLM_TRIGGERED,PENDING...,0,0.0909
+22,RP,trial_x_0.355.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too small and blurry to provide a detailed description or to identify any obstacles or hazards.,3082.8,0.1364
+23,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1304
+24,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1250
+25,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1200
+26,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1154
+27,RP,trial_x_0.355.mp4,0.3089,car,VLM_TRIGGERED,PENDING...,0,0.1111
+27,RP,trial_x_0.355.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too small and unclear to provide a detailed description or to identify any obstacles or hazards.,3112.0,0.1481
+28,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1429
+29,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1379
+30,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1333
+31,RP,trial_x_0.355.mp4,0.6561,kite,VLM_TRIGGERED,PENDING...,0,0.1290
+31,RP,trial_x_0.355.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too blurred to identify any obstacles or hazards; as it lacks clear details and specific features that could indicate such elements.,3520.2,0.1613
+32,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1562
+33,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1515
+34,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1471
+35,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1429
+36,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1389
+37,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1351
+38,RP,trial_x_0.355.mp4,0.3344,airplane,VLM_TRIGGERED,PENDING...,0,0.1316
+38,RP,trial_x_0.355.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too small and blurry to provide a detailed description or to identify obstacles and hazards.,3078.8,0.1579
+39,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1538
+40,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1500
+41,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1463
+42,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1429
+43,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1395
+44,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1364
+45,RP,trial_x_0.355.mp4,0.2752,chair,VLM_TRIGGERED,PENDING...,0,0.1333
+45,RP,trial_x_0.355.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too small and blurry to provide a detailed description or to identify obstacles and hazards.,3059.6,0.1556
+46,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1522
+47,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1489
+48,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1458
+49,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1429
+50,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1400
+51,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1373
+52,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1346
+53,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1321
+54,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1296
+55,RP,trial_x_0.355.mp4,0.4632,airplane;kite,VLM_TRIGGERED,PENDING...,0,0.1273
+55,RP,trial_x_0.355.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too small and unclear to provide a detailed description or to identify any obstacles or hazards.,3193.5,0.1455
+56,RP,trial_x_0.355.mp4,0.4342,airplane;bird,VLM_TRIGGERED,PENDING...,0,0.1429
+56,RP,trial_x_0.355.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a room with a clear floor and a path leading to a corner. There are no visible obstacles or hazards in the immediate area that can be discerned from this perspective. The white haze is a camera effect and does not represent any real-world hazard.,4096.0,0.1607
+57,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1579
+58,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1552
+59,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1525
+60,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1500
+61,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1475
+62,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1452
+63,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1429
+64,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1406
+65,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1385
+66,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1364
+67,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1343
+68,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1324
+69,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1304
+70,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1286
+71,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1268
+72,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1250
+73,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1233
+74,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1216
+75,RP,trial_x_0.355.mp4,0.4071,suitcase,VLM_TRIGGERED,PENDING...,0,0.1200
+75,RP,trial_x_0.355.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too blurred to identify any obstacles or hazards; as it lacks clear details and specific features that could indicate such elements.,3232.9,0.1333
+76,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1316
+77,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1299
+78,RP,trial_x_0.355.mp4,0.3529,airplane,VLM_TRIGGERED,PENDING...,0,0.1282
+78,RP,trial_x_0.355.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too blurred to identify any obstacles or hazards; as it lacks clear details and specific features that could indicate such elements.,3262.0,0.1410
+79,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1392
+80,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1375
+81,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1358
+82,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1341
+83,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1325
+84,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1310
+85,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1294
+86,RP,trial_x_0.355.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1279

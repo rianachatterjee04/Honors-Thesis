@@ -1,0 +1,193 @@
+frame_idx,source_env,source_file,yolo_max_conf,status,vlm_response,latency_ms,usage_ratio
+1,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.0000
+2,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.0000
+3,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.0000
+4,computer_room_part_two,trial_x_0.8.mp4,0.3436,VLM_TRIGGERED,PENDING...,0,0.0000
+4,computer_room_part_two,trial_x_0.8.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include two orange traffic cones; which are placed at different distances from each other. The first cone is closer to the foreground; while the second one is further away. There is also a black blurry circle in the center of the image; but it is not an actual obstacle or hazard.,4830.3,0.2500
+5,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.2000
+6,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.1667
+7,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.1429
+8,computer_room_part_two,trial_x_0.8.mp4,0.2690,VLM_TRIGGERED,PENDING...,0,0.1250
+8,computer_room_part_two,trial_x_0.8.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include two orange traffic cones; which are placed at different distances from each other. The first cone is closer to the foreground; while the second one is further away. There is also a black blurry circle in the center of the image; but it is not an actual obstacle or hazard.,4115.9,0.2500
+9,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.2222
+10,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.2000
+11,computer_room_part_two,trial_x_0.8.mp4,0.2539,VLM_TRIGGERED,PENDING...,0,0.1818
+11,computer_room_part_two,trial_x_0.8.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include two orange traffic cones; which are placed at different distances from each other. The first cone is closer to the foreground; while the second one is further away. There is also a black blurry circle in the center of the image; but it is not an actual obstacle or hazard. The floor appears to be made of carpeting with a patterned design; and there are no visible signs of damage or debris that would indicate a hazardous condition.,5024.1,0.2727
+12,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.2500
+13,computer_room_part_two,trial_x_0.8.mp4,0.2525,VLM_TRIGGERED,PENDING...,0,0.2308
+13,computer_room_part_two,trial_x_0.8.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include two orange traffic cones; which are placed at different distances from each other. The first cone is closer to the foreground; while the second one is further away. There is also a black blurry circle in the center of the image; but it is not an actual obstacle or hazard.,4112.4,0.3077
+14,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.2857
+15,computer_room_part_two,trial_x_0.8.mp4,0.2681,VLM_TRIGGERED,PENDING...,0,0.2667
+15,computer_room_part_two,trial_x_0.8.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include two orange traffic cones; which are placed at different distances from each other. The first cone is closer to the foreground; while the second one is further away. There is also a black blurry circle in the center of the image; but it is not an actual obstacle or hazard.,4092.3,0.3333
+16,computer_room_part_two,trial_x_0.8.mp4,0.3079,VLM_TRIGGERED,PENDING...,0,0.3125
+16,computer_room_part_two,trial_x_0.8.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room are the two orange traffic cones; which are placed at different distances from each other. The first cone is closer to the foreground; while the second one is further away. There are no other visible hazards or obstructions on the floor that can be identified from this image.,4022.2,0.3750
+17,computer_room_part_two,trial_x_0.8.mp4,0.3466,VLM_TRIGGERED,PENDING...,0,0.3529
+17,computer_room_part_two,trial_x_0.8.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include two orange traffic cones; which are placed at different distances from each other. The first cone is closer to the foreground; while the second one is further away. There is also a black blurry circle in the center of the image; but it is not an actual obstacle or hazard.,4419.4,0.4118
+18,computer_room_part_two,trial_x_0.8.mp4,0.2647,VLM_TRIGGERED,PENDING...,0,0.3889
+18,computer_room_part_two,trial_x_0.8.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room are two orange traffic cones; one closer to the foreground and the other further back. The path appears to be a straight line leading towards these cones; with no visible hazards or obstructions on it.,4041.6,0.4444
+19,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.4211
+20,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.4000
+21,computer_room_part_two,trial_x_0.8.mp4,0.2632,VLM_TRIGGERED,PENDING...,0,0.3810
+21,computer_room_part_two,trial_x_0.8.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room are two orange traffic cones; which are placed on the floor. The first cone is positioned towards the left side of the image; while the second one is located more centrally but slightly to the right. These cones serve as hazards for pedestrians or vehicles entering the area.,4675.5,0.4286
+22,computer_room_part_two,trial_x_0.8.mp4,0.3194,VLM_TRIGGERED,PENDING...,0,0.4091
+22,computer_room_part_two,trial_x_0.8.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include two orange traffic cones; which are placed at different distances from each other. The first cone is closer to the foreground; while the second one is further away. There is also a black blurry circle in the center of the image; but it is not an actual obstacle or hazard.,4235.4,0.4545
+23,computer_room_part_two,trial_x_0.8.mp4,0.2648,VLM_TRIGGERED,PENDING...,0,0.4348
+23,computer_room_part_two,trial_x_0.8.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include two orange traffic cones; which are placed at different distances from each other. The first cone is closer to the foreground; while the second one is further away. There is also a black blurry circle in the center of the image; but it is not an actual obstacle or hazard.,4270.3,0.4783
+24,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.4583
+25,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.4400
+26,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.4231
+27,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.4074
+28,computer_room_part_two,trial_x_0.8.mp4,0.3165,VLM_TRIGGERED,PENDING...,0,0.3929
+28,computer_room_part_two,trial_x_0.8.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include two orange traffic cones; which are placed at different distances from each other. The first cone is closer to the foreground; while the second one is further away. There is also a black blurry circle in the center of the image; but it is not an actual obstacle or hazard.,4123.0,0.4286
+29,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.4138
+30,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.4000
+31,computer_room_part_two,trial_x_0.8.mp4,0.2999,VLM_TRIGGERED,PENDING...,0,0.3871
+31,computer_room_part_two,trial_x_0.8.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include two orange traffic cones; which are placed at different distances from each other. The first cone is closer to the foreground; while the second one is further away. There is also a black blurry circle in the center of the image; but it is not an actual obstacle or hazard.,4141.4,0.4194
+32,computer_room_part_two,trial_x_0.8.mp4,0.2822,VLM_TRIGGERED,PENDING...,0,0.4062
+32,computer_room_part_two,trial_x_0.8.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include two orange traffic cones; which are placed at different distances from each other. The first cone is closer to the foreground; while the second one is further away. There is also a black circular object on the floor that appears to be a shadow or an artifact; but it does not pose a hazard in this context.,4184.5,0.4375
+33,computer_room_part_two,trial_x_0.8.mp4,0.3850,VLM_TRIGGERED,PENDING...,0,0.4242
+33,computer_room_part_two,trial_x_0.8.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include two orange traffic cones; which are placed at different distances from each other. The first cone is closer to the foreground; while the second one is further away. There is also a black blurry circle in the center of the image; but it is not an actual obstacle or hazard.,4246.9,0.4545
+34,computer_room_part_two,trial_x_0.8.mp4,0.3222,VLM_TRIGGERED,PENDING...,0,0.4412
+34,computer_room_part_two,trial_x_0.8.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include two orange traffic cones; which are placed at different distances from each other. The first cone is closer to the foreground; while the second one is further away. There is also a black blurry circle in the center of the image; but it is not an actual obstacle or hazard.,4111.7,0.4706
+35,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.4571
+36,computer_room_part_two,trial_x_0.8.mp4,0.3463,VLM_TRIGGERED,PENDING...,0,0.4444
+36,computer_room_part_two,trial_x_0.8.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include two orange traffic cones; which are placed at different distances from each other. The first cone is closer to the foreground; while the second one is further away. There is also a black blurry circle in the center of the image; but it is not an actual obstacle or hazard.,4057.5,0.4722
+37,computer_room_part_two,trial_x_0.8.mp4,0.3988,VLM_TRIGGERED,PENDING...,0,0.4595
+37,computer_room_part_two,trial_x_0.8.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include two orange traffic cones; which are positioned at different distances from each other. The first cone is closer to the foreground; while the second one is further away. There is also a black circular object on the floor that appears to be a shadow or an artifact; but it does not pose a hazard in this context.,4238.9,0.4865
+38,computer_room_part_two,trial_x_0.8.mp4,0.3260,VLM_TRIGGERED,PENDING...,0,0.4737
+38,computer_room_part_two,trial_x_0.8.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include two orange traffic cones; which are placed at different distances from each other. The first cone is closer to the foreground; while the second one is further away. There is also a black circular object on the floor that appears to be a shadow or an artifact; but it does not pose a hazard in this context.,4202.3,0.5000
+39,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.4872
+40,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.4750
+41,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.4634
+42,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.4524
+43,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.4419
+44,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.4318
+45,computer_room_part_two,trial_x_0.8.mp4,0.2578,VLM_TRIGGERED,PENDING...,0,0.4222
+45,computer_room_part_two,trial_x_0.8.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include two orange traffic cones; which are placed at different distances from each other. The first cone is closer to the foreground; while the second one is further away. There is also a black blurry circle in the center of the image; but it is not an actual obstacle or hazard. The floor appears to be made of carpeting with a pattern that includes various shades of gray and blue.,4588.8,0.4444
+46,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.4348
+47,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.4255
+48,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.4167
+49,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.4082
+50,computer_room_part_two,trial_x_0.8.mp4,0.4288,VLM_TRIGGERED,PENDING...,0,0.4000
+50,computer_room_part_two,trial_x_0.8.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include several orange traffic cones; which are placed at various points across the floor. These cones serve as hazards for pedestrians or vehicles; indicating a restricted area or an ongoing construction zone. The clear areas of the image show a gray carpeted floor with no other significant obstructions visible.,4378.2,0.4200
+51,computer_room_part_two,trial_x_0.8.mp4,0.2680,VLM_TRIGGERED,PENDING...,0,0.4118
+51,computer_room_part_two,trial_x_0.8.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include two orange traffic cones; which are placed at different distances from each other. The first cone is closer to the foreground; while the second one is further away. There is also a black blurry circle in the center of the image; but it is not an actual obstacle or hazard.,4115.9,0.4314
+52,computer_room_part_two,trial_x_0.8.mp4,0.2788,VLM_TRIGGERED,PENDING...,0,0.4231
+52,computer_room_part_two,trial_x_0.8.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include two orange traffic cones; which are placed at different distances from each other. The first cone is closer to the foreground; while the second one is further away. There is also a black blurry circle in the center of the image; but it is not an actual obstacle or hazard.,4288.0,0.4423
+53,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.4340
+54,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.4259
+55,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.4182
+56,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.4107
+57,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.4035
+58,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.3966
+59,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.3898
+60,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.3833
+61,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.3770
+62,computer_room_part_two,trial_x_0.8.mp4,0.3198,VLM_TRIGGERED,PENDING...,0,0.3710
+62,computer_room_part_two,trial_x_0.8.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include two orange traffic cones; which are placed at different distances from each other. The first cone is closer to the foreground; while the second one is further away. There is also a black blurry circle in the center of the image; but it is not an actual obstacle or hazard.,4382.2,0.3871
+63,computer_room_part_two,trial_x_0.8.mp4,0.3321,VLM_TRIGGERED,PENDING...,0,0.3810
+63,computer_room_part_two,trial_x_0.8.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include two orange traffic cones; which are placed at different distances from each other. The first cone is closer to the foreground; while the second one is further away. There is also a black blurry circle in the center of the image; but it is not an actual obstacle or hazard.,4187.5,0.3968
+64,computer_room_part_two,trial_x_0.8.mp4,0.3426,VLM_TRIGGERED,PENDING...,0,0.3906
+64,computer_room_part_two,trial_x_0.8.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include two orange traffic cones; which are placed at different distances from each other. The first cone is closer to the foreground; while the second one is further away. There is also a black blurry circle in the center of the image; but it is not an actual obstacle or hazard.,4153.5,0.4062
+65,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.4000
+66,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.3939
+67,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.3881
+68,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.3824
+69,computer_room_part_two,trial_x_0.8.mp4,0.2797,VLM_TRIGGERED,PENDING...,0,0.3768
+69,computer_room_part_two,trial_x_0.8.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include two orange traffic cones; which are placed at different distances from each other. The first cone is closer to the foreground; while the second one is further away. There is also a black blurry circle in the center of the image; but it is not an actual obstacle or hazard.,4157.9,0.3913
+70,computer_room_part_two,trial_x_0.8.mp4,0.2731,VLM_TRIGGERED,PENDING...,0,0.3857
+70,computer_room_part_two,trial_x_0.8.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include two orange traffic cones; which are placed at different distances from each other. The first cone is closer to the foreground; while the second one is further away. There is also a black blurry circle in the center of the image; but it is not an actual obstacle or hazard. The floor appears to be made of carpeting with a pattern that includes various shades of gray and blue.,4702.9,0.4000
+71,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.3944
+72,computer_room_part_two,trial_x_0.8.mp4,0.2786,VLM_TRIGGERED,PENDING...,0,0.3889
+72,computer_room_part_two,trial_x_0.8.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include two orange traffic cones; which are placed at different distances from each other. The first cone is closer to the foreground; while the second one is further away. There is also a black blurry circle in the center of the image; but it is not an actual obstacle or hazard. The floor appears to be made of carpeted material with a patterned design; and there are no visible obstacles or hazards other than the cones themselves.,4898.7,0.4028
+73,computer_room_part_two,trial_x_0.8.mp4,0.3168,VLM_TRIGGERED,PENDING...,0,0.3973
+73,computer_room_part_two,trial_x_0.8.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include two orange traffic cones; which are placed at different distances from each other. The first cone is closer to the foreground; while the second one is further away. There is also a black blurry circle in the center of the image; but it is not an actual obstacle or hazard.,4221.9,0.4110
+74,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.4054
+75,computer_room_part_two,trial_x_0.8.mp4,0.2508,VLM_TRIGGERED,PENDING...,0,0.4000
+75,computer_room_part_two,trial_x_0.8.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include two orange traffic cones; which are placed at different distances from each other. The first cone is closer to the foreground; while the second one is further away. There is also a black blurry circle in the center of the image; but it is not an actual obstacle or hazard.,4835.7,0.4133
+76,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.4079
+77,computer_room_part_two,trial_x_0.8.mp4,0.2531,VLM_TRIGGERED,PENDING...,0,0.4026
+77,computer_room_part_two,trial_x_0.8.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include two orange traffic cones; which are placed at different distances from each other. The first cone is closer to the foreground; while the second one is further away. There is also a black blurry circle in the center of the image; but it is not an actual obstacle or hazard. The floor appears to be made of carpeting with a textured pattern; and there are no visible signs of damage or debris that would indicate a hazardous condition.,5353.4,0.4156
+78,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.4103
+79,computer_room_part_two,trial_x_0.8.mp4,0.3547,VLM_TRIGGERED,PENDING...,0,0.4051
+79,computer_room_part_two,trial_x_0.8.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include two orange traffic cones; which are placed at different distances from each other. The first cone is closer to the foreground; while the second one is further away. There is also a black blurry circle in the center of the image; but it is not an actual obstacle or hazard.,4391.2,0.4177
+80,computer_room_part_two,trial_x_0.8.mp4,0.2853,VLM_TRIGGERED,PENDING...,0,0.4125
+80,computer_room_part_two,trial_x_0.8.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include two orange traffic cones; which are placed at different distances from each other. The first cone is closer to the foreground; while the second one is further away. There is also a black blurry circle in the center of the image; but it is not an actual obstacle or hazard.,4289.9,0.4250
+81,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.4198
+82,computer_room_part_two,trial_x_0.8.mp4,0.3131,VLM_TRIGGERED,PENDING...,0,0.4146
+82,computer_room_part_two,trial_x_0.8.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include two orange traffic cones; which are placed at different distances from each other. The first cone is closer to the foreground; while the second one is further away. There is also a black blurry circle in the center of the image; but it is not an actual obstacle or hazard.,4424.1,0.4268
+83,computer_room_part_two,trial_x_0.8.mp4,0.2582,VLM_TRIGGERED,PENDING...,0,0.4217
+83,computer_room_part_two,trial_x_0.8.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include two orange traffic cones; which are placed at different distances from each other. The first cone is closer to the foreground; while the second one is further away. There is also a black blurry circle in the center of the image; but it is not an actual obstacle or hazard.,4243.7,0.4337
+84,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.4286
+85,computer_room_part_two,trial_x_0.8.mp4,0.2520,VLM_TRIGGERED,PENDING...,0,0.4235
+85,computer_room_part_two,trial_x_0.8.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include two orange traffic cones; which are placed at different distances from each other. The first cone is closer to the foreground; while the second one is further away. There is also a black blurry circle in the center of the image; but it is not an actual obstacle or hazard.,4409.7,0.4353
+86,computer_room_part_two,trial_x_0.8.mp4,0.2572,VLM_TRIGGERED,PENDING...,0,0.4302
+86,computer_room_part_two,trial_x_0.8.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include two orange traffic cones; which are placed at different distances from each other. The first cone is closer to the foreground; while the second one is further away. There is also a black blurry circle in the center of the image; but it is not an actual obstacle or hazard.,4078.2,0.4419
+87,computer_room_part_two,trial_x_0.8.mp4,0.2707,VLM_TRIGGERED,PENDING...,0,0.4368
+87,computer_room_part_two,trial_x_0.8.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include two orange traffic cones; which are placed at different distances from each other. The first cone is closer to the foreground; while the second one is further away. There is also a black blurry circle in the center of the image; but it is not an actual obstacle or hazard; instead; it appears to be a simulation of Age-Related Macular Degeneration.,4491.4,0.4483
+88,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.4432
+89,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.4382
+90,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.4333
+91,computer_room_part_two,trial_x_0.8.mp4,0.2623,VLM_TRIGGERED,PENDING...,0,0.4286
+91,computer_room_part_two,trial_x_0.8.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include two orange traffic cones; which are placed at different distances from each other. The first cone is closer to the foreground; while the second one is further away. There is also a black blurry circle in the center of the image; but it is not an actual obstacle or hazard.,4049.5,0.4396
+92,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.4348
+93,computer_room_part_two,trial_x_0.8.mp4,0.2935,VLM_TRIGGERED,PENDING...,0,0.4301
+93,computer_room_part_two,trial_x_0.8.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include two orange traffic cones; which are placed at different distances from each other. The first cone is closer to the foreground; while the second one is further away. There is also a black blurry circle in the center of the image; but it is not an actual obstacle or hazard; instead; it appears to be a simulation of Age-Related Macular Degeneration.,4454.5,0.4409
+94,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.4362
+95,computer_room_part_two,trial_x_0.8.mp4,0.4085,VLM_TRIGGERED,PENDING...,0,0.4316
+95,computer_room_part_two,trial_x_0.8.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include two orange traffic cones; which are positioned at different distances from each other. The first cone is closer to the foreground; while the second one is further away. There's also a black blurry circle in the center of the image that appears to be an Age-Related Macular Degeneration simulation; but it should not be considered as an actual obstacle or hazard.,4461.0,0.4421
+96,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.4375
+97,computer_room_part_two,trial_x_0.8.mp4,0.2504,VLM_TRIGGERED,PENDING...,0,0.4330
+97,computer_room_part_two,trial_x_0.8.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include two orange traffic cones; which are placed at different distances from each other. The first cone is closer to the foreground; while the second one is further away. There is also a black blurry circle in the center of the image; but it is not an actual obstacle or hazard.,4105.7,0.4433
+98,computer_room_part_two,trial_x_0.8.mp4,0.2606,VLM_TRIGGERED,PENDING...,0,0.4388
+98,computer_room_part_two,trial_x_0.8.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include two orange traffic cones; which are placed at different distances from each other. The first cone is closer to the foreground; while the second one is further away. There is also a black blurry circle in the center of the image; but it is not an actual obstacle or hazard.,4077.7,0.4490
+99,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.4444
+100,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.4400
+101,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.4356
+102,computer_room_part_two,trial_x_0.8.mp4,0.2658,VLM_TRIGGERED,PENDING...,0,0.4314
+102,computer_room_part_two,trial_x_0.8.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include two orange traffic cones; which are placed at different distances from each other. The first cone is closer to the foreground; while the second one is further away. There is also a black blurry circle in the center of the image; but it is not an actual obstacle or hazard.,4530.4,0.4412
+103,computer_room_part_two,trial_x_0.8.mp4,0.3225,VLM_TRIGGERED,PENDING...,0,0.4369
+103,computer_room_part_two,trial_x_0.8.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include two orange traffic cones; which are placed at different distances from each other. The first cone is closer to the foreground; while the second one is further away. There is also a black circular object on the floor that appears to be an Age-Related Macular Degeneration simulation; but it should not be ignored as it may represent a hazard in this context.,5769.5,0.4466
+104,computer_room_part_two,trial_x_0.8.mp4,0.3161,VLM_TRIGGERED,PENDING...,0,0.4423
+104,computer_room_part_two,trial_x_0.8.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include two orange traffic cones; which are placed at different distances from each other. The first cone is closer to the foreground; while the second one is further away. There is also a shadow cast by the cones on the floor; indicating that there is a light source above and possibly to the left of the scene. No other hazards or obstacles are immediately visible in this image.,5047.4,0.4519
+105,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.4476
+106,computer_room_part_two,trial_x_0.8.mp4,0.2589,VLM_TRIGGERED,PENDING...,0,0.4434
+106,computer_room_part_two,trial_x_0.8.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include two orange traffic cones; which are placed at different distances from each other. The first cone is closer to the foreground; while the second one is further away. There is also a black circular object on the floor that appears to be a shadow or an artifact; but it does not pose a hazard in this context.,4775.9,0.4528
+107,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.4486
+108,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.4444
+109,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.4404
+110,computer_room_part_two,trial_x_0.8.mp4,0.2777,VLM_TRIGGERED,PENDING...,0,0.4364
+110,computer_room_part_two,trial_x_0.8.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include two orange traffic cones; which are placed at different distances from each other. The first cone is closer to the foreground; while the second one is further away. There is also a black blurry circle in the center of the image; but it is not an actual obstacle or hazard.,4274.6,0.4455
+111,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.4414
+112,computer_room_part_two,trial_x_0.8.mp4,0.2783,VLM_TRIGGERED,PENDING...,0,0.4375
+112,computer_room_part_two,trial_x_0.8.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include two orange traffic cones; which are placed at different distances from each other. The first cone is closer to the foreground; while the second one is further away. There is also a black blurry circle in the center of the image; but it is not an actual obstacle or hazard.,5017.3,0.4464
+113,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.4425
+114,computer_room_part_two,trial_x_0.8.mp4,0.3441,VLM_TRIGGERED,PENDING...,0,0.4386
+114,computer_room_part_two,trial_x_0.8.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include two orange traffic cones; which are placed at different distances from each other. The first cone is closer to the foreground; while the second one is further away. There is also a black blurry circle in the center of the image; but it is not an actual obstacle or hazard. The floor appears to be made of carpeting with a textured pattern; and there are no visible signs of damage or debris that would indicate a fire hazard.,5975.2,0.4474
+115,computer_room_part_two,trial_x_0.8.mp4,0.3327,VLM_TRIGGERED,PENDING...,0,0.4435
+115,computer_room_part_two,trial_x_0.8.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include two orange traffic cones; which are placed at different distances from each other. The first cone is closer to the foreground; while the second one is further away. There is also a black blurry circle in the center of the image; but it is not an actual obstacle or hazard.,5321.7,0.4522
+116,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.4483
+117,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.4444
+118,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.4407
+119,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.4370
+120,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.4333
+121,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.4298
+122,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.4262
+123,computer_room_part_two,trial_x_0.8.mp4,0.3922,VLM_TRIGGERED,PENDING...,0,0.4228
+123,computer_room_part_two,trial_x_0.8.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include two orange traffic cones; which are placed at different distances from each other. The first cone is closer to the foreground; while the second one is further away. There is also a black blurry circle in the center of the image; but it is not an actual obstacle or hazard.,4395.4,0.4309
+124,computer_room_part_two,trial_x_0.8.mp4,0.2782,VLM_TRIGGERED,PENDING...,0,0.4274
+124,computer_room_part_two,trial_x_0.8.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include two orange traffic cones; which are placed at different distances from each other. The first cone is closer to the foreground; while the second one is further away. There is also a black blurry circle in the center of the image; but it is not an actual obstacle or hazard.,4377.0,0.4355
+125,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.4320
+126,computer_room_part_two,trial_x_0.8.mp4,0.3614,VLM_TRIGGERED,PENDING...,0,0.4286
+126,computer_room_part_two,trial_x_0.8.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include two orange traffic cones; which are placed at different distances from each other. The first cone is closer to the foreground; while the second one is further away. There is also a black blurry circle in the center of the image; but it is not an actual obstacle or hazard.,4130.1,0.4365
+127,computer_room_part_two,trial_x_0.8.mp4,0.3635,VLM_TRIGGERED,PENDING...,0,0.4331
+127,computer_room_part_two,trial_x_0.8.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include two orange traffic cones; which are placed at different distances from each other. The first cone is closer to the foreground; while the second one is further away. There is also a black circular object on the floor that appears to be a shadow or an artifact; but it does not pose a hazard in this context.,4366.6,0.4409
+128,computer_room_part_two,trial_x_0.8.mp4,0.3013,VLM_TRIGGERED,PENDING...,0,0.4375
+128,computer_room_part_two,trial_x_0.8.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include two orange traffic cones; which are placed at different distances from each other. The first cone is closer to the foreground; while the second one is further away. There is also a black circular object on the floor that appears to be a shadow or an artifact; but it does not pose a hazard in this context.,4244.1,0.4453
+129,computer_room_part_two,trial_x_0.8.mp4,0.0000,YOLO_ONLY,N/A,0,0.4419
+130,computer_room_part_two,trial_x_0.8.mp4,0.3959,VLM_TRIGGERED,PENDING...,0,0.4385
+130,computer_room_part_two,trial_x_0.8.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include two orange traffic cones; which are placed at different distances from each other. The first cone is closer to the foreground; while the second one is further away. There is also a black blurry circle in the center of the image; but it is not an actual obstacle or hazard.,4065.4,0.4462
+131,computer_room_part_two,trial_x_0.8.mp4,0.3243,VLM_TRIGGERED,PENDING...,0,0.4427
+131,computer_room_part_two,trial_x_0.8.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include two orange traffic cones; which are placed at different distances from each other. The first cone is closer to the foreground; while the second one is further away. There is also a black blurry circle in the center of the image; but it is not an actual obstacle or hazard.,4106.8,0.4504
+132,computer_room_part_two,trial_x_0.8.mp4,0.3088,VLM_TRIGGERED,PENDING...,0,0.4470
+132,computer_room_part_two,trial_x_0.8.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room are the two orange traffic cones; which are placed at different distances from each other. The first cone is closer to the foreground; while the second one is further away. There are no other visible hazards or obstructions on the floor that can be identified from this image.,4014.1,0.4545

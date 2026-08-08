@@ -1,0 +1,102 @@
+frame_idx,source_env,source_file,yolo_max_conf,status,vlm_response,latency_ms,usage_ratio
+1,robot_room_first_trial,trial_x_0.2.mp4,0.4245,YOLO_ONLY,N/A,0,0.0000
+2,robot_room_first_trial,trial_x_0.2.mp4,0.8489,YOLO_ONLY,N/A,0,0.0000
+3,robot_room_first_trial,trial_x_0.2.mp4,0.7746,YOLO_ONLY,N/A,0,0.0000
+4,robot_room_first_trial,trial_x_0.2.mp4,0.8431,YOLO_ONLY,N/A,0,0.0000
+5,robot_room_first_trial,trial_x_0.2.mp4,0.3150,VLM_TRIGGERED,PENDING...,0,0.0000
+5,robot_room_first_trial,trial_x_0.2.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles visible in the image are two orange traffic cones placed on the floor; which serve as markers or guides within the room. The path appears to be a straight line leading towards the cones; suggesting that it is a designated route for movement. There are no other clear hazards or obstructions discernible from this angle and resolution of the image.,4314.4,0.2000
+6,robot_room_first_trial,trial_x_0.2.mp4,0.0000,YOLO_ONLY,N/A,0,0.1667
+7,robot_room_first_trial,trial_x_0.2.mp4,0.5276,YOLO_ONLY,N/A,0,0.1429
+8,robot_room_first_trial,trial_x_0.2.mp4,0.3863,YOLO_ONLY,N/A,0,0.1250
+9,robot_room_first_trial,trial_x_0.2.mp4,0.0000,YOLO_ONLY,N/A,0,0.1111
+10,robot_room_first_trial,trial_x_0.2.mp4,0.6648,YOLO_ONLY,N/A,0,0.1000
+11,robot_room_first_trial,trial_x_0.2.mp4,0.4767,YOLO_ONLY,N/A,0,0.0909
+12,robot_room_first_trial,trial_x_0.2.mp4,0.6909,YOLO_ONLY,N/A,0,0.0833
+13,robot_room_first_trial,trial_x_0.2.mp4,0.3052,VLM_TRIGGERED,PENDING...,0,0.0769
+13,robot_room_first_trial,trial_x_0.2.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include an orange traffic cone; which is placed on the floor; and a black object that appears to be a piece of furniture or equipment. The path seems to be clear except for these items.,3639.4,0.1538
+14,robot_room_first_trial,trial_x_0.2.mp4,0.2900,VLM_TRIGGERED,PENDING...,0,0.1429
+14,robot_room_first_trial,trial_x_0.2.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles and hazards in the room include the orange traffic cone; which is placed on the floor; and the blurred figure that appears to be a person or object moving through the space. The clear areas of the image show a tiled floor with no immediate obstructions visible.,3944.6,0.2143
+15,robot_room_first_trial,trial_x_0.2.mp4,0.0000,YOLO_ONLY,N/A,0,0.2000
+16,robot_room_first_trial,trial_x_0.2.mp4,0.4400,YOLO_ONLY,N/A,0,0.1875
+17,robot_room_first_trial,trial_x_0.2.mp4,0.7541,YOLO_ONLY,N/A,0,0.1765
+18,robot_room_first_trial,trial_x_0.2.mp4,0.4527,YOLO_ONLY,N/A,0,0.1667
+19,robot_room_first_trial,trial_x_0.2.mp4,0.0000,YOLO_ONLY,N/A,0,0.1579
+20,robot_room_first_trial,trial_x_0.2.mp4,0.6758,YOLO_ONLY,N/A,0,0.1500
+21,robot_room_first_trial,trial_x_0.2.mp4,0.4237,YOLO_ONLY,N/A,0,0.1429
+22,robot_room_first_trial,trial_x_0.2.mp4,0.0000,YOLO_ONLY,N/A,0,0.1364
+23,robot_room_first_trial,trial_x_0.2.mp4,0.2841,VLM_TRIGGERED,PENDING...,0,0.1304
+23,robot_room_first_trial,trial_x_0.2.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows an orange traffic cone with a green border; indicating that it is likely a hazard or obstacle within the room. The cone is placed on what appears to be a dark carpeted floor; which could pose a tripping hazard for individuals walking through the area. There are no clear signs of other obstacles such as furniture or debris in the immediate vicinity of the cone that can be seen from this angle. The focus should be on the path leading to and around the cone; which is not clearly visible due to the blurriness of the image.,5440.6,0.1739
+24,robot_room_first_trial,trial_x_0.2.mp4,0.4788,YOLO_ONLY,N/A,0,0.1667
+25,robot_room_first_trial,trial_x_0.2.mp4,0.5320,YOLO_ONLY,N/A,0,0.1600
+26,robot_room_first_trial,trial_x_0.2.mp4,0.0000,YOLO_ONLY,N/A,0,0.1538
+27,robot_room_first_trial,trial_x_0.2.mp4,0.0000,YOLO_ONLY,N/A,0,0.1481
+28,robot_room_first_trial,trial_x_0.2.mp4,0.0000,YOLO_ONLY,N/A,0,0.1429
+29,robot_room_first_trial,trial_x_0.2.mp4,0.0000,YOLO_ONLY,N/A,0,0.1379
+30,robot_room_first_trial,trial_x_0.2.mp4,0.0000,YOLO_ONLY,N/A,0,0.1333
+31,robot_room_first_trial,trial_x_0.2.mp4,0.0000,YOLO_ONLY,N/A,0,0.1290
+32,robot_room_first_trial,trial_x_0.2.mp4,0.0000,YOLO_ONLY,N/A,0,0.1250
+33,robot_room_first_trial,trial_x_0.2.mp4,0.0000,YOLO_ONLY,N/A,0,0.1212
+34,robot_room_first_trial,trial_x_0.2.mp4,0.2993,VLM_TRIGGERED,PENDING...,0,0.1176
+34,robot_room_first_trial,trial_x_0.2.mp4,N/A,VLM_RESPONSE_RECEIVED,The image provided does not allow for an accurate description due to its low resolution and lack of visible details. To identify obstacles and hazards; a clearer image would be necessary where such features can be discerned. In this case; I am unable to provide a detailed answer as the image content is too indistinct to make out any specific elements or potential hazards within it.,4402.6,0.1471
+35,robot_room_first_trial,trial_x_0.2.mp4,0.0000,YOLO_ONLY,N/A,0,0.1429
+36,robot_room_first_trial,trial_x_0.2.mp4,0.0000,YOLO_ONLY,N/A,0,0.1389
+37,robot_room_first_trial,trial_x_0.2.mp4,0.0000,YOLO_ONLY,N/A,0,0.1351
+38,robot_room_first_trial,trial_x_0.2.mp4,0.0000,YOLO_ONLY,N/A,0,0.1316
+39,robot_room_first_trial,trial_x_0.2.mp4,0.0000,YOLO_ONLY,N/A,0,0.1282
+40,robot_room_first_trial,trial_x_0.2.mp4,0.2908,VLM_TRIGGERED,PENDING...,0,0.1250
+40,robot_room_first_trial,trial_x_0.2.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles and hazards in the room include the black blurry circle; which appears to be a simulated representation of Age-Related Macular Degeneration; and the white object that could be a piece of furniture or equipment. The floor is not clearly visible due to the blurriness; but it seems to have a patterned carpet. There are no other discernible hazards in the image provided.,4574.3,0.1500
+41,robot_room_first_trial,trial_x_0.2.mp4,0.4911,YOLO_ONLY,N/A,0,0.1463
+42,robot_room_first_trial,trial_x_0.2.mp4,0.0000,YOLO_ONLY,N/A,0,0.1429
+43,robot_room_first_trial,trial_x_0.2.mp4,0.0000,YOLO_ONLY,N/A,0,0.1395
+44,robot_room_first_trial,trial_x_0.2.mp4,0.4181,YOLO_ONLY,N/A,0,0.1364
+45,robot_room_first_trial,trial_x_0.2.mp4,0.0000,YOLO_ONLY,N/A,0,0.1333
+46,robot_room_first_trial,trial_x_0.2.mp4,0.3461,YOLO_ONLY,N/A,0,0.1304
+47,robot_room_first_trial,trial_x_0.2.mp4,0.3640,YOLO_ONLY,N/A,0,0.1277
+48,robot_room_first_trial,trial_x_0.2.mp4,0.5610,YOLO_ONLY,N/A,0,0.1250
+49,robot_room_first_trial,trial_x_0.2.mp4,0.0000,YOLO_ONLY,N/A,0,0.1224
+50,robot_room_first_trial,trial_x_0.2.mp4,0.0000,YOLO_ONLY,N/A,0,0.1200
+51,robot_room_first_trial,trial_x_0.2.mp4,0.0000,YOLO_ONLY,N/A,0,0.1176
+52,robot_room_first_trial,trial_x_0.2.mp4,0.0000,YOLO_ONLY,N/A,0,0.1154
+53,robot_room_first_trial,trial_x_0.2.mp4,0.0000,YOLO_ONLY,N/A,0,0.1132
+54,robot_room_first_trial,trial_x_0.2.mp4,0.0000,YOLO_ONLY,N/A,0,0.1111
+55,robot_room_first_trial,trial_x_0.2.mp4,0.0000,YOLO_ONLY,N/A,0,0.1091
+56,robot_room_first_trial,trial_x_0.2.mp4,0.0000,YOLO_ONLY,N/A,0,0.1071
+57,robot_room_first_trial,trial_x_0.2.mp4,0.0000,YOLO_ONLY,N/A,0,0.1053
+58,robot_room_first_trial,trial_x_0.2.mp4,0.0000,YOLO_ONLY,N/A,0,0.1034
+59,robot_room_first_trial,trial_x_0.2.mp4,0.0000,YOLO_ONLY,N/A,0,0.1017
+60,robot_room_first_trial,trial_x_0.2.mp4,0.0000,YOLO_ONLY,N/A,0,0.1000
+61,robot_room_first_trial,trial_x_0.2.mp4,0.0000,YOLO_ONLY,N/A,0,0.0984
+62,robot_room_first_trial,trial_x_0.2.mp4,0.0000,YOLO_ONLY,N/A,0,0.0968
+63,robot_room_first_trial,trial_x_0.2.mp4,0.0000,YOLO_ONLY,N/A,0,0.0952
+64,robot_room_first_trial,trial_x_0.2.mp4,0.0000,YOLO_ONLY,N/A,0,0.0938
+65,robot_room_first_trial,trial_x_0.2.mp4,0.0000,YOLO_ONLY,N/A,0,0.0923
+66,robot_room_first_trial,trial_x_0.2.mp4,0.0000,YOLO_ONLY,N/A,0,0.0909
+67,robot_room_first_trial,trial_x_0.2.mp4,0.0000,YOLO_ONLY,N/A,0,0.0896
+68,robot_room_first_trial,trial_x_0.2.mp4,0.0000,YOLO_ONLY,N/A,0,0.0882
+69,robot_room_first_trial,trial_x_0.2.mp4,0.3452,YOLO_ONLY,N/A,0,0.0870
+70,robot_room_first_trial,trial_x_0.2.mp4,0.0000,YOLO_ONLY,N/A,0,0.0857
+71,robot_room_first_trial,trial_x_0.2.mp4,0.0000,YOLO_ONLY,N/A,0,0.0845
+72,robot_room_first_trial,trial_x_0.2.mp4,0.0000,YOLO_ONLY,N/A,0,0.0833
+73,robot_room_first_trial,trial_x_0.2.mp4,0.0000,YOLO_ONLY,N/A,0,0.0822
+74,robot_room_first_trial,trial_x_0.2.mp4,0.0000,YOLO_ONLY,N/A,0,0.0811
+75,robot_room_first_trial,trial_x_0.2.mp4,0.0000,YOLO_ONLY,N/A,0,0.0800
+76,robot_room_first_trial,trial_x_0.2.mp4,0.0000,YOLO_ONLY,N/A,0,0.0789
+77,robot_room_first_trial,trial_x_0.2.mp4,0.0000,YOLO_ONLY,N/A,0,0.0779
+78,robot_room_first_trial,trial_x_0.2.mp4,0.0000,YOLO_ONLY,N/A,0,0.0769
+79,robot_room_first_trial,trial_x_0.2.mp4,0.0000,YOLO_ONLY,N/A,0,0.0759
+80,robot_room_first_trial,trial_x_0.2.mp4,0.0000,YOLO_ONLY,N/A,0,0.0750
+81,robot_room_first_trial,trial_x_0.2.mp4,0.0000,YOLO_ONLY,N/A,0,0.0741
+82,robot_room_first_trial,trial_x_0.2.mp4,0.0000,YOLO_ONLY,N/A,0,0.0732
+83,robot_room_first_trial,trial_x_0.2.mp4,0.2890,VLM_TRIGGERED,PENDING...,0,0.0723
+83,robot_room_first_trial,trial_x_0.2.mp4,N/A,VLM_RESPONSE_RECEIVED,The image provided does not allow for an accurate description due to its low resolution and lack of visible details. To identify obstacles and hazards; a clearer image would be necessary where the floor and path are discernible. In this case; it is recommended to obtain a higher-resolution image or provide additional context to accurately describe any potential obstacles or hazards in the room.,4560.1,0.0843
+84,robot_room_first_trial,trial_x_0.2.mp4,0.3369,VLM_TRIGGERED,PENDING...,0,0.0833
+84,robot_room_first_trial,trial_x_0.2.mp4,N/A,VLM_RESPONSE_RECEIVED,The image provided does not allow for an accurate description due to its low resolution and lack of visible details. To identify obstacles and hazards; a clearer image would be necessary where such features can be discerned.,3743.5,0.0952
+85,robot_room_first_trial,trial_x_0.2.mp4,0.4091,YOLO_ONLY,N/A,0,0.0941
+86,robot_room_first_trial,trial_x_0.2.mp4,0.3731,YOLO_ONLY,N/A,0,0.0930
+87,robot_room_first_trial,trial_x_0.2.mp4,0.0000,YOLO_ONLY,N/A,0,0.0920
+88,robot_room_first_trial,trial_x_0.2.mp4,0.0000,YOLO_ONLY,N/A,0,0.0909
+89,robot_room_first_trial,trial_x_0.2.mp4,0.3881,YOLO_ONLY,N/A,0,0.0899
+90,robot_room_first_trial,trial_x_0.2.mp4,0.3017,VLM_TRIGGERED,PENDING...,0,0.0889
+90,robot_room_first_trial,trial_x_0.2.mp4,N/A,VLM_RESPONSE_RECEIVED,The image provided does not allow for an accurate description due to its low resolution and lack of visible details. To identify obstacles and hazards; a clearer image would be necessary where the floor and path are discernible. In this case; it is recommended to obtain a higher-resolution image or provide additional context to accurately describe any potential obstacles or hazards in the room.,4629.4,0.1000
+91,robot_room_first_trial,trial_x_0.2.mp4,0.0000,YOLO_ONLY,N/A,0,0.0989
+92,robot_room_first_trial,trial_x_0.2.mp4,0.0000,YOLO_ONLY,N/A,0,0.0978

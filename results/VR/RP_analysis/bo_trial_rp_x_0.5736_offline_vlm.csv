@@ -1,0 +1,6 @@
+frame_idx,source_env,source_file,moondream_detections,detected_classes,pseudo_conf,status,vlm_response,latency_ms,usage_ratio
+1,custom,trial_x_0.655_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0000
+2,custom,trial_x_0.655_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0000
+3,custom,trial_x_0.655_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0000
+4,custom,trial_x_0.655_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0000
+5,custom,trial_x_0.655_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0000

@@ -1,0 +1,8 @@
+FROM llava:13b
+
+TEMPLATE """{{ if .System }}<|system|>
+{{ .System }}<|end|>{{ end }}{{ if .Prompt }}<|user|>
+{{ .Prompt }}{{ end }}{{ if .Images }}
+<image>
+{{ .Images }}<|end|>{{ end }}
+<|assistant|>{{ .Response }}<|end|>"""

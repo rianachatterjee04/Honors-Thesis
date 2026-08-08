@@ -1,0 +1,110 @@
+frame_idx,source_env,source_file,yolo_max_conf,detected_classes,status,vlm_response,latency_ms,usage_ratio
+1,DR,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+2,DR,trial_x_0.335_raw.mp4,0.8648,chair,YOLO_ONLY,N/A,0,0.0000
+3,DR,trial_x_0.335_raw.mp4,0.8623,chair,YOLO_ONLY,N/A,0,0.0000
+4,DR,trial_x_0.335_raw.mp4,0.8707,chair,YOLO_ONLY,N/A,0,0.0000
+5,DR,trial_x_0.335_raw.mp4,0.6617,chair,YOLO_ONLY,N/A,0,0.0000
+6,DR,trial_x_0.335_raw.mp4,0.7428,chair,YOLO_ONLY,N/A,0,0.0000
+7,DR,trial_x_0.335_raw.mp4,0.7515,chair,YOLO_ONLY,N/A,0,0.0000
+8,DR,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+9,DR,trial_x_0.335_raw.mp4,0.3980,cat,VLM_TRIGGERED,PENDING...,0,0.0000
+9,DR,trial_x_0.335_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a room with a clear floor and a path. There is an orange traffic cone on the right side of the path; which is a common hazard in work areas. The cone is placed on the floor; and there are no other visible obstacles or hazards in the immediate vicinity of the cone. The dark black edge is a camera defect and should be ignored. The focus of the image is on the clear areas of the room; which include the floor and the path.,5092.8,0.1111
+10,DR,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1000
+11,DR,trial_x_0.335_raw.mp4,0.3031,chair,VLM_TRIGGERED,PENDING...,0,0.0909
+11,DR,trial_x_0.335_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a room with a clear floor and a path. There is a bright orange traffic cone placed on the floor; which is a potential hazard. The cone is the only object that stands out as an obstacle or hazard in the otherwise empty room. The rest of the room appears to be a standard office or classroom setting with no other visible obstacles or hazards.,4518.8,0.1818
+12,DR,trial_x_0.335_raw.mp4,0.3872,chair,VLM_TRIGGERED,PENDING...,0,0.1667
+12,DR,trial_x_0.335_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a room with a clear floor and a path. There is an orange traffic cone placed on the floor; which is a common hazard in areas where construction or roadwork is taking place. The cone is the most prominent obstacle in the image. The room itself appears to be a typical indoor space with a desk and a chair visible in the background. The camera defect simulating Glaucoma is noted but not relevant to the description of the room's contents.,4855.2,0.2500
+13,DR,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2308
+14,DR,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2143
+15,DR,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2000
+16,DR,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1875
+17,DR,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1765
+18,DR,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1667
+19,DR,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1579
+20,DR,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1500
+21,DR,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1429
+22,DR,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1364
+23,DR,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1304
+24,DR,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1250
+25,DR,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1200
+26,DR,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1154
+27,DR,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1111
+28,DR,trial_x_0.335_raw.mp4,0.2659,bear,VLM_TRIGGERED,PENDING...,0,0.1071
+28,DR,trial_x_0.335_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards. It appears to be a camera defect simulating Glaucoma; which is a serious eye condition. Therefore; I cannot provide a description of the actual floor and path.,3807.4,0.1429
+29,DR,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1379
+30,DR,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1333
+31,DR,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1290
+32,DR,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1250
+33,DR,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1212
+34,DR,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1176
+35,DR,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1143
+36,DR,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1111
+37,DR,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1081
+38,DR,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1053
+39,DR,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1026
+40,DR,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1000
+41,DR,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0976
+42,DR,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0952
+43,DR,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0930
+44,DR,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0909
+45,DR,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0889
+46,DR,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0870
+47,DR,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0851
+48,DR,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0833
+49,DR,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0816
+50,DR,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0800
+51,DR,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0784
+52,DR,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0769
+53,DR,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0755
+54,DR,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0741
+55,DR,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0727
+56,DR,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0714
+57,DR,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0702
+58,DR,trial_x_0.335_raw.mp4,0.2609,remote,VLM_TRIGGERED,PENDING...,0,0.0690
+58,DR,trial_x_0.335_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards. It appears to be a low-resolution photograph with a significant amount of noise; which obscures any details that might be present. Therefore; it is not possible to provide a description of the floor and path as requested.,4041.2,0.0862
+59,DR,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0847
+60,DR,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0833
+61,DR,trial_x_0.335_raw.mp4,0.3834,chair,VLM_TRIGGERED,PENDING...,0,0.0820
+61,DR,trial_x_0.335_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards. It appears to be a low-resolution or corrupted image; which prevents a detailed description of the room's features.,3465.3,0.0984
+62,DR,trial_x_0.335_raw.mp4,0.4676,chair,VLM_TRIGGERED,PENDING...,0,0.0968
+62,DR,trial_x_0.335_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards. It appears to be a photograph of a room with a dark; possibly obscured area that could be a doorway or a wall. Due to the image's low resolution and lack of visible details; it is not possible to provide a description of the floor or path.,4242.5,0.1129
+63,DR,trial_x_0.335_raw.mp4,0.4422,chair;remote,VLM_TRIGGERED,PENDING...,0,0.1111
+63,DR,trial_x_0.335_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards. It appears to be a low-resolution or corrupted image; which prevents a detailed description of the room's features.,3472.5,0.1270
+64,DR,trial_x_0.335_raw.mp4,0.3939,chair;remote,VLM_TRIGGERED,PENDING...,0,0.1250
+64,DR,trial_x_0.335_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards. It appears to be a photograph of a room with a dark; possibly obscured area that could be a doorway or a wall. Due to the image's low resolution and lack of visible details; it is not possible to provide a description of the floor or path.,4250.1,0.1406
+65,DR,trial_x_0.335_raw.mp4,0.4402,remote;chair,VLM_TRIGGERED,PENDING...,0,0.1385
+65,DR,trial_x_0.335_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards. It appears to be a room with a dark floor and a white wall; but no specific details can be discerned due to the poor lighting conditions.,3685.2,0.1538
+66,DR,trial_x_0.335_raw.mp4,0.3797,chair;remote,VLM_TRIGGERED,PENDING...,0,0.1515
+66,DR,trial_x_0.335_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a room with a clear floor and a path leading to a corner. There are no visible obstacles or hazards in the immediate area that can be discerned from this perspective. The dark black edge is a camera defect and should be ignored. The floor appears to be a standard; untreated concrete surface; and the path is a simple; unadorned line that leads to the corner. The room's lighting is dim; and the overall ambiance is quite stark and uninviting.,4988.9,0.1667
+67,DR,trial_x_0.335_raw.mp4,0.3648,chair,VLM_TRIGGERED,PENDING...,0,0.1642
+67,DR,trial_x_0.335_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark to provide a detailed description of the room or identify any obstacles and hazards.,3137.0,0.1791
+68,DR,trial_x_0.335_raw.mp4,0.3186,remote;chair;chair,VLM_TRIGGERED,PENDING...,0,0.1765
+68,DR,trial_x_0.335_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards. It appears to be a photograph of a room with a dark; possibly obscured area that could be a doorway or a wall. Due to the image's low resolution and lack of visible details; it is not possible to provide a description of the floor or path.,4264.1,0.1912
+69,DR,trial_x_0.335_raw.mp4,0.3907,remote;chair,VLM_TRIGGERED,PENDING...,0,0.1884
+69,DR,trial_x_0.335_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards. It appears to be a photograph of a room with a dark floor and a white wall. Due to the low resolution and the presence of a camera defect simulating Glaucoma; it is not possible to provide a detailed description of the floor and path.,4254.0,0.2029
+70,DR,trial_x_0.335_raw.mp4,0.3669,chair;remote,VLM_TRIGGERED,PENDING...,0,0.2000
+70,DR,trial_x_0.335_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a room with a clear floor and a path leading to a corner. There are no visible obstacles or hazards in the immediate area that can be discerned from this perspective. The dark black edge is a camera defect simulating Glaucoma; which is not a physical feature of the room but a digital anomaly. The focus should be on the clear areas of the image; which include the floor and the path; to describe the actual conditions of the room.,4918.4,0.2143
+71,DR,trial_x_0.335_raw.mp4,0.4526,remote;chair;chair,VLM_TRIGGERED,PENDING...,0,0.2113
+71,DR,trial_x_0.335_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards. It appears to be a photograph of a dark room with a blurred edge; possibly due to a camera defect simulating Glaucoma. The clear areas of the image show a floor and a path; but no specific details can be discerned due to the image's low resolution and lack of light.,4508.6,0.2254
+72,DR,trial_x_0.335_raw.mp4,0.4394,remote;chair,VLM_TRIGGERED,PENDING...,0,0.2222
+72,DR,trial_x_0.335_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards. It appears to be a low-resolution or corrupted image; which prevents a detailed description of the room's features.,3508.9,0.2361
+73,DR,trial_x_0.335_raw.mp4,0.5742,remote;chair,YOLO_ONLY,N/A,0,0.2329
+74,DR,trial_x_0.335_raw.mp4,0.5775,remote,YOLO_ONLY,N/A,0,0.2297
+75,DR,trial_x_0.335_raw.mp4,0.5072,remote;chair,YOLO_ONLY,N/A,0,0.2267
+76,DR,trial_x_0.335_raw.mp4,0.5187,remote;chair,YOLO_ONLY,N/A,0,0.2237
+77,DR,trial_x_0.335_raw.mp4,0.4819,remote,VLM_TRIGGERED,PENDING...,0,0.2208
+77,DR,trial_x_0.335_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards. It appears to be a low-resolution or corrupted image; which prevents a detailed description of the room's features.,3476.0,0.2338
+78,DR,trial_x_0.335_raw.mp4,0.4033,remote,VLM_TRIGGERED,PENDING...,0,0.2308
+78,DR,trial_x_0.335_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards. It appears to be a low-resolution or corrupted image; which prevents a detailed description of the room's features.,3497.0,0.2436
+79,DR,trial_x_0.335_raw.mp4,0.3537,remote,VLM_TRIGGERED,PENDING...,0,0.2405
+79,DR,trial_x_0.335_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards. It appears to be a low-resolution or corrupted image; which prevents a detailed description of the room's features.,3492.4,0.2532
+80,DR,trial_x_0.335_raw.mp4,0.3522,remote,VLM_TRIGGERED,PENDING...,0,0.2500
+80,DR,trial_x_0.335_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards. It appears to be a photograph of a dark room with a blurred edge; possibly due to a camera defect simulating Glaucoma. Therefore; it is not possible to provide a description of the actual floor and path in this image.,4143.2,0.2625
+81,DR,trial_x_0.335_raw.mp4,0.3067,remote,VLM_TRIGGERED,PENDING...,0,0.2593
+81,DR,trial_x_0.335_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards. It appears to be a low-resolution or corrupted image; which prevents a detailed description of the room's features.,3476.9,0.2716
+82,DR,trial_x_0.335_raw.mp4,0.3371,remote,VLM_TRIGGERED,PENDING...,0,0.2683
+82,DR,trial_x_0.335_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards. It appears to be a low-resolution or corrupted image; which prevents a detailed description of the room's features.,3497.7,0.2805
+83,DR,trial_x_0.335_raw.mp4,0.2800,remote;chair,VLM_TRIGGERED,PENDING...,0,0.2771
+83,DR,trial_x_0.335_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards. It appears to be a low-resolution or corrupted image; which prevents a detailed description of the room's features.,3473.1,0.2892
+84,DR,trial_x_0.335_raw.mp4,0.2973,remote;chair,VLM_TRIGGERED,PENDING...,0,0.2857
+84,DR,trial_x_0.335_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards. It appears to be a low-resolution or corrupted image; which prevents a detailed description of the room's features.,3479.6,0.2976

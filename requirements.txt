@@ -1,0 +1,17 @@
+# Core perception + robotics experiment stack
+ultralytics>=8.0.0
+torch
+torchvision
+opencv-python
+numpy
+pandas
+Pillow
+requests
+
+# Bayesian optimization (BoTorch)
+botorch
+gpytorch
+
+# Optional / robot agent
+# crewai  # see code/robot_control/physical_agent/pyproject.toml
+# rclpy   # requires ROS 2 Humble on the robot

@@ -1,0 +1,95 @@
+frame_idx,source_env,source_file,yolo_max_conf,status,vlm_response,latency_ms,usage_ratio
+1,robot_room_first_trial,trial_x_0.61.mp4,0.0000,YOLO_ONLY,N/A,0,0.0000
+2,robot_room_first_trial,trial_x_0.61.mp4,0.0000,YOLO_ONLY,N/A,0,0.0000
+3,robot_room_first_trial,trial_x_0.61.mp4,0.0000,YOLO_ONLY,N/A,0,0.0000
+4,robot_room_first_trial,trial_x_0.61.mp4,0.0000,YOLO_ONLY,N/A,0,0.0000
+5,robot_room_first_trial,trial_x_0.61.mp4,0.0000,YOLO_ONLY,N/A,0,0.0000
+6,robot_room_first_trial,trial_x_0.61.mp4,0.0000,YOLO_ONLY,N/A,0,0.0000
+7,robot_room_first_trial,trial_x_0.61.mp4,0.0000,YOLO_ONLY,N/A,0,0.0000
+8,robot_room_first_trial,trial_x_0.61.mp4,0.0000,YOLO_ONLY,N/A,0,0.0000
+9,robot_room_first_trial,trial_x_0.61.mp4,0.0000,YOLO_ONLY,N/A,0,0.0000
+10,robot_room_first_trial,trial_x_0.61.mp4,0.0000,YOLO_ONLY,N/A,0,0.0000
+11,robot_room_first_trial,trial_x_0.61.mp4,0.2557,VLM_TRIGGERED,PENDING...,0,0.0000
+11,robot_room_first_trial,trial_x_0.61.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles visible in the room include an orange traffic cone; which is positioned upright and appears to be placed intentionally for a specific purpose; possibly as part of a training exercise or demonstration. The black blurry circle in the center is not a real obstacle but rather a graphical representation used in the simulation software to indicate where the robotic arm should move around it. There are no other clear hazards such as tripping obstacles or sharp objects that can be identified from this image.,5433.8,0.0909
+12,robot_room_first_trial,trial_x_0.61.mp4,0.0000,YOLO_ONLY,N/A,0,0.0833
+13,robot_room_first_trial,trial_x_0.61.mp4,0.2618,VLM_TRIGGERED,PENDING...,0,0.0769
+13,robot_room_first_trial,trial_x_0.61.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles visible in the room include an orange traffic cone; which is positioned upright and appears to be intact; suggesting that it may serve as a marker or guide for movement within the space. The black blurry circle in the center of the image does not represent an actual hazard but rather a simulated one; likely used for testing purposes related to the robotic system's navigation capabilities. The rest of the floor and path are clear except for this simulated hazard; which is isolated from the rest of the room's features.,5089.5,0.1538
+14,robot_room_first_trial,trial_x_0.61.mp4,0.0000,YOLO_ONLY,N/A,0,0.1429
+15,robot_room_first_trial,trial_x_0.61.mp4,0.0000,YOLO_ONLY,N/A,0,0.1333
+16,robot_room_first_trial,trial_x_0.61.mp4,0.0000,YOLO_ONLY,N/A,0,0.1250
+17,robot_room_first_trial,trial_x_0.61.mp4,0.0000,YOLO_ONLY,N/A,0,0.1176
+18,robot_room_first_trial,trial_x_0.61.mp4,0.0000,YOLO_ONLY,N/A,0,0.1111
+19,robot_room_first_trial,trial_x_0.61.mp4,0.0000,YOLO_ONLY,N/A,0,0.1053
+20,robot_room_first_trial,trial_x_0.61.mp4,0.0000,YOLO_ONLY,N/A,0,0.1000
+21,robot_room_first_trial,trial_x_0.61.mp4,0.0000,YOLO_ONLY,N/A,0,0.0952
+22,robot_room_first_trial,trial_x_0.61.mp4,0.0000,YOLO_ONLY,N/A,0,0.0909
+23,robot_room_first_trial,trial_x_0.61.mp4,0.0000,YOLO_ONLY,N/A,0,0.0870
+24,robot_room_first_trial,trial_x_0.61.mp4,0.0000,YOLO_ONLY,N/A,0,0.0833
+25,robot_room_first_trial,trial_x_0.61.mp4,0.0000,YOLO_ONLY,N/A,0,0.0800
+26,robot_room_first_trial,trial_x_0.61.mp4,0.0000,YOLO_ONLY,N/A,0,0.0769
+27,robot_room_first_trial,trial_x_0.61.mp4,0.0000,YOLO_ONLY,N/A,0,0.0741
+28,robot_room_first_trial,trial_x_0.61.mp4,0.0000,YOLO_ONLY,N/A,0,0.0714
+29,robot_room_first_trial,trial_x_0.61.mp4,0.0000,YOLO_ONLY,N/A,0,0.0690
+30,robot_room_first_trial,trial_x_0.61.mp4,0.0000,YOLO_ONLY,N/A,0,0.0667
+31,robot_room_first_trial,trial_x_0.61.mp4,0.0000,YOLO_ONLY,N/A,0,0.0645
+32,robot_room_first_trial,trial_x_0.61.mp4,0.0000,YOLO_ONLY,N/A,0,0.0625
+33,robot_room_first_trial,trial_x_0.61.mp4,0.2627,VLM_TRIGGERED,PENDING...,0,0.0606
+33,robot_room_first_trial,trial_x_0.61.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles visible in the room include an orange traffic cone; which is positioned upright and appears to be intact; suggesting that it may serve as a marker or guide for movement within the space. The black blurry circle in the center of the image does not represent an actual hazard but rather a simulated one; likely used for testing purposes related to the robot's navigation capabilities. There are no other clear obstacles or hazards discernible from this angle and resolution of the image.,4925.9,0.0909
+34,robot_room_first_trial,trial_x_0.61.mp4,0.2550,VLM_TRIGGERED,PENDING...,0,0.0882
+34,robot_room_first_trial,trial_x_0.61.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles visible in the room include an orange traffic cone; which is positioned on the left side of the frame; and a black circular object that appears to be a shadow or reflection on the floor. The clear areas of the image show a patterned carpet with a geometric design; and there seems to be a path leading towards the center of the room where the black blurry circle is located.,4489.7,0.1176
+35,robot_room_first_trial,trial_x_0.61.mp4,0.3387,VLM_TRIGGERED,PENDING...,0,0.1143
+35,robot_room_first_trial,trial_x_0.61.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles visible in the room include an orange traffic cone; which is positioned on the left side of the frame; and a black circular object that appears to be a shadow or reflection on the floor. The clear areas of the image show a patterned carpet with a geometric design; and there are no other significant obstacles or hazards immediately apparent in this section of the room.,4412.4,0.1429
+36,robot_room_first_trial,trial_x_0.61.mp4,0.0000,YOLO_ONLY,N/A,0,0.1389
+37,robot_room_first_trial,trial_x_0.61.mp4,0.3223,VLM_TRIGGERED,PENDING...,0,0.1351
+37,robot_room_first_trial,trial_x_0.61.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles visible in the room include an orange traffic cone; which is positioned upright and appears to be placed intentionally for a specific purpose; possibly as part of a training exercise or demonstration. The black blurry circle in the center is not a real obstacle but rather a graphical representation used in the simulation software to indicate where the robot should avoid. There are no other clear hazards such as tripping obstacles or sharp edges that can be discerned from this image.,4890.3,0.1622
+38,robot_room_first_trial,trial_x_0.61.mp4,0.0000,YOLO_ONLY,N/A,0,0.1579
+39,robot_room_first_trial,trial_x_0.61.mp4,0.2848,VLM_TRIGGERED,PENDING...,0,0.1538
+39,robot_room_first_trial,trial_x_0.61.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles visible in the room include an orange traffic cone; which is positioned on the left side of the frame; and a black circular object that appears to be a shadow or reflection on the floor. The clear areas of the image show a patterned carpet with a geometric design; and there are no other significant obstacles or hazards immediately apparent in this section of the room.,4454.7,0.1795
+40,robot_room_first_trial,trial_x_0.61.mp4,0.2683,VLM_TRIGGERED,PENDING...,0,0.1750
+40,robot_room_first_trial,trial_x_0.61.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles visible in the room include an orange traffic cone; which is positioned on the left side of the frame; and a black circular object that appears to be a shadow or reflection on the floor. The clear areas of the image show a patterned carpet with a geometric design; and there are no other significant obstacles or hazards immediately apparent in this section of the room.,4445.7,0.2000
+41,robot_room_first_trial,trial_x_0.61.mp4,0.2898,VLM_TRIGGERED,PENDING...,0,0.1951
+41,robot_room_first_trial,trial_x_0.61.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles visible in the room include an orange traffic cone; which is positioned on the left side of the frame; and a black circular object that appears to be a shadow or reflection on the floor. The clear areas of the image show a patterned carpet with no other significant objects or hazards immediately adjacent to the cone.,4210.9,0.2195
+42,robot_room_first_trial,trial_x_0.61.mp4,0.2541,VLM_TRIGGERED,PENDING...,0,0.2143
+42,robot_room_first_trial,trial_x_0.61.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include an orange traffic cone; which is positioned on the left side of the image; and a black circular object that appears to be a shadow or reflection on the floor; located towards the center-right of the image. The path seems clear except for these two objects.,3955.6,0.2381
+43,robot_room_first_trial,trial_x_0.61.mp4,0.0000,YOLO_ONLY,N/A,0,0.2326
+44,robot_room_first_trial,trial_x_0.61.mp4,0.0000,YOLO_ONLY,N/A,0,0.2273
+45,robot_room_first_trial,trial_x_0.61.mp4,0.0000,YOLO_ONLY,N/A,0,0.2222
+46,robot_room_first_trial,trial_x_0.61.mp4,0.2689,VLM_TRIGGERED,PENDING...,0,0.2174
+46,robot_room_first_trial,trial_x_0.61.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include an orange traffic cone; which is positioned on the left side of the image; and a black circular object that appears to be a shadow or reflection on the floor; located towards the center-right of the image. The path seems clear except for these two objects.,3972.2,0.2391
+47,robot_room_first_trial,trial_x_0.61.mp4,0.2831,VLM_TRIGGERED,PENDING...,0,0.2340
+47,robot_room_first_trial,trial_x_0.61.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include an orange traffic cone; which is positioned on the left side of the image; and a black circular object that appears to be a shadow or reflection on the floor; located towards the center-right of the image. The path seems clear except for these two objects.,3970.7,0.2553
+48,robot_room_first_trial,trial_x_0.61.mp4,0.2708,VLM_TRIGGERED,PENDING...,0,0.2500
+48,robot_room_first_trial,trial_x_0.61.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles visible in the room include an orange traffic cone; which is positioned on the left side of the frame; and a black circular object that appears to be a shadow or reflection on the floor. The clear areas of the image show a patterned carpet with a geometric design; and there are no other significant obstacles or hazards immediately apparent in this section of the room.,4445.9,0.2708
+49,robot_room_first_trial,trial_x_0.61.mp4,0.2581,VLM_TRIGGERED,PENDING...,0,0.2653
+49,robot_room_first_trial,trial_x_0.61.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include an orange traffic cone; which is positioned on the left side of the image; and a black circular object that appears to be a shadow or reflection on the floor; located towards the center-right of the image. The path seems clear except for these two objects.,3993.8,0.2857
+50,robot_room_first_trial,trial_x_0.61.mp4,0.0000,YOLO_ONLY,N/A,0,0.2800
+51,robot_room_first_trial,trial_x_0.61.mp4,0.0000,YOLO_ONLY,N/A,0,0.2745
+52,robot_room_first_trial,trial_x_0.61.mp4,0.0000,YOLO_ONLY,N/A,0,0.2692
+53,robot_room_first_trial,trial_x_0.61.mp4,0.0000,YOLO_ONLY,N/A,0,0.2642
+54,robot_room_first_trial,trial_x_0.61.mp4,0.0000,YOLO_ONLY,N/A,0,0.2593
+55,robot_room_first_trial,trial_x_0.61.mp4,0.0000,YOLO_ONLY,N/A,0,0.2545
+56,robot_room_first_trial,trial_x_0.61.mp4,0.0000,YOLO_ONLY,N/A,0,0.2500
+57,robot_room_first_trial,trial_x_0.61.mp4,0.0000,YOLO_ONLY,N/A,0,0.2456
+58,robot_room_first_trial,trial_x_0.61.mp4,0.0000,YOLO_ONLY,N/A,0,0.2414
+59,robot_room_first_trial,trial_x_0.61.mp4,0.0000,YOLO_ONLY,N/A,0,0.2373
+60,robot_room_first_trial,trial_x_0.61.mp4,0.2674,VLM_TRIGGERED,PENDING...,0,0.2333
+60,robot_room_first_trial,trial_x_0.61.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles visible in the room include an orange traffic cone; which is positioned on the left side of the frame; and a black circular object that appears to be a shadow or reflection on the floor. The clear area of the image shows a patterned carpet with no other significant objects or hazards immediately adjacent to the cone.,4200.5,0.2500
+61,robot_room_first_trial,trial_x_0.61.mp4,0.0000,YOLO_ONLY,N/A,0,0.2459
+62,robot_room_first_trial,trial_x_0.61.mp4,0.0000,YOLO_ONLY,N/A,0,0.2419
+63,robot_room_first_trial,trial_x_0.61.mp4,0.0000,YOLO_ONLY,N/A,0,0.2381
+64,robot_room_first_trial,trial_x_0.61.mp4,0.0000,YOLO_ONLY,N/A,0,0.2344
+65,robot_room_first_trial,trial_x_0.61.mp4,0.0000,YOLO_ONLY,N/A,0,0.2308
+66,robot_room_first_trial,trial_x_0.61.mp4,0.0000,YOLO_ONLY,N/A,0,0.2273
+67,robot_room_first_trial,trial_x_0.61.mp4,0.0000,YOLO_ONLY,N/A,0,0.2239
+68,robot_room_first_trial,trial_x_0.61.mp4,0.0000,YOLO_ONLY,N/A,0,0.2206
+69,robot_room_first_trial,trial_x_0.61.mp4,0.0000,YOLO_ONLY,N/A,0,0.2174
+70,robot_room_first_trial,trial_x_0.61.mp4,0.0000,YOLO_ONLY,N/A,0,0.2143
+71,robot_room_first_trial,trial_x_0.61.mp4,0.0000,YOLO_ONLY,N/A,0,0.2113
+72,robot_room_first_trial,trial_x_0.61.mp4,0.0000,YOLO_ONLY,N/A,0,0.2083
+73,robot_room_first_trial,trial_x_0.61.mp4,0.0000,YOLO_ONLY,N/A,0,0.2055
+74,robot_room_first_trial,trial_x_0.61.mp4,0.2935,VLM_TRIGGERED,PENDING...,0,0.2027
+74,robot_room_first_trial,trial_x_0.61.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles visible in the room include an orange traffic cone; which is positioned on the left side of the frame; and a black circular object that appears to be a shadow or reflection on the floor. The clear areas of the image show a patterned carpet with no other significant objects or hazards immediately adjacent to the cone.,4195.2,0.2162
+75,robot_room_first_trial,trial_x_0.61.mp4,0.3415,VLM_TRIGGERED,PENDING...,0,0.2133
+75,robot_room_first_trial,trial_x_0.61.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles visible in the room include an orange traffic cone; which is positioned upright and appears to be placed intentionally for a specific purpose; possibly as part of a training exercise or demonstration. The black blurry circle in the center is not a real object but rather a graphical representation used in image processing to indicate an area of interest or concern. It does not represent any physical hazard but could be a placeholder for where a robotic system might need to navigate around. There are no other clear obstacles or hazards discernible from the visible parts of the room.,5340.0,0.2267
+76,robot_room_first_trial,trial_x_0.61.mp4,0.0000,YOLO_ONLY,N/A,0,0.2237
+77,robot_room_first_trial,trial_x_0.61.mp4,0.0000,YOLO_ONLY,N/A,0,0.2208

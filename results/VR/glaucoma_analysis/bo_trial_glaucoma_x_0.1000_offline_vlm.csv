@@ -1,0 +1,163 @@
+frame_idx,source_env,source_file,moondream_detections,detected_classes,pseudo_conf,status,vlm_response,latency_ms,usage_ratio
+1,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0000
+2,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0000
+3,custom,trial_x_0.1_raw.mp4,0,none,0.0000,VLM_TRIGGERED,PENDING...,0,0.0000
+3,custom,trial_x_0.1_raw.mp4,,VLM_RESPONSE_RECEIVED,,The image shows a potential hazard due to the low visibility; which could be caused by a low-quality camera or a dark room. The obstruction in the foreground could be a tripping hazard; and the lack of clear navigation cues makes it difficult to determine the layout of the room. It is recommended to use caution and possibly seek assistance from a sighted person or a guide dog to navigate safely.,4946.6,0.3333
+4,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.2500
+5,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.2000
+6,custom,trial_x_0.1_raw.mp4,0,none,0.0000,VLM_TRIGGERED,PENDING...,0,0.1667
+6,custom,trial_x_0.1_raw.mp4,,VLM_RESPONSE_RECEIVED,,The image shows a potential hazard due to the low visibility; which could be caused by a low-quality camera or a dark room. The obstruction in the foreground could be a tripping hazard; and the lack of clear navigation cues makes it difficult to determine the layout of the room. It is recommended to use caution and possibly seek assistance from a sighted person or a guide dog to navigate safely.,4539.9,0.3333
+7,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.2857
+8,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.2500
+9,custom,trial_x_0.1_raw.mp4,0,none,0.0000,VLM_TRIGGERED,PENDING...,0,0.2222
+9,custom,trial_x_0.1_raw.mp4,,VLM_RESPONSE_RECEIVED,,The image shows a potential hazard due to the tripping hazard indicated by the white object on the floor. It is advisable to navigate carefully around this area to avoid any accidents.,3444.2,0.3333
+10,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3000
+11,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.2727
+12,custom,trial_x_0.1_raw.mp4,0,none,0.0000,VLM_TRIGGERED,PENDING...,0,0.2500
+12,custom,trial_x_0.1_raw.mp4,,VLM_RESPONSE_RECEIVED,,The image shows a potential hazard due to the low visibility; which could be caused by a low-quality camera or a dark room. The obstruction in the foreground could be a tripping hazard; and the lack of clear navigation cues makes it difficult to determine the layout of the room. It is recommended to use caution and possibly seek assistance from a sighted person or a guide dog to navigate safely.,4552.4,0.3333
+13,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3077
+14,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.2857
+15,custom,trial_x_0.1_raw.mp4,0,none,0.0000,VLM_TRIGGERED,PENDING...,0,0.2667
+15,custom,trial_x_0.1_raw.mp4,,VLM_RESPONSE_RECEIVED,,The image shows a potential hazard due to the low visibility; which could be caused by a low-quality camera or a dark environment. The obstruction in the foreground could be a tripping hazard; and the lack of clear navigation cues makes it difficult to determine the layout of the space. It is recommended to use caution and possibly seek assistance from a sighted person or a guide dog to navigate this area safely.,4573.0,0.3333
+16,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3125
+17,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.2941
+18,custom,trial_x_0.1_raw.mp4,0,none,0.0000,VLM_TRIGGERED,PENDING...,0,0.2778
+18,custom,trial_x_0.1_raw.mp4,,VLM_RESPONSE_RECEIVED,,The image shows a potential hazard due to the tripping hazard indicated by the white object on the floor. It is advisable to navigate carefully around this area to avoid any accidents.,3513.3,0.3333
+19,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3158
+20,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3000
+21,custom,trial_x_0.1_raw.mp4,0,none,0.0000,VLM_TRIGGERED,PENDING...,0,0.2857
+21,custom,trial_x_0.1_raw.mp4,,VLM_RESPONSE_RECEIVED,,The image shows a potential hazard due to the tripping hazard indicated by the red object on the floor. It is advisable to navigate carefully around this area to avoid any accidents.,3526.3,0.3333
+22,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3182
+23,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3043
+24,custom,trial_x_0.1_raw.mp4,0,none,0.0000,VLM_TRIGGERED,PENDING...,0,0.2917
+24,custom,trial_x_0.1_raw.mp4,,VLM_RESPONSE_RECEIVED,,The image shows a potential hazard due to the tripping hazard indicated by the white object on the floor. It is advisable to navigate carefully around this area to avoid any accidents.,3509.7,0.3333
+25,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3200
+26,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3077
+27,custom,trial_x_0.1_raw.mp4,0,none,0.0000,VLM_TRIGGERED,PENDING...,0,0.2963
+27,custom,trial_x_0.1_raw.mp4,,VLM_RESPONSE_RECEIVED,,The image shows a potential hazard due to the tripping hazard indicated by the red object on the floor. The navigation guidance would be to avoid this area to prevent tripping. Additionally; the low lighting conditions could pose a challenge for navigation; so it would be advisable to use the assistive vision system's lighting features to enhance visibility.,4332.0,0.3333
+28,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3214
+29,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3103
+30,custom,trial_x_0.1_raw.mp4,0,none,0.0000,VLM_TRIGGERED,PENDING...,0,0.3000
+30,custom,trial_x_0.1_raw.mp4,,VLM_RESPONSE_RECEIVED,,The image shows a potential hazard due to the low visibility; which could be caused by a low-quality camera or a dark environment. The obstruction in the foreground could be a tripping hazard; and the lack of clear navigation cues makes it difficult to determine the layout of the space. It is recommended to use caution and possibly seek assistance from a sighted person or a guide dog to navigate this area safely.,4589.2,0.3333
+31,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3226
+32,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3125
+33,custom,trial_x_0.1_raw.mp4,0,none,0.0000,VLM_TRIGGERED,PENDING...,0,0.3030
+33,custom,trial_x_0.1_raw.mp4,,VLM_RESPONSE_RECEIVED,,Based on the image; there are no immediate hazards or obstacles visible. The floor appears to be clear; and there are no sharp edges or objects that could pose a risk. The lighting is dim; which could be a navigational challenge; but there are no signs of a drop or any other obstacle in the immediate vicinity. The image does not provide enough context to determine the layout of the room or the presence of any other potential hazards. Therefore; the current view is safe; but caution should be exercised due to the dim lighting.,5405.0,0.3333
+34,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3235
+35,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3143
+36,custom,trial_x_0.1_raw.mp4,0,none,0.0000,VLM_TRIGGERED,PENDING...,0,0.3056
+36,custom,trial_x_0.1_raw.mp4,,VLM_RESPONSE_RECEIVED,,The image shows a potential hazard due to the low visibility; which could be caused by a low-quality camera or a simulated impairment. The obstruction in the foreground could be a tripping hazard; and the darkness in the background might indicate a lack of lighting; which could be a navigation challenge. It's important to navigate carefully in such conditions to avoid accidents.,4424.0,0.3333
+37,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3243
+38,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3158
+39,custom,trial_x_0.1_raw.mp4,0,none,0.0000,VLM_TRIGGERED,PENDING...,0,0.3077
+39,custom,trial_x_0.1_raw.mp4,,VLM_RESPONSE_RECEIVED,,The image shows a potential hazard due to the tripping hazard indicated by the red object on the floor. It is advisable to navigate carefully around this area to avoid any accidents.,3617.4,0.3333
+40,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3250
+41,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3171
+42,custom,trial_x_0.1_raw.mp4,0,none,0.0000,VLM_TRIGGERED,PENDING...,0,0.3095
+42,custom,trial_x_0.1_raw.mp4,,VLM_RESPONSE_RECEIVED,,The image shows a potential hazard due to the low visibility; which could be caused by a low-quality camera or a dark room. The obstruction in the center of the image could be a tripping hazard or an object that needs to be moved. The navigation guidance would be to move away from the obstruction and to the right to avoid it.,4515.8,0.3333
+43,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3256
+44,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3182
+45,custom,trial_x_0.1_raw.mp4,0,none,0.0000,VLM_TRIGGERED,PENDING...,0,0.3111
+45,custom,trial_x_0.1_raw.mp4,,VLM_RESPONSE_RECEIVED,,The image shows a potential hazard due to the low visibility; which could be caused by a low-quality camera or a dark room. The obstruction in the foreground could be a tripping hazard; and the lack of clear navigation cues makes it difficult to determine the layout of the room. It is recommended to use caution and possibly seek assistance from a sighted person or a guide dog to navigate safely.,4598.7,0.3333
+46,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3261
+47,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3191
+48,custom,trial_x_0.1_raw.mp4,0,none,0.0000,VLM_TRIGGERED,PENDING...,0,0.3125
+48,custom,trial_x_0.1_raw.mp4,,VLM_RESPONSE_RECEIVED,,Based on the image; there are no immediate hazards or obstacles visible. The floor appears to be clear; and there are no sharp edges or objects that could pose a risk. The lighting is dim; which could be a navigational challenge; but there are no visible obstacles in the immediate vicinity. The image does not provide enough context to determine the layout of the room or the presence of any other potential hazards. Therefore; the actionable guidance would be to proceed with caution; especially if the room is not well-lit; and to be aware of the limited visibility due to the simulated impairment.,5672.5,0.3333
+49,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3265
+50,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3200
+51,custom,trial_x_0.1_raw.mp4,0,none,0.0000,VLM_TRIGGERED,PENDING...,0,0.3137
+51,custom,trial_x_0.1_raw.mp4,,VLM_RESPONSE_RECEIVED,,Based on the image; there are no immediate hazards or obstacles visible. The floor appears to be clear; and there are no sharp edges or objects that could pose a risk. The lighting is dim; which could be a navigational challenge; but there are no visible obstacles in the immediate vicinity. The image does not provide enough context to determine the layout of the room or the presence of any other potential hazards. Therefore; the actionable guidance would be to proceed with caution; especially if the room is not well-lit; and to be aware of the limited visibility due to the simulated impairment.,5688.2,0.3333
+52,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3269
+53,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3208
+54,custom,trial_x_0.1_raw.mp4,0,none,0.0000,VLM_TRIGGERED,PENDING...,0,0.3148
+54,custom,trial_x_0.1_raw.mp4,,VLM_RESPONSE_RECEIVED,,The image shows a potential hazard due to the low visibility; which could be caused by a low-quality camera or a dark room. The obstruction in the foreground could be a tripping hazard; and the lack of clear navigation cues makes it difficult to determine the layout of the room. It is recommended to use caution and possibly seek assistance from a sighted person or a guide dog to navigate safely.,4585.7,0.3333
+55,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3273
+56,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3214
+57,custom,trial_x_0.1_raw.mp4,0,none,0.0000,VLM_TRIGGERED,PENDING...,0,0.3158
+57,custom,trial_x_0.1_raw.mp4,,VLM_RESPONSE_RECEIVED,,The image shows a potential hazard due to the low visibility; which could be caused by a low-quality camera or a dark room. The obstruction in the foreground could be a tripping hazard; and the lack of clear navigation cues makes it difficult to determine the layout of the room. It is recommended to use caution and possibly seek assistance from a sighted person or a guide dog to navigate safely.,4556.8,0.3333
+58,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3276
+59,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3220
+60,custom,trial_x_0.1_raw.mp4,0,none,0.0000,VLM_TRIGGERED,PENDING...,0,0.3167
+60,custom,trial_x_0.1_raw.mp4,,VLM_RESPONSE_RECEIVED,,The image shows a potential hazard due to the low visibility; which could be caused by a low-quality camera or a dark room. The obstruction in the foreground could be a tripping hazard; and the lack of clear navigation cues makes it difficult to determine the layout of the room. It is recommended to use caution and possibly seek assistance from a sighted person or a guide dog to navigate safely.,4569.6,0.3333
+61,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3279
+62,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3226
+63,custom,trial_x_0.1_raw.mp4,0,none,0.0000,VLM_TRIGGERED,PENDING...,0,0.3175
+63,custom,trial_x_0.1_raw.mp4,,VLM_RESPONSE_RECEIVED,,Based on the image; there are no immediate hazards or obstacles visible. The floor appears to be clear; and there are no sharp edges or objects that could pose a risk. The lighting is dim; which could be a navigational challenge; but there are no signs of a drop or any other obstacle that would require caution. The image does not provide enough context to determine the exact location or the nature of the environment; but from what is visible; it seems to be a safe area to navigate.,5067.0,0.3333
+64,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3281
+65,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3231
+66,custom,trial_x_0.1_raw.mp4,0,none,0.0000,VLM_TRIGGERED,PENDING...,0,0.3182
+66,custom,trial_x_0.1_raw.mp4,,VLM_RESPONSE_RECEIVED,,In the image; there are no immediate hazards or obstacles that would pose a risk to someone with low vision. The floor appears to be clear; and there are no visible tripping hazards or sharp objects. However; the low lighting conditions could make it difficult to navigate the space without additional lighting or guidance. It would be advisable to use the assistive technology's built-in lighting features or to seek out additional light sources to improve visibility.,4927.7,0.3333
+67,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3284
+68,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3235
+69,custom,trial_x_0.1_raw.mp4,0,none,0.0000,VLM_TRIGGERED,PENDING...,0,0.3188
+69,custom,trial_x_0.1_raw.mp4,,VLM_RESPONSE_RECEIVED,,Based on the image; there are no immediate hazards or obstacles visible. The floor appears to be clear; and there are no sharp edges or objects that could pose a risk. The lighting is dim; which could be a navigational challenge; but there are no signs of a drop or any other obstacle that would require caution. The image does not provide enough context to determine the exact location or the nature of the environment; but from what is visible; it seems to be a safe area to navigate.,5516.4,0.3333
+70,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3286
+71,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3239
+72,custom,trial_x_0.1_raw.mp4,0,none,0.0000,VLM_TRIGGERED,PENDING...,0,0.3194
+72,custom,trial_x_0.1_raw.mp4,,VLM_RESPONSE_RECEIVED,,Based on the image; there are no immediate hazards or obstacles visible. The floor appears to be clear; and there are no sharp edges or objects that could pose a risk. The lighting is dim; which could be a navigational challenge; but there are no signs of a drop or any other obstacle that would require caution. The image does not provide enough context to determine the exact location or the nature of the environment; but from what is visible; it seems to be a safe area to navigate.,5417.1,0.3333
+73,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3288
+74,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3243
+75,custom,trial_x_0.1_raw.mp4,0,none,0.0000,VLM_TRIGGERED,PENDING...,0,0.3200
+75,custom,trial_x_0.1_raw.mp4,,VLM_RESPONSE_RECEIVED,,The image shows a potential hazard due to the tripping hazard indicated by the red object on the floor. The navigation guidance would be to avoid this area to prevent tripping. Additionally; the low lighting conditions could pose a challenge for navigation; so it would be advisable to use the assistive vision system's lighting features to enhance visibility.,4359.1,0.3333
+76,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3289
+77,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3247
+78,custom,trial_x_0.1_raw.mp4,0,none,0.0000,VLM_TRIGGERED,PENDING...,0,0.3205
+78,custom,trial_x_0.1_raw.mp4,,VLM_RESPONSE_RECEIVED,,The image shows a potential hazard due to the low visibility; which could be caused by a low-quality camera or a dark environment. The obstruction in the foreground could be a tripping hazard; and the lack of clear navigation cues makes it difficult to determine the layout of the space. It is recommended to use caution and possibly seek assistance from a sighted person or a guide dog to navigate this area safely.,4677.7,0.3333
+79,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3291
+80,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3250
+81,custom,trial_x_0.1_raw.mp4,0,none,0.0000,VLM_TRIGGERED,PENDING...,0,0.3210
+81,custom,trial_x_0.1_raw.mp4,,VLM_RESPONSE_RECEIVED,,In the image; there are no immediate hazards or obstacles that would pose a risk to someone with low vision. The floor appears to be clear; and there are no visible tripping hazards or sharp objects. However; the low lighting conditions could make it difficult to navigate the space without additional lighting or guidance. It would be advisable to use the assistive technology's built-in lighting features or to seek out additional light sources to improve visibility.,4954.5,0.3333
+82,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3293
+83,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3253
+84,custom,trial_x_0.1_raw.mp4,0,none,0.0000,VLM_TRIGGERED,PENDING...,0,0.3214
+84,custom,trial_x_0.1_raw.mp4,,VLM_RESPONSE_RECEIVED,,In the image; there are no immediate hazards or obstacles that would pose a risk to someone with low vision. The floor appears to be clear; and there are no visible tripping hazards or sharp objects. However; the low lighting conditions could make it difficult to navigate the space without additional lighting or guidance. It would be advisable to use the assistive technology's built-in lighting features or to seek out additional light sources to improve visibility.,4935.3,0.3333
+85,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3294
+86,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3256
+87,custom,trial_x_0.1_raw.mp4,0,none,0.0000,VLM_TRIGGERED,PENDING...,0,0.3218
+87,custom,trial_x_0.1_raw.mp4,,VLM_RESPONSE_RECEIVED,,The image shows a potential hazard due to the low visibility; which could be caused by a low-quality camera or a dark environment. The obstruction in the foreground could be a tripping hazard; and the lack of clear navigation cues makes it difficult to determine the layout of the space. It is recommended to use caution and possibly seek assistance from a sighted person or a guide dog to navigate this area safely.,4785.1,0.3333
+88,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3295
+89,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3258
+90,custom,trial_x_0.1_raw.mp4,0,none,0.0000,VLM_TRIGGERED,PENDING...,0,0.3222
+90,custom,trial_x_0.1_raw.mp4,,VLM_RESPONSE_RECEIVED,,The image shows a potential hazard due to the tripping hazard indicated by the white object on the floor. It is advisable to navigate carefully around this area to avoid any accidents.,3613.3,0.3333
+91,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3297
+92,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3261
+93,custom,trial_x_0.1_raw.mp4,0,none,0.0000,VLM_TRIGGERED,PENDING...,0,0.3226
+93,custom,trial_x_0.1_raw.mp4,,VLM_RESPONSE_RECEIVED,,The image shows a potential hazard due to the tripping hazard indicated by the white object on the floor. It is advisable to navigate carefully around this area to avoid any accidents.,3517.8,0.3333
+94,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3298
+95,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3263
+96,custom,trial_x_0.1_raw.mp4,0,none,0.0000,VLM_TRIGGERED,PENDING...,0,0.3229
+96,custom,trial_x_0.1_raw.mp4,,VLM_RESPONSE_RECEIVED,,The image shows a potential hazard due to the tripping hazard indicated by the white object on the floor. It is advisable to navigate carefully around this area to avoid any accidents.,3489.2,0.3333
+97,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3299
+98,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3265
+99,custom,trial_x_0.1_raw.mp4,0,none,0.0000,VLM_TRIGGERED,PENDING...,0,0.3232
+99,custom,trial_x_0.1_raw.mp4,,VLM_RESPONSE_RECEIVED,,Based on the image; there are no immediate hazards or obstacles visible. The floor appears to be clear; and there are no sharp edges or objects that could pose a risk. The lighting is dim; which could be a navigational challenge; but there are no visible obstacles in the immediate vicinity. The image does not provide enough context to determine the layout of the room or the presence of any other potential hazards. Therefore; the current view is safe; but caution should be exercised due to the dim lighting.,5272.8,0.3333
+100,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3300
+101,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3267
+102,custom,trial_x_0.1_raw.mp4,0,none,0.0000,VLM_TRIGGERED,PENDING...,0,0.3235
+102,custom,trial_x_0.1_raw.mp4,,VLM_RESPONSE_RECEIVED,,The image shows a potential hazard due to the low visibility; which could be caused by a low-quality camera or a dark room. The obstruction in the center of the image could be a tripping hazard or an object that needs to be moved. The navigation guidance would be to move away from the obstruction and to the right to avoid it.,4289.0,0.3333
+103,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3301
+104,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3269
+105,custom,trial_x_0.1_raw.mp4,0,none,0.0000,VLM_TRIGGERED,PENDING...,0,0.3238
+105,custom,trial_x_0.1_raw.mp4,,VLM_RESPONSE_RECEIVED,,The image shows a potential hazard due to the low visibility; which could be caused by a low-quality camera or a simulated impairment. The obstruction in the foreground could be a tripping hazard; and the darkness might make it difficult to navigate the space. It's important to be cautious and avoid stepping on the unseen objects or into the dark areas to prevent accidents.,4655.4,0.3333
+106,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3302
+107,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3271
+108,custom,trial_x_0.1_raw.mp4,0,none,0.0000,VLM_TRIGGERED,PENDING...,0,0.3241
+108,custom,trial_x_0.1_raw.mp4,,VLM_RESPONSE_RECEIVED,,The image shows a potential hazard due to the tripping hazard indicated by the red object on the floor. The navigation guidance would be to avoid this area to prevent tripping. Additionally; the low lighting conditions could pose a challenge for navigation; so it would be advisable to use the assistive vision system's lighting features to enhance visibility.,4302.2,0.3333
+109,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3303
+110,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3273
+111,custom,trial_x_0.1_raw.mp4,0,none,0.0000,VLM_TRIGGERED,PENDING...,0,0.3243
+111,custom,trial_x_0.1_raw.mp4,,VLM_RESPONSE_RECEIVED,,The image shows a potential hazard due to the tripping hazard indicated by the red object on the floor. The navigation guidance would be to avoid this area to prevent tripping. Additionally; the low lighting conditions could pose a challenge for navigation; so it would be advisable to use the assistive vision system's lighting features to enhance visibility.,4321.5,0.3333
+112,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3304
+113,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3274
+114,custom,trial_x_0.1_raw.mp4,0,none,0.0000,VLM_TRIGGERED,PENDING...,0,0.3246
+114,custom,trial_x_0.1_raw.mp4,,VLM_RESPONSE_RECEIVED,,The image shows a potential hazard due to the low visibility; which could be caused by a low-quality camera or a dark room. The obstruction in the foreground could be a tripping hazard; and the lack of clear navigation cues makes it difficult to determine the layout of the room. It is recommended to use caution and possibly seek assistance from a sighted person or a guide dog to navigate safely.,4597.7,0.3333
+115,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3304
+116,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3276
+117,custom,trial_x_0.1_raw.mp4,0,none,0.0000,VLM_TRIGGERED,PENDING...,0,0.3248
+117,custom,trial_x_0.1_raw.mp4,,VLM_RESPONSE_RECEIVED,,The image shows a potential hazard due to the tripping hazard indicated by the white object on the floor. It is advisable to navigate carefully around this area to avoid any accidents.,3741.3,0.3333
+118,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3305
+119,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3277
+120,custom,trial_x_0.1_raw.mp4,0,none,0.0000,VLM_TRIGGERED,PENDING...,0,0.3250
+120,custom,trial_x_0.1_raw.mp4,,VLM_RESPONSE_RECEIVED,,The image shows a potential hazard due to the tripping hazard indicated by the white object on the floor. It is advisable to navigate carefully around this area to avoid any accidents.,3519.1,0.3333
+121,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3306
+122,custom,trial_x_0.1_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.3279

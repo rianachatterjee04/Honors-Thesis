@@ -1,0 +1,114 @@
+frame_idx,source_env,source_file,yolo_max_conf,detected_classes,status,vlm_response,latency_ms,usage_ratio
+1,custom,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+2,custom,trial_x_0.335_raw.mp4,0.8443,chair;bird,YOLO_ONLY,N/A,0,0.0000
+3,custom,trial_x_0.335_raw.mp4,0.8444,chair;bird,YOLO_ONLY,N/A,0,0.0000
+4,custom,trial_x_0.335_raw.mp4,0.8523,chair,YOLO_ONLY,N/A,0,0.0000
+5,custom,trial_x_0.335_raw.mp4,0.7310,chair,YOLO_ONLY,N/A,0,0.0000
+6,custom,trial_x_0.335_raw.mp4,0.7561,chair;person,YOLO_ONLY,N/A,0,0.0000
+7,custom,trial_x_0.335_raw.mp4,0.7684,chair;person,YOLO_ONLY,N/A,0,0.0000
+8,custom,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+9,custom,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+10,custom,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+11,custom,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+12,custom,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+13,custom,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+14,custom,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+15,custom,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+16,custom,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+17,custom,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+18,custom,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+19,custom,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+20,custom,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+21,custom,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+22,custom,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+23,custom,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+24,custom,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+25,custom,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+26,custom,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+27,custom,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+28,custom,trial_x_0.335_raw.mp4,0.3054,bear,VLM_TRIGGERED,PENDING...,0,0.0000
+28,custom,trial_x_0.335_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards in the room.,3053.3,0.0357
+29,custom,trial_x_0.335_raw.mp4,0.3083,bear,VLM_TRIGGERED,PENDING...,0,0.0345
+29,custom,trial_x_0.335_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards in the room.,3077.2,0.0690
+30,custom,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0667
+31,custom,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0645
+32,custom,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0625
+33,custom,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0606
+34,custom,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0588
+35,custom,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0571
+36,custom,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0556
+37,custom,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0541
+38,custom,trial_x_0.335_raw.mp4,0.2572,laptop,VLM_TRIGGERED,PENDING...,0,0.0526
+38,custom,trial_x_0.335_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards in the room.,3058.1,0.0789
+39,custom,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0769
+40,custom,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0750
+41,custom,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0732
+42,custom,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0714
+43,custom,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0698
+44,custom,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0682
+45,custom,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0667
+46,custom,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0652
+47,custom,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0638
+48,custom,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0625
+49,custom,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0612
+50,custom,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0600
+51,custom,trial_x_0.335_raw.mp4,0.2562,suitcase,VLM_TRIGGERED,PENDING...,0,0.0588
+51,custom,trial_x_0.335_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards.,2980.2,0.0784
+52,custom,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0769
+53,custom,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0755
+54,custom,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0741
+55,custom,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0727
+56,custom,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0714
+57,custom,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0702
+58,custom,trial_x_0.335_raw.mp4,0.3068,remote,VLM_TRIGGERED,PENDING...,0,0.0690
+58,custom,trial_x_0.335_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards.,2990.9,0.0862
+59,custom,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0847
+60,custom,trial_x_0.335_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0833
+61,custom,trial_x_0.335_raw.mp4,0.4371,chair,VLM_TRIGGERED,PENDING...,0,0.0820
+61,custom,trial_x_0.335_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards.,3015.0,0.0984
+62,custom,trial_x_0.335_raw.mp4,0.4103,chair;remote,VLM_TRIGGERED,PENDING...,0,0.0968
+62,custom,trial_x_0.335_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards.,3015.8,0.1129
+63,custom,trial_x_0.335_raw.mp4,0.3996,remote;chair,VLM_TRIGGERED,PENDING...,0,0.1111
+63,custom,trial_x_0.335_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards.,2987.6,0.1270
+64,custom,trial_x_0.335_raw.mp4,0.3991,remote;chair,VLM_TRIGGERED,PENDING...,0,0.1250
+64,custom,trial_x_0.335_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a room with a metallic chair in the foreground; and a dark; unclear background. There are no visible obstacles or hazards in the immediate vicinity of the chair. The floor appears to be a standard; untextured surface; and the path leading to the chair is clear. The room's lighting is dim; and the overall ambiance is somewhat eerie due to the camera defect simulating Diabetic Retinopathy.,4889.9,0.1406
+65,custom,trial_x_0.335_raw.mp4,0.4126,remote;chair,VLM_TRIGGERED,PENDING...,0,0.1385
+65,custom,trial_x_0.335_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards in the room.,3066.4,0.1538
+66,custom,trial_x_0.335_raw.mp4,0.3764,chair;remote,VLM_TRIGGERED,PENDING...,0,0.1515
+66,custom,trial_x_0.335_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards in the room.,3062.3,0.1667
+67,custom,trial_x_0.335_raw.mp4,0.3556,remote;chair,VLM_TRIGGERED,PENDING...,0,0.1642
+67,custom,trial_x_0.335_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards.,3002.1,0.1791
+68,custom,trial_x_0.335_raw.mp4,0.3717,remote;chair,VLM_TRIGGERED,PENDING...,0,0.1765
+68,custom,trial_x_0.335_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards in the room.,3068.4,0.1912
+69,custom,trial_x_0.335_raw.mp4,0.4168,remote,VLM_TRIGGERED,PENDING...,0,0.1884
+69,custom,trial_x_0.335_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards.,3006.8,0.2029
+70,custom,trial_x_0.335_raw.mp4,0.4463,remote;chair,VLM_TRIGGERED,PENDING...,0,0.2000
+70,custom,trial_x_0.335_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards.,2992.8,0.2143
+71,custom,trial_x_0.335_raw.mp4,0.4515,remote;chair,VLM_TRIGGERED,PENDING...,0,0.2113
+71,custom,trial_x_0.335_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards in the room.,3074.2,0.2254
+72,custom,trial_x_0.335_raw.mp4,0.4129,remote;chair,VLM_TRIGGERED,PENDING...,0,0.2222
+72,custom,trial_x_0.335_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards in the room.,3058.0,0.2361
+73,custom,trial_x_0.335_raw.mp4,0.4375,remote;chair;tv,VLM_TRIGGERED,PENDING...,0,0.2329
+73,custom,trial_x_0.335_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards.,3005.0,0.2466
+74,custom,trial_x_0.335_raw.mp4,0.4392,remote;chair,VLM_TRIGGERED,PENDING...,0,0.2432
+74,custom,trial_x_0.335_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards in the room.,3065.7,0.2568
+75,custom,trial_x_0.335_raw.mp4,0.4034,chair;remote,VLM_TRIGGERED,PENDING...,0,0.2533
+75,custom,trial_x_0.335_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards in the room.,3057.6,0.2667
+76,custom,trial_x_0.335_raw.mp4,0.3993,chair;remote,VLM_TRIGGERED,PENDING...,0,0.2632
+76,custom,trial_x_0.335_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards.,3065.1,0.2763
+77,custom,trial_x_0.335_raw.mp4,0.3693,chair;remote,VLM_TRIGGERED,PENDING...,0,0.2727
+77,custom,trial_x_0.335_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards.,2980.8,0.2857
+78,custom,trial_x_0.335_raw.mp4,0.3640,chair,VLM_TRIGGERED,PENDING...,0,0.2821
+78,custom,trial_x_0.335_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards.,3088.9,0.2949
+79,custom,trial_x_0.335_raw.mp4,0.3241,chair;keyboard,VLM_TRIGGERED,PENDING...,0,0.2911
+79,custom,trial_x_0.335_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards.,3072.0,0.3038
+80,custom,trial_x_0.335_raw.mp4,0.3050,chair,VLM_TRIGGERED,PENDING...,0,0.3000
+80,custom,trial_x_0.335_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards.,2972.0,0.3125
+81,custom,trial_x_0.335_raw.mp4,0.3598,chair;remote,VLM_TRIGGERED,PENDING...,0,0.3086
+81,custom,trial_x_0.335_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a room with a metallic chair in the foreground; and a dark; unclear background. There are no visible obstacles or hazards in the immediate vicinity of the chair. The floor appears to be a standard; untextured surface; and the path leading to the chair is clear. The room's lighting is dim; and the overall ambiance is somewhat eerie due to the grainy quality of the image and the simulated Diabetic Retinopathy effect.,5023.6,0.3210
+82,custom,trial_x_0.335_raw.mp4,0.3511,chair,VLM_TRIGGERED,PENDING...,0,0.3171
+82,custom,trial_x_0.335_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards in the room.,3046.7,0.3293
+83,custom,trial_x_0.335_raw.mp4,0.3213,chair,VLM_TRIGGERED,PENDING...,0,0.3253
+83,custom,trial_x_0.335_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards.,3039.6,0.3373
+84,custom,trial_x_0.335_raw.mp4,0.3240,chair;chair,VLM_TRIGGERED,PENDING...,0,0.3333
+84,custom,trial_x_0.335_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards in the room.,3129.8,0.3452

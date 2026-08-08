@@ -1,0 +1,99 @@
+frame_idx,source_env,source_file,yolo_max_conf,status,vlm_response,latency_ms,usage_ratio
+1,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.4627,YOLO_ONLY,N/A,0,0.0000
+2,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.3673,YOLO_ONLY,N/A,0,0.0000
+3,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.2566,VLM_TRIGGERED,PENDING...,0,0.0000
+3,computer_room_part_two,trial_x_0.47000000000000003.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows an orange traffic cone with a green border; placed on a gray carpeted floor. There are no visible obstacles or hazards in the immediate vicinity of the cone within the frame of this image. The focus is solely on the clear area around the cone; which includes the floor and path leading up to it.,4246.2,0.3333
+4,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.3124,VLM_TRIGGERED,PENDING...,0,0.2500
+4,computer_room_part_two,trial_x_0.47000000000000003.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include an orange traffic cone with a black circle around it; which is likely a simulation of Age-Related Macular Degeneration. The clear area of the image shows a gray carpeted floor with no visible hazards or obstructions.,3823.7,0.5000
+5,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.0000,YOLO_ONLY,N/A,0,0.4000
+6,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.0000,YOLO_ONLY,N/A,0,0.3333
+7,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.0000,YOLO_ONLY,N/A,0,0.2857
+8,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.3574,YOLO_ONLY,N/A,0,0.2500
+9,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.0000,YOLO_ONLY,N/A,0,0.2222
+10,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.2996,VLM_TRIGGERED,PENDING...,0,0.2000
+10,computer_room_part_two,trial_x_0.47000000000000003.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows an orange traffic cone with a green border; placed on a gray carpeted floor. The cone is positioned centrally in the frame; and there are no other objects or hazards immediately visible around it. The focus should be on the clear areas of the image to describe the actual floor and path.,4128.6,0.3000
+11,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.0000,YOLO_ONLY,N/A,0,0.2727
+12,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.3026,VLM_TRIGGERED,PENDING...,0,0.2500
+12,computer_room_part_two,trial_x_0.47000000000000003.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles and hazards in the room include the orange traffic cone; which is placed on a blue carpeted floor. The cone's position suggests it may be blocking access or indicating an area of caution. There are no other visible obstructions or hazards within the frame of the image provided.,4131.9,0.3333
+13,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.2689,VLM_TRIGGERED,PENDING...,0,0.3077
+13,computer_room_part_two,trial_x_0.47000000000000003.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows an orange traffic cone with a black circular area superimposed over it; which is likely a simulation or overlay for visual processing purposes. The rest of the room appears to be clear except for this simulated object.,3604.1,0.3846
+14,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.0000,YOLO_ONLY,N/A,0,0.3571
+15,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.3526,YOLO_ONLY,N/A,0,0.3333
+16,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.2802,VLM_TRIGGERED,PENDING...,0,0.3125
+16,computer_room_part_two,trial_x_0.47000000000000003.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows an orange traffic cone with a green border; placed on a gray carpeted floor. The cone is positioned centrally in the frame; and there are no other objects or hazards immediately visible around it. The focus should be on the clear areas of the image to describe the actual floor and path.,4124.9,0.3750
+17,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.3353,YOLO_ONLY,N/A,0,0.3529
+18,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.3600,YOLO_ONLY,N/A,0,0.3333
+19,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.2742,VLM_TRIGGERED,PENDING...,0,0.3158
+19,computer_room_part_two,trial_x_0.47000000000000003.mp4,N/A,VLM_RESPONSE_RECEIVED,The clear area of the image shows an orange traffic cone placed on a gray carpeted floor; with no other obstacles or hazards immediately visible.,3306.7,0.3684
+20,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.2874,VLM_TRIGGERED,PENDING...,0,0.3500
+20,computer_room_part_two,trial_x_0.47000000000000003.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows an orange traffic cone with a black circular area at its base; which is likely a simulation or overlay rather than a real object. The surrounding area appears to be a room with a carpeted floor; and there are no visible obstacles or hazards in the immediate vicinity of the cone that can be discerned from this image alone.,4420.7,0.4000
+21,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.0000,YOLO_ONLY,N/A,0,0.3810
+22,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.0000,YOLO_ONLY,N/A,0,0.3636
+23,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.2693,VLM_TRIGGERED,PENDING...,0,0.3478
+23,computer_room_part_two,trial_x_0.47000000000000003.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows an orange traffic cone with a black circular area superimposed over it; which is likely a simulation or overlay for illustrative purposes. The rest of the room appears to be clear except for this simulated hazard.,3623.5,0.3913
+24,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.0000,YOLO_ONLY,N/A,0,0.3750
+25,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.2940,VLM_TRIGGERED,PENDING...,0,0.3600
+25,computer_room_part_two,trial_x_0.47000000000000003.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows an orange traffic cone with a green border; placed on a gray carpeted floor. The cone is positioned centrally in the frame; and there are no other objects or hazards immediately visible around it. The focus should be on the clear areas of the image to describe the actual floor and path.,4137.5,0.4000
+26,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.0000,YOLO_ONLY,N/A,0,0.3846
+27,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.0000,YOLO_ONLY,N/A,0,0.3704
+28,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.0000,YOLO_ONLY,N/A,0,0.3571
+29,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.0000,YOLO_ONLY,N/A,0,0.3448
+30,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.0000,YOLO_ONLY,N/A,0,0.3333
+31,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.0000,YOLO_ONLY,N/A,0,0.3226
+32,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.0000,YOLO_ONLY,N/A,0,0.3125
+33,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.3590,YOLO_ONLY,N/A,0,0.3030
+34,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.0000,YOLO_ONLY,N/A,0,0.2941
+35,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.0000,YOLO_ONLY,N/A,0,0.2857
+36,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.0000,YOLO_ONLY,N/A,0,0.2778
+37,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.3473,YOLO_ONLY,N/A,0,0.2703
+38,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.0000,YOLO_ONLY,N/A,0,0.2632
+39,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.3278,VLM_TRIGGERED,PENDING...,0,0.2564
+39,computer_room_part_two,trial_x_0.47000000000000003.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows an orange traffic cone with a black circular area superimposed over it; which is likely a simulation or overlay for visual processing purposes. The rest of the room appears to be clear except for this simulated object.,3600.2,0.2821
+40,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.5230,YOLO_ONLY,N/A,0,0.2750
+41,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.2979,VLM_TRIGGERED,PENDING...,0,0.2683
+41,computer_room_part_two,trial_x_0.47000000000000003.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows an orange traffic cone with a green border; placed on a carpeted floor. The cone is positioned centrally within the frame; and there are no other objects or hazards immediately visible around it. The focus should be on the clear areas of the image to describe the actual floor and path.,4113.0,0.2927
+42,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.3526,YOLO_ONLY,N/A,0,0.2857
+43,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.4825,YOLO_ONLY,N/A,0,0.2791
+44,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.3484,YOLO_ONLY,N/A,0,0.2727
+45,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.3653,YOLO_ONLY,N/A,0,0.2667
+46,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.5242,YOLO_ONLY,N/A,0,0.2609
+47,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.4296,YOLO_ONLY,N/A,0,0.2553
+48,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.3371,YOLO_ONLY,N/A,0,0.2500
+49,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.0000,YOLO_ONLY,N/A,0,0.2449
+50,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.0000,YOLO_ONLY,N/A,0,0.2400
+51,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.3925,YOLO_ONLY,N/A,0,0.2353
+52,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.0000,YOLO_ONLY,N/A,0,0.2308
+53,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.0000,YOLO_ONLY,N/A,0,0.2264
+54,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.0000,YOLO_ONLY,N/A,0,0.2222
+55,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.0000,YOLO_ONLY,N/A,0,0.2182
+56,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.0000,YOLO_ONLY,N/A,0,0.2143
+57,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.0000,YOLO_ONLY,N/A,0,0.2105
+58,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.0000,YOLO_ONLY,N/A,0,0.2069
+59,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.3333,YOLO_ONLY,N/A,0,0.2034
+60,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.0000,YOLO_ONLY,N/A,0,0.2000
+61,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.0000,YOLO_ONLY,N/A,0,0.1967
+62,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.0000,YOLO_ONLY,N/A,0,0.1935
+63,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.0000,YOLO_ONLY,N/A,0,0.1905
+64,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.0000,YOLO_ONLY,N/A,0,0.1875
+65,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.2882,VLM_TRIGGERED,PENDING...,0,0.1846
+65,computer_room_part_two,trial_x_0.47000000000000003.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows an orange traffic cone with a green border; placed on a gray carpeted floor. The cone is positioned centrally within the frame; and there are no other objects or hazards immediately visible around it. The focus should be on the clear areas of the image to describe the actual floor and path.,4237.4,0.2000
+66,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.3418,YOLO_ONLY,N/A,0,0.1970
+67,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.3998,YOLO_ONLY,N/A,0,0.1940
+68,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.3186,VLM_TRIGGERED,PENDING...,0,0.1912
+68,computer_room_part_two,trial_x_0.47000000000000003.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows an orange traffic cone with a green border; placed on a gray carpeted floor. The cone is positioned centrally in the frame; and there are no other objects or hazards immediately visible around it. The focus should be on the clear areas of the image to describe the actual floor and path.,4211.7,0.2059
+69,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.2641,VLM_TRIGGERED,PENDING...,0,0.2029
+69,computer_room_part_two,trial_x_0.47000000000000003.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows an orange traffic cone with a black circular area superimposed over it; which is likely a graphical representation or overlay for analysis purposes. The rest of the image depicts a room with a checkered pattern on the floor and what appears to be office furniture in the background. There are no visible obstacles or hazards that can be identified from this particular viewpoint.,4502.6,0.2174
+70,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.3258,VLM_TRIGGERED,PENDING...,0,0.2143
+70,computer_room_part_two,trial_x_0.47000000000000003.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows an orange traffic cone with a green border; placed on a gray carpeted floor. The cone is positioned centrally within the frame; and there are no other objects or hazards immediately visible around it. The focus should be on the clear areas of the image to describe the actual floor and path; which in this case; appears to be a standard office or institutional space with no immediate obstructions or hazards.,4722.2,0.2286
+71,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.2554,VLM_TRIGGERED,PENDING...,0,0.2254
+71,computer_room_part_two,trial_x_0.47000000000000003.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles and hazards in the room include the orange traffic cone; which is placed on a blue carpeted floor. The cone's position suggests it may be blocking access or indicating an area of caution. There are no other visible obstructions or hazards within the frame of the image provided.,4088.2,0.2394
+72,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.2929,VLM_TRIGGERED,PENDING...,0,0.2361
+72,computer_room_part_two,trial_x_0.47000000000000003.mp4,N/A,VLM_RESPONSE_RECEIVED,The clear area of the image shows an orange traffic cone placed on a blue carpeted floor; with no other obstacles or hazards immediately visible.,3270.9,0.2500
+73,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.3682,YOLO_ONLY,N/A,0,0.2466
+74,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.2583,VLM_TRIGGERED,PENDING...,0,0.2432
+74,computer_room_part_two,trial_x_0.47000000000000003.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows an orange traffic cone with a black circular area at its base; which is likely a simulation or overlay for illustrative purposes. The rest of the room appears to be a standard office environment with carpeted floors and no immediate obstacles visible in the clear areas of the image.,3961.6,0.2568
+75,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.3615,YOLO_ONLY,N/A,0,0.2533
+76,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.2647,VLM_TRIGGERED,PENDING...,0,0.2500
+76,computer_room_part_two,trial_x_0.47000000000000003.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows an orange traffic cone with a green border; placed on a gray carpeted floor. The cone is positioned centrally in the frame; and there are no other objects or hazards immediately visible around it. The focus should be on the clear areas of the image to describe the actual floor and path.,4139.2,0.2632
+77,computer_room_part_two,trial_x_0.47000000000000003.mp4,0.2595,VLM_TRIGGERED,PENDING...,0,0.2597
+77,computer_room_part_two,trial_x_0.47000000000000003.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows an orange traffic cone with a black circular area superimposed over it; which is likely a simulation or overlay for illustrative purposes. The rest of the room appears to be clear except for this simulated hazard.,3608.8,0.2727

@@ -1,0 +1,129 @@
+frame_idx,source_env,source_file,yolo_max_conf,detected_classes,status,vlm_response,latency_ms,usage_ratio
+1,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+2,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+3,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+4,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+5,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+6,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+7,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+8,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+9,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+10,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+11,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+12,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+13,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+14,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+15,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+16,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+17,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+18,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+19,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+20,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+21,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+22,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+23,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+24,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+25,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+26,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+27,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+28,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+29,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+30,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+31,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+32,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+33,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+34,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+35,glaucoma,trial_x_0.605.mp4,0.2890,tv,VLM_TRIGGERED,PENDING...,0,0.0000
+35,glaucoma,trial_x_0.605.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards in the room.,3062.5,0.0286
+36,glaucoma,trial_x_0.605.mp4,0.3490,tv,VLM_TRIGGERED,PENDING...,0,0.0278
+36,glaucoma,trial_x_0.605.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards in the room.,3065.5,0.0556
+37,glaucoma,trial_x_0.605.mp4,0.2684,tv,VLM_TRIGGERED,PENDING...,0,0.0541
+37,glaucoma,trial_x_0.605.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark to provide a detailed description of the room's obstacles and hazards.,3013.6,0.0811
+38,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0789
+39,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0769
+40,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0750
+41,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0732
+42,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0714
+43,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0698
+44,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0682
+45,glaucoma,trial_x_0.605.mp4,0.3415,tv,VLM_TRIGGERED,PENDING...,0,0.0667
+45,glaucoma,trial_x_0.605.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards in the room.,3059.3,0.0889
+46,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0870
+47,glaucoma,trial_x_0.605.mp4,0.4798,tv,VLM_TRIGGERED,PENDING...,0,0.0851
+47,glaucoma,trial_x_0.605.mp4,N/A,VLM_RESPONSE_RECEIVED,The image does not provide a clear view of the floor or path; as the focus is on the whiteboard and the camera's lens. Therefore; it is not possible to identify any obstacles or hazards in the room based on this image.,3768.0,0.1064
+48,glaucoma,trial_x_0.605.mp4,0.5414,tv,YOLO_ONLY,N/A,0,0.1042
+49,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1020
+50,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1000
+51,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0980
+52,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0962
+53,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0943
+54,glaucoma,trial_x_0.605.mp4,0.4611,tv,VLM_TRIGGERED,PENDING...,0,0.0926
+54,glaucoma,trial_x_0.605.mp4,N/A,VLM_RESPONSE_RECEIVED,The image does not provide a clear view of the floor or path; as the focus is on the whiteboard and the corner white haze. Therefore; it is not possible to identify any obstacles or hazards in the room based on this image.,3851.2,0.1111
+55,glaucoma,trial_x_0.605.mp4,0.4784,tv,VLM_TRIGGERED,PENDING...,0,0.1091
+55,glaucoma,trial_x_0.605.mp4,N/A,VLM_RESPONSE_RECEIVED,The image does not provide a clear view of the floor or path; as the focus is on the camera lens and the white haze. Therefore; it is not possible to identify any obstacles or hazards in the room based on this image.,3702.4,0.1273
+56,glaucoma,trial_x_0.605.mp4,0.4705,tv,VLM_TRIGGERED,PENDING...,0,0.1250
+56,glaucoma,trial_x_0.605.mp4,N/A,VLM_RESPONSE_RECEIVED,The image does not provide a clear view of the floor or path; as the focus is on the whiteboard and the red object. The corner white haze; which is a camera defect simulating Retinitis Pigmentosa; obscures the view of the room. Therefore; it is not possible to identify any obstacles or hazards in the room based on this image.,4370.3,0.1429
+57,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1404
+58,glaucoma,trial_x_0.605.mp4,0.4640,tv,VLM_TRIGGERED,PENDING...,0,0.1379
+58,glaucoma,trial_x_0.605.mp4,N/A,VLM_RESPONSE_RECEIVED,The image does not provide a clear view of the floor or path; as the focus is on the corner with the white haze. Therefore; it is not possible to identify any obstacles or hazards in the room based on this image.,3678.0,0.1552
+59,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1525
+60,glaucoma,trial_x_0.605.mp4,0.4546,tv,VLM_TRIGGERED,PENDING...,0,0.1500
+60,glaucoma,trial_x_0.605.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a room with a whiteboard on the wall; which is the main focus. The whiteboard is covered with handwritten notes; making it difficult to discern specific details. There is a red object on the floor; which appears to be a piece of furniture or equipment. The floor itself is not clearly visible due to the camera's focus on the whiteboard and the red object. The room's lighting is dim; and there are no visible obstacles or hazards in the clear areas of the image. The corner white haze is a camera defect simulating Retinitis Pigmentosa; which is not a real hazard but a visual effect.,5879.2,0.1667
+61,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1639
+62,glaucoma,trial_x_0.605.mp4,0.3595,tv,VLM_TRIGGERED,PENDING...,0,0.1613
+62,glaucoma,trial_x_0.605.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards.,3016.6,0.1774
+63,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1746
+64,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1719
+65,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1692
+66,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1667
+67,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1642
+68,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1618
+69,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1594
+70,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1571
+71,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1549
+72,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1528
+73,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1507
+74,glaucoma,trial_x_0.605.mp4,0.4049,tv,VLM_TRIGGERED,PENDING...,0,0.1486
+74,glaucoma,trial_x_0.605.mp4,N/A,VLM_RESPONSE_RECEIVED,The image does not provide enough visual information to identify obstacles or hazards in the room. The focus is on the corner white haze; which is a camera defect simulating Retinitis Pigmentosa; and the clear areas of the image do not reveal any floor or path. Therefore; it is not possible to describe the actual floor and path in this image.,4506.1,0.1622
+75,glaucoma,trial_x_0.605.mp4,0.3954,tv,VLM_TRIGGERED,PENDING...,0,0.1600
+75,glaucoma,trial_x_0.605.mp4,N/A,VLM_RESPONSE_RECEIVED,The image does not provide a clear view of the floor or path; as the focus is on the corner with the white haze. Therefore; it is not possible to identify any obstacles or hazards in the room based on this image.,3833.0,0.1733
+76,glaucoma,trial_x_0.605.mp4,0.4569,tv,VLM_TRIGGERED,PENDING...,0,0.1711
+76,glaucoma,trial_x_0.605.mp4,N/A,VLM_RESPONSE_RECEIVED,The image does not provide enough visual information to identify obstacles or hazards in the room. The focus is on the corner white haze; which is a camera defect simulating Retinitis Pigmentosa; and the clear areas of the image do not reveal any floor or path. Therefore; it is not possible to describe the actual floor and path in this image.,4979.6,0.1842
+77,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1818
+78,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1795
+79,glaucoma,trial_x_0.605.mp4,0.4066,tv,VLM_TRIGGERED,PENDING...,0,0.1772
+79,glaucoma,trial_x_0.605.mp4,N/A,VLM_RESPONSE_RECEIVED,The image does not provide a clear view of the floor or path; as the focus is on the whiteboard and the red object. The corner white haze; which is a camera defect simulating Retinitis Pigmentosa; obscures the view of the room. Therefore; it is not possible to identify any obstacles or hazards in the room based on this image.,5207.9,0.1899
+80,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1875
+81,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1852
+82,glaucoma,trial_x_0.605.mp4,0.4201,tv,VLM_TRIGGERED,PENDING...,0,0.1829
+82,glaucoma,trial_x_0.605.mp4,N/A,VLM_RESPONSE_RECEIVED,The image does not provide a clear view of the floor or path; as the focus is on the whiteboard and the red object. The white haze; which is a camera defect simulating Retinitis Pigmentosa; obscures any potential obstacles or hazards in the room. Therefore; it is not possible to identify any obstacles or hazards in the room based on this image.,4713.4,0.1951
+83,glaucoma,trial_x_0.605.mp4,0.3584,tv,VLM_TRIGGERED,PENDING...,0,0.1928
+83,glaucoma,trial_x_0.605.mp4,N/A,VLM_RESPONSE_RECEIVED,The image does not provide a clear view of the floor or path; as the focus is on the corner with the white haze. Therefore; it is not possible to identify any obstacles or hazards in the room based on this image.,3739.4,0.2048
+84,glaucoma,trial_x_0.605.mp4,0.3741,tv,VLM_TRIGGERED,PENDING...,0,0.2024
+84,glaucoma,trial_x_0.605.mp4,N/A,VLM_RESPONSE_RECEIVED,The image does not provide a clear view of the floor or path; as the focus is on the whiteboard and the red object on it. The white haze; which is a camera defect simulating Retinitis Pigmentosa; obscures any potential obstacles or hazards in the room. Therefore; it is not possible to identify any obstacles or hazards in the room based on this image.,4565.3,0.2143
+85,glaucoma,trial_x_0.605.mp4,0.3632,tv,VLM_TRIGGERED,PENDING...,0,0.2118
+85,glaucoma,trial_x_0.605.mp4,N/A,VLM_RESPONSE_RECEIVED,The image does not provide a clear view of the floor or path due to the camera defect simulating Retinitis Pigmentosa; which obscures the details. Therefore; it is not possible to identify any obstacles or hazards in the room based on this image.,3898.4,0.2235
+86,glaucoma,trial_x_0.605.mp4,0.4231,tv,VLM_TRIGGERED,PENDING...,0,0.2209
+86,glaucoma,trial_x_0.605.mp4,N/A,VLM_RESPONSE_RECEIVED,The image does not provide enough visual information to identify obstacles or hazards in the room. The focus is on the corner with the white haze; which is a camera defect simulating Retinitis Pigmentosa; and the rest of the image is too dark to discern any details. Therefore; it is not possible to describe the actual floor and path in this image.,4381.4,0.2326
+87,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2299
+88,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2273
+89,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2247
+90,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2222
+91,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2198
+92,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2174
+93,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2151
+94,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2128
+95,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2105
+96,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2083
+97,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2062
+98,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2041
+99,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2020
+100,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2000
+101,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1980
+102,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1961
+103,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1942
+104,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1923
+105,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1905
+106,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1887
+107,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1869
+108,glaucoma,trial_x_0.605.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1852

@@ -1,0 +1,241 @@
+frame_idx,source_env,source_file,yolo_max_conf,detected_classes,status,vlm_response,latency_ms,usage_ratio
+1,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+2,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+3,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+4,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+5,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+6,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+7,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+8,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+9,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+10,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+11,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+12,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+13,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+14,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+15,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+16,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+17,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+18,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+19,RP,trial_x_0.5_raw.mp4,0.3482,airplane;airplane,VLM_TRIGGERED,PENDING...,0,0.0000
+19,RP,trial_x_0.5_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too small and unclear to provide a detailed description or identify any obstacles and hazards.,3109.7,0.0526
+20,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0500
+21,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0476
+22,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0455
+23,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0435
+24,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0417
+25,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0400
+26,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0385
+27,RP,trial_x_0.5_raw.mp4,0.3965,airplane;airplane,VLM_TRIGGERED,PENDING...,0,0.0370
+27,RP,trial_x_0.5_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too small and blurry to provide a detailed description or identify any obstacles and hazards.,3024.9,0.0741
+28,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0714
+29,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0690
+30,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0667
+31,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0645
+32,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0625
+33,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0606
+34,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0588
+35,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0571
+36,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0556
+37,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0541
+38,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0526
+39,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0513
+40,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0500
+41,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0488
+42,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0476
+43,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0465
+44,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0455
+45,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0444
+46,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0435
+47,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0426
+48,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0417
+49,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0408
+50,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0400
+51,RP,trial_x_0.5_raw.mp4,0.3112,airplane,VLM_TRIGGERED,PENDING...,0,0.0392
+51,RP,trial_x_0.5_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too small and unclear to provide a detailed description or answer.,2858.0,0.0588
+52,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0577
+53,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0566
+54,RP,trial_x_0.5_raw.mp4,0.3048,person,VLM_TRIGGERED,PENDING...,0,0.0556
+54,RP,trial_x_0.5_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too small and blurry to provide a detailed description or to identify any obstacles or hazards.,3057.9,0.0741
+55,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0727
+56,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0714
+57,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0702
+58,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0690
+59,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0678
+60,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0667
+61,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0656
+62,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0645
+63,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0635
+64,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0625
+65,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0615
+66,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0606
+67,RP,trial_x_0.5_raw.mp4,0.3755,toothbrush,VLM_TRIGGERED,PENDING...,0,0.0597
+67,RP,trial_x_0.5_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too small and unclear to provide a detailed description or answer.,2864.3,0.0746
+68,RP,trial_x_0.5_raw.mp4,0.3642,toothbrush,VLM_TRIGGERED,PENDING...,0,0.0735
+68,RP,trial_x_0.5_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too small and unclear to provide a detailed description or answer.,2878.4,0.0882
+69,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0870
+70,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0857
+71,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0845
+72,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0833
+73,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0822
+74,RP,trial_x_0.5_raw.mp4,0.3642,person,VLM_TRIGGERED,PENDING...,0,0.0811
+74,RP,trial_x_0.5_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too small and blurry to provide a detailed description of the room's obstacles and hazards.,3064.7,0.0946
+75,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0933
+76,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0921
+77,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0909
+78,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0897
+79,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0886
+80,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0875
+81,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0864
+82,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0854
+83,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0843
+84,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0833
+85,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0824
+86,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0814
+87,RP,trial_x_0.5_raw.mp4,0.2830,mouse,VLM_TRIGGERED,PENDING...,0,0.0805
+87,RP,trial_x_0.5_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too small and lacks clarity; making it impossible to identify any obstacles or hazards in the room.,3117.5,0.0920
+88,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0909
+89,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0899
+90,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0889
+91,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0879
+92,RP,trial_x_0.5_raw.mp4,0.4245,airplane,VLM_TRIGGERED,PENDING...,0,0.0870
+92,RP,trial_x_0.5_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards.,2971.7,0.0978
+93,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0968
+94,RP,trial_x_0.5_raw.mp4,0.4101,vase,VLM_TRIGGERED,PENDING...,0,0.0957
+94,RP,trial_x_0.5_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too small and unclear to provide a detailed description or answer.,2982.2,0.1064
+95,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1053
+96,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1042
+97,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1031
+98,RP,trial_x_0.5_raw.mp4,0.3719,airplane,VLM_TRIGGERED,PENDING...,0,0.1020
+98,RP,trial_x_0.5_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards in the room.,3064.4,0.1122
+99,RP,trial_x_0.5_raw.mp4,0.4525,airplane,VLM_TRIGGERED,PENDING...,0,0.1111
+99,RP,trial_x_0.5_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards.,3013.8,0.1212
+100,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1200
+101,RP,trial_x_0.5_raw.mp4,0.2903,bird,VLM_TRIGGERED,PENDING...,0,0.1188
+101,RP,trial_x_0.5_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too small and unclear to provide a detailed description or answer.,2898.3,0.1287
+102,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1275
+103,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1262
+104,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1250
+105,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1238
+106,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1226
+107,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1215
+108,RP,trial_x_0.5_raw.mp4,0.3669,airplane,VLM_TRIGGERED,PENDING...,0,0.1204
+108,RP,trial_x_0.5_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too blurry to identify any obstacles or hazards; as it lacks clear details and specific features that could indicate such elements.,3288.3,0.1296
+109,RP,trial_x_0.5_raw.mp4,0.2995,person,VLM_TRIGGERED,PENDING...,0,0.1284
+109,RP,trial_x_0.5_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too blurred to identify any obstacles or hazards; as it lacks clear details and specific features that could indicate such elements.,3261.8,0.1376
+110,RP,trial_x_0.5_raw.mp4,0.3402,person,VLM_TRIGGERED,PENDING...,0,0.1364
+110,RP,trial_x_0.5_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too blurred to identify any obstacles or hazards; as it lacks clear details and specific features.,3125.9,0.1455
+111,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1441
+112,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1429
+113,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1416
+114,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1404
+115,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1391
+116,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1379
+117,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1368
+118,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1356
+119,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1345
+120,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1333
+121,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1322
+122,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1311
+123,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1301
+124,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1290
+125,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1280
+126,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1270
+127,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1260
+128,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1250
+129,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1240
+130,RP,trial_x_0.5_raw.mp4,0.3975,frisbee,VLM_TRIGGERED,PENDING...,0,0.1231
+130,RP,trial_x_0.5_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too small and unclear to provide a detailed description of the room or identify any obstacles or hazards.,3123.8,0.1308
+131,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1298
+132,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1288
+133,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1278
+134,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1269
+135,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1259
+136,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1250
+137,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1241
+138,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1232
+139,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1223
+140,RP,trial_x_0.5_raw.mp4,0.2651,car,VLM_TRIGGERED,PENDING...,0,0.1214
+140,RP,trial_x_0.5_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards.,2996.6,0.1286
+141,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1277
+142,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1268
+143,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1259
+144,RP,trial_x_0.5_raw.mp4,0.4813,airplane,VLM_TRIGGERED,PENDING...,0,0.1250
+144,RP,trial_x_0.5_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too small and blurry to provide a detailed description or answer.,2891.6,0.1319
+145,RP,trial_x_0.5_raw.mp4,0.3303,airplane,VLM_TRIGGERED,PENDING...,0,0.1310
+145,RP,trial_x_0.5_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too small and unclear to provide a detailed description or answer.,2869.5,0.1379
+146,RP,trial_x_0.5_raw.mp4,0.3570,carrot;carrot,VLM_TRIGGERED,PENDING...,0,0.1370
+146,RP,trial_x_0.5_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too blurred to provide a detailed description of the room's obstacles and hazards.,3108.7,0.1438
+147,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1429
+148,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1419
+149,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1409
+150,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1400
+151,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1391
+152,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1382
+153,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1373
+154,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1364
+155,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1355
+156,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1346
+157,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1338
+158,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1329
+159,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1321
+160,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1313
+161,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1304
+162,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1296
+163,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1288
+164,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1280
+165,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1273
+166,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1265
+167,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1257
+168,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1250
+169,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1243
+170,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1235
+171,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1228
+172,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1221
+173,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1214
+174,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1207
+175,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1200
+176,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1193
+177,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1186
+178,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1180
+179,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1173
+180,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1167
+181,RP,trial_x_0.5_raw.mp4,0.2915,airplane,VLM_TRIGGERED,PENDING...,0,0.1160
+181,RP,trial_x_0.5_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too small and blurry to provide a detailed description or answer.,2887.7,0.1215
+182,RP,trial_x_0.5_raw.mp4,0.3076,person,VLM_TRIGGERED,PENDING...,0,0.1209
+182,RP,trial_x_0.5_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too small and blurry to provide a detailed description or identify any obstacles and hazards.,3039.7,0.1264
+183,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1257
+184,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1250
+185,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1243
+186,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1237
+187,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1230
+188,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1223
+189,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1217
+190,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1211
+191,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1204
+192,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1198
+193,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1192
+194,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1186
+195,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1179
+196,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1173
+197,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1168
+198,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1162
+199,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1156
+200,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1150
+201,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1144
+202,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1139
+203,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1133
+204,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1127
+205,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1122
+206,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1117
+207,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1111
+208,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1106
+209,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1100
+210,RP,trial_x_0.5_raw.mp4,0.4026,person,VLM_TRIGGERED,PENDING...,0,0.1095
+210,RP,trial_x_0.5_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too small and unclear to provide a detailed description or answer.,2872.4,0.1143
+211,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1137
+212,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1132
+213,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1127
+214,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1121
+215,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1116
+216,RP,trial_x_0.5_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1111

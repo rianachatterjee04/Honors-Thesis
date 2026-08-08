@@ -1,0 +1,129 @@
+frame_idx,source_env,source_file,yolo_max_conf,status,vlm_response,latency_ms,usage_ratio
+1,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.0000
+2,hallway,trial_x_0.32.mp4,0.3014,VLM_TRIGGERED,PENDING...,0,0.0000
+2,hallway,trial_x_0.32.mp4,N/A,VLM_RESPONSE_RECEIVED,"The image shows a section of an indoor space; likely a hallway or corridor within a building. The most prominent feature is the dark circular area that obscures part of the floor; which could be interpreted as a shadow cast by an object or a reflection on the floor. This area is central to the image and stands out due to its contrast with the surrounding lighter areas.
+
+The floor itself appears to be carpeted in a patterned design; predominantly blue with some white elements. The carpet's texture seems smooth; and there are no visible signs of wear or damage. The walls are not fully visible; but they appear to be painted in a neutral color; possibly gray or black; which complements the flooring.
+
+On either side of the central dark area; there are two orange traffic cones placed on the floor. These cones are cylindrical with a flat top and a narrower base; typical of construction or roadwork cones used to mark hazards or areas of caution. Their bright color makes them easily noticeable against the muted tones of the carpet and walls.
+
+There is no evidence of any other obstacles or hazards in the visible portion of the image. The focus remains on the floor; path; and traffic cones; with the central dark area being the most notable feature due to its contrasting color and potential significance as a visual element within the context of the room's use.",10192.5,0.5000
+3,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.3333
+4,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.2500
+5,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.2000
+6,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.1667
+7,hallway,trial_x_0.32.mp4,0.3117,VLM_TRIGGERED,PENDING...,0,0.1429
+7,hallway,trial_x_0.32.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows two orange traffic cones placed on what appears to be an office or commercial space; as indicated by the tiled flooring and the presence of a metallic door in the background. The cones are positioned at different angles; with one closer to the foreground and the other slightly behind it. There is no visible debris or obstructions on the floor that would pose an immediate hazard. However; the black blurry circle in the center could be interpreted as a simulated representation of a hazardous area due to its central placement and distinct color contrast with the surrounding environment. It's important to note that this is not a real-world scenario but rather a digital simulation or artistic rendering. In a real-world setting; such a feature would typically indicate an area where caution should be exercised; possibly due to construction work; maintenance activities; or other hazards associated with the space.,7074.9,0.2857
+8,hallway,trial_x_0.32.mp4,0.3376,VLM_TRIGGERED,PENDING...,0,0.2500
+8,hallway,trial_x_0.32.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows two orange traffic cones placed on what appears to be an industrial or commercial floor. The cones are positioned at a distance from each other; with one slightly ahead of the other. There is no visible debris or obstacles in the immediate vicinity of the cones that would pose a hazard. However; the black blurry circle in the center could be interpreted as an artistic representation rather than a real-world object. It does not correspond to any physical obstacle or hazard within the context of this image. The floor itself is covered with a patterned carpet; and there are no other discernible features that would indicate additional hazards in the visible area.,5970.7,0.3750
+9,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.3333
+10,hallway,trial_x_0.32.mp4,0.2843,VLM_TRIGGERED,PENDING...,0,0.3000
+10,hallway,trial_x_0.32.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows two orange traffic cones placed on what appears to be an industrial or commercial floor. The cones are positioned at a distance from each other; with one slightly ahead of the other. There is no visible debris or obstacles in the immediate vicinity of the cones that would pose a hazard. However; the black blurry circle in the center could be interpreted as an artistic representation rather than a real-world object. It does not correspond to any physical obstacle or hazard within the context of this image. The floor itself is covered with a dark carpet that has a textured pattern; and there are no other discernible features such as stairs; railings; or equipment that would indicate a specific type of room or setting.,6353.2,0.4000
+11,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.3636
+12,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.3333
+13,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.3077
+14,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.2857
+15,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.2667
+16,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.2500
+17,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.2353
+18,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.2222
+19,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.2105
+20,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.2000
+21,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.1905
+22,hallway,trial_x_0.32.mp4,0.3091,VLM_TRIGGERED,PENDING...,0,0.1818
+22,hallway,trial_x_0.32.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows two orange traffic cones placed on what appears to be an industrial or commercial floor. The cones are positioned at a distance from each other; with one slightly in front of the other. They are standing upright; indicating that they are not currently being used for any specific purpose. There is no visible debris or obstructions on the floor between the cones; and the pathway appears clear. The lighting in the room is artificial; likely from overhead fluorescent lights; which casts a uniform glow over the scene without creating harsh shadows. The walls are not fully visible; but they seem to be made of metal or a similar material; given their reflective quality and the way they catch the light. There is no evidence of any other hazards in the immediate vicinity of the cones; however; it's important to note that this image does not provide enough context to determine if there are any potential hazards outside the frame or beyond what is visible.,7945.3,0.2273
+23,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.2174
+24,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.2083
+25,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.2000
+26,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.1923
+27,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.1852
+28,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.1786
+29,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.1724
+30,hallway,trial_x_0.32.mp4,0.4053,YOLO_ONLY,N/A,0,0.1667
+31,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.1613
+32,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.1562
+33,hallway,trial_x_0.32.mp4,0.3423,VLM_TRIGGERED,PENDING...,0,0.1515
+33,hallway,trial_x_0.32.mp4,N/A,VLM_RESPONSE_RECEIVED,"The image shows a section of an indoor environment; likely a hallway or corridor within a building. The most prominent feature is the dark circular area that obscures part of the floor; which could be interpreted as a shadow cast by an object or a reflection on the floor. This area is central to the image and stands out due to its contrast with the surrounding lighter areas.
+
+The floor itself appears to be made of a carpeted material; indicated by the texture and pattern visible in the photograph. The carpet has a consistent color and seems to cover the entire visible floor space. There are no other objects or hazards immediately apparent on the floor that can be identified from this image.
+
+The walls are not fully visible due to the angle of the shot; but they appear to be constructed with materials typical for indoor environments; such as drywall or plaster. The lighting conditions suggest an artificial source; likely overhead fluorescent lights; which is common in office buildings and similar structures.
+
+In summary; the image shows a section of a carpeted floor with a dark circular area that obstructs part of it; and there are no other visible hazards or obstacles within this frame.",8859.2,0.1818
+34,hallway,trial_x_0.32.mp4,0.2555,VLM_TRIGGERED,PENDING...,0,0.1765
+34,hallway,trial_x_0.32.mp4,N/A,VLM_RESPONSE_RECEIVED,"The image shows a section of an indoor environment; likely a hallway or corridor within a building. The most prominent feature is the black circular hazard symbol on the floor; which is a universal warning sign indicating a potential danger or obstruction. This symbol is typically used to alert individuals to be cautious when passing through this area.
+
+The floor itself appears to be made of a dark-colored carpet with a textured pattern that could be indicative of a non-slip surface; which is common in areas where people might walk or stand for extended periods. The edges of the floor are not clearly visible due to the angle and framing of the image; but there seems to be a slight elevation at the bottom; suggesting it may be part of an elevator platform or staircase.
+
+There are no other objects or hazards immediately visible in this section of the room. The focus is on the floor and the central hazard symbol; with the rest of the image being obscured by the darkness and the angle at which it was taken.",7939.6,0.2059
+35,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.2000
+36,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.1944
+37,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.1892
+38,hallway,trial_x_0.32.mp4,0.3986,YOLO_ONLY,N/A,0,0.1842
+39,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.1795
+40,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.1750
+41,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.1707
+42,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.1667
+43,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.1628
+44,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.1591
+45,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.1556
+46,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.1522
+47,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.1489
+48,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.1458
+49,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.1429
+50,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.1400
+51,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.1373
+52,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.1346
+53,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.1321
+54,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.1296
+55,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.1273
+56,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.1250
+57,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.1228
+58,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.1207
+59,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.1186
+60,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.1167
+61,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.1148
+62,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.1129
+63,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.1111
+64,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.1094
+65,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.1077
+66,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.1061
+67,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.1045
+68,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.1029
+69,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.1014
+70,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.1000
+71,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.0986
+72,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.0972
+73,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.0959
+74,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.0946
+75,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.0933
+76,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.0921
+77,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.0909
+78,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.0897
+79,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.0886
+80,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.0875
+81,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.0864
+82,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.0854
+83,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.0843
+84,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.0833
+85,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.0824
+86,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.0814
+87,hallway,trial_x_0.32.mp4,0.3325,VLM_TRIGGERED,PENDING...,0,0.0805
+87,hallway,trial_x_0.32.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows two orange traffic cones placed on what appears to be an office or commercial space; as indicated by the tiled flooring and the presence of a metallic door in the background. The cones are positioned at different angles; suggesting they may have been used for demarcation or to guide foot traffic. There is no visible obstruction or hazard on the floor itself; however; the black blurry circle in the center could be interpreted as an artistic representation of a shadow or a digital overlay rather than a physical object. It's important to note that this interpretation is based solely on the visual information provided and does not account for any potential external factors or context beyond what is visible in the image.,5946.8,0.0920
+88,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.0909
+89,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.0899
+90,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.0889
+91,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.0879
+92,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.0870
+93,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.0860
+94,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.0851
+95,hallway,trial_x_0.32.mp4,0.2634,VLM_TRIGGERED,PENDING...,0,0.0842
+95,hallway,trial_x_0.32.mp4,N/A,VLM_RESPONSE_RECEIVED,"The image shows a section of an indoor environment; likely a public or commercial space given the presence of safety cones. The most prominent obstacle is the black circular area that obscures part of the floor; which could be interpreted as a shadow or a dark spot on the ground. This area does not correspond to any physical object and seems out of place in the context of the room's design.
+
+In terms of hazards; there are no immediately visible signs of tripping hazards such as loose objects or uneven surfaces. However; the black circle could potentially be a visual distraction or a sign of wear on the flooring material; which might require maintenance to ensure safety. The orange cones serve as a warning for potential hazards and are placed strategically to alert individuals to areas where they should be cautious.
+
+The image does not provide enough context to determine if there are any other obstacles or hazards outside the frame; but based on what is visible; the focus should be on the clear floor area and the safety cones that indicate a designated pathway for pedestrian traffic.",8308.1,0.0947
+96,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.0938
+97,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.0928
+98,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.0918
+99,hallway,trial_x_0.32.mp4,0.0000,YOLO_ONLY,N/A,0,0.0909

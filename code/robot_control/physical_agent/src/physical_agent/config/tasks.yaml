@@ -1,0 +1,15 @@
+manipulation_task:
+  description: >
+    Pick up object from {start_spot} using the pick_object tool.
+    Pass the location as a string parameter.
+  expected_output: >
+    Report showing successful pickup from {start_spot}.
+  agent: humanoid_robot
+
+dog_sequence_task:
+  description: >
+    Perform a greeting sequence: first use stand_up, then hello, then stand_down.
+    Use each tool in order and wait between actions.
+  expected_output: >
+    Report showing successful completion of stand up, hello gesture, and stand down.
+  agent: dog_robot

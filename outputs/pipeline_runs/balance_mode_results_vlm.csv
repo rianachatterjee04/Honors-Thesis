@@ -1,0 +1,915 @@
+frame,object_name,yolo_confidence,depth_ft,used_vlm,output_text,latency_ms,direction
+1,person,0.263,29.48,0,[FAST MODE - HIGH CONF],2252.81,left
+2,bench,0.261,28.8,0,[FAST MODE - HIGH CONF],291.18,left
+3,person,0.289,30.83,0,[FAST MODE - HIGH CONF],235.18,left
+4,person,0.278,30.19,0,[FAST MODE - HIGH CONF],213.34,left
+5,person,0.26,30.15,0,[FAST MODE - HIGH CONF],211.97,left
+6,person,0.256,28.81,1,"1. the obstacle in the image is a brown cat sitting on top of a blue chair with its head hanging over the backrest.
+2. the cat is located on the left side of the view.
+3. to navigate around this obstacle, move to the right until you are clear of the cat and the chair.",9633.9,left
+7,person,0.252,30.57,1,"1. the obstacle in the image is a person walking through an open doorway.
+2. it is located on the left side of the view.
+3. to move past this obstacle, you should continue moving straight ahead.",5147.28,left
+8,person,0.268,28.46,0,[FAST MODE - HIGH CONF],180.26,left
+9,person,0.253,28.98,1,"1) the object in the foreground is likely a bag.
+2) it is located on the left side of the view.
+3) to navigate, one would need to move towards the right side of the image where the people are standing.",5172.06,left
+10,person,0.268,29.48,0,[FAST MODE - HIGH CONF],171.2,left
+11,person,0.321,30.04,0,[FAST MODE - HIGH CONF],240.25,left
+12,person,0.312,29.89,0,[FAST MODE - HIGH CONF],141.2,left
+13,person,0.299,29.1,0,[FAST MODE - HIGH CONF],164.23,left
+14,person,0.277,28.82,0,[FAST MODE - HIGH CONF],212.84,left
+15,person,0.266,28.27,0,[FAST MODE - HIGH CONF],220.97,left
+16,person,0.254,27.87,1,"1. the obstacle in the image is a dog standing on top of a blue chair with its front legs extended, which might hinder people's movement.
+2. it is located in the center of the view.
+3. to navigate around this obstacle, you should either move left or right from the dog to avoid bumping into it.",6219.88,left
+17,person,0.314,28.76,0,[FAST MODE - HIGH CONF],178.76,left
+18,potted plant,0.29,19.39,0,[FAST MODE - HIGH CONF],176.64,left
+19,potted plant,0.31,22.34,0,[FAST MODE - HIGH CONF],220.1,left
+20,potted plant,0.356,20.7,0,[FAST MODE - HIGH CONF],198.72,left
+21,bench,0.266,26.39,0,[FAST MODE - HIGH CONF],182.63,left
+22,person,0.272,26.48,0,[FAST MODE - HIGH CONF],201.77,left
+23,bench,0.286,24.09,0,[FAST MODE - HIGH CONF],203.16,left
+24,person,0.262,26.83,0,[FAST MODE - HIGH CONF],200.72,left
+25,person,0.32,27.6,0,[FAST MODE - HIGH CONF],209.94,left
+26,person,0.306,28.17,0,[FAST MODE - HIGH CONF],204.08,left
+27,person,0.254,27.88,1,"1. the obstacle in the image is a person standing between two blue chairs.
+2. the person is located in the center of the view, with one chair on each side of them.
+3. to navigate around the obstacle, it would be best to move left or right to avoid coming into contact with the person.",5988.33,left
+28,person,0.31,27.59,0,[FAST MODE - HIGH CONF],141.97,left
+29,person,0.309,26.69,0,[FAST MODE - HIGH CONF],125.96,left
+30,person,0.259,26.91,1,"1. the obstacle in the image is likely a chair that the person cannot see behind.
+2. the chair is on the left side of the view.
+3. to avoid hitting the chair, move right or to your left.",5118.75,left
+31,person,0.26,26.82,1,"1. the obstacle in the image is likely a blue chair.
+2. the blue chair is located on the right side of the view, with the person standing behind it.
+3. if you are currently facing the person, to avoid the chair, you should move your body towards the left side of the image where there seems to be more space.",6102.62,left
+32,person,0.254,27.62,1,"1. the obstacle in the image is a brown cat on the ground.
+2. the cat is located between two blue chairs, in the center of the view.
+3. to navigate around this obstacle, one should either move left or right to avoid bumping into the cat.",5695.02,left
+33,bench,0.275,3.94,0,[FAST MODE - TOO CLOSE],127.11,right
+34,bench,0.27,24.74,0,[FAST MODE - HIGH CONF],123.25,left
+35,bench,0.25,25.29,1,"1. the obstacle in the image is a person's leg wearing jeans and sneakers.
+2. it is located on the left side of the view, partially hidden from sight.
+3. to navigate around this obstacle, move to the right or away from the person's leg.",5655.28,left
+36,person,0.282,27.71,0,[FAST MODE - HIGH CONF],136.27,left
+37,person,0.271,27.76,0,[FAST MODE - HIGH CONF],138.39,left
+38,person,0.254,28.67,1,"1. the obstacle in the image is likely a person standing between two others.
+2. it is located to the left of the view, with one person in front and another partially obscured behind them.
+3. to navigate around this obstacle, move right until you are no longer blocked by the people in front.",5745.07,left
+39,potted plant,0.261,16.8,0,[FAST MODE - HIGH CONF],140.99,left
+40,person,0.271,28.19,0,[FAST MODE - HIGH CONF],123,left
+41,person,0.304,26.44,0,[FAST MODE - HIGH CONF],118,left
+42,person,0.271,26.12,0,[FAST MODE - HIGH CONF],166.42,left
+43,bench,0.308,25.6,0,[FAST MODE - HIGH CONF],174.89,left
+44,bench,0.306,24.75,0,[FAST MODE - HIGH CONF],172.2,left
+45,person,0.269,25.02,0,[FAST MODE - HIGH CONF],163.26,left
+46,person,0.378,27.21,0,[FAST MODE - HIGH CONF],154.36,left
+47,person,0.251,25.98,1,"1. the obstacle in the image is likely a blue chair that stands out from its surroundings.
+2. it is located on the right side of the view.
+3. ""move to the left"" if you want to avoid this object.",5398.6,left
+48,clock,0.273,20.79,0,[FAST MODE - HIGH CONF],157.69,right
+49,person,0.318,27.92,0,[FAST MODE - HIGH CONF],120.96,left
+50,person,0.265,27.63,0,[FAST MODE - HIGH CONF],137.16,left
+51,person,0.251,28.49,1,"1. the obstacle in the image is a person sitting on a blue chair.
+2. the person and the blue chair are located on the right side of the view.
+3. to navigate around this obstacle, you should move left if your path crosses the chair's position.",5515.3,left
+52,person,0.278,28.74,0,[FAST MODE - HIGH CONF],128.49,left
+53,person,0.251,27.3,1,"1. the obstacle in the image is likely a person walking by with their arm draped around someone's shoulder, creating an obstructive effect.
+2. this obstruction is on the right side of the view.
+3. to navigate this situation, you should move your chair to the left to avoid getting too close to the person walking by.",6098.36,left
+54,person,0.25,27.11,1,"1. the obstacle in the image is a blue chair.
+2. the chair is located on the left side of the view.
+3. to navigate around the chair, move to your right.",15828,left
+55,person,0.252,24.09,1,"1. the obstacle in the image is a tree branch that has come into contact with the camera lens, causing damage to it.
+2. the tree branch is on the left side of the view, partially blocking the view of the people walking by.
+3. to navigate around this obstacle, move the camera further away from the tree branch or find a different angle that avoids capturing the damaged lens.",6839.79,left
+56,clock,0.461,20.95,0,[FAST MODE - HIGH CONF],221.94,right
+57,clock,0.375,21.62,0,[FAST MODE - HIGH CONF],136.13,right
+58,bench,0.281,25.32,0,[FAST MODE - HIGH CONF],170.45,left
+59,person,0.25,27.32,1,"1. the obstacle is likely a person standing in front of another person.
+2. it is on the right side of the view.
+3. to navigate around it, move to the left or center and then proceed forward when safe.",5122.5,left
+60,potted plant,0.502,27.75,0,[FAST MODE - HIGH CONF],199.5,right
+61,person,0.258,28.81,1,"1. the obstacle in the image is a blue trash can.
+2. it is on the right side of the view.
+3. to avoid the obstacle, move to the left or center of the frame.",5052.8,left
+62,person,0.253,28.44,1,"1) the obstacle in the image is a blue chair.
+2) the chair is on the right side of the view.
+3) to avoid the chair, move to the left or away from it.",10612.81,left
+63,person,0.251,29.49,1,"1. the obstacle in the image is a person.
+2. the person is located in the center of the view.
+3. as there are no clear navigational instructions, i cannot provide any specific movement directions for the user.",11307.1,none
+64,person,0.288,28.72,0,[FAST MODE - HIGH CONF],147.32,left
+65,person,0.285,29.28,0,[FAST MODE - HIGH CONF],129.17,left
+66,person,0.292,29.16,0,[FAST MODE - HIGH CONF],134.98,left
+67,person,0.28,29.53,0,[FAST MODE - HIGH CONF],146.16,left
+68,person,0.264,29.75,0,[FAST MODE - HIGH CONF],172.94,left
+69,person,0.263,24.49,0,[FAST MODE - HIGH CONF],173.23,left
+70,person,0.307,29.39,0,[FAST MODE - HIGH CONF],168.84,left
+71,person,0.28,29.67,0,[FAST MODE - HIGH CONF],620.19,left
+72,potted plant,0.255,28.9,1,"1. the obstacle in the image is a red pole that is hanging over the sidewalk and obstructing the view of people sitting on benches.
+2. it is located on the right side of the view, blocking part of the building visible from this angle.
+3. to navigate around the obstacle, one should move to the left or go behind it, as there are no signs of any physical barrier to climb over or walk under.",7375.86,left
+73,person,0.322,29.68,0,[FAST MODE - HIGH CONF],141.13,left
+74,person,0.3,26.94,0,[FAST MODE - HIGH CONF],169.52,left
+75,person,0.268,29.14,0,[FAST MODE - HIGH CONF],129.51,left
+76,person,0.261,27.33,0,[FAST MODE - HIGH CONF],170.71,left
+77,person,0.257,29.41,1,"1. the obstacle in the image is likely a person wearing a blue shirt and white helmet walking on a sidewalk.
+2. the person is located on the left side of the view, away from any building or structure.
+3. to navigate around this person, move right if you are approaching them from behind.",6122.2,left
+78,potted plant,0.306,24.3,0,[FAST MODE - HIGH CONF],137.53,right
+79,potted plant,0.357,23.94,0,[FAST MODE - HIGH CONF],127.55,right
+80,person,0.253,29.48,1,"1. the obstacle in the image is a person walking.
+2. the person is located on the left side of the view.
+3. to navigate, you should move to the right until you are no longer obstructed by the person.",5420.42,left
+81,person,0.295,28.28,0,[FAST MODE - HIGH CONF],128.3,left
+82,person,0.269,28.89,0,[FAST MODE - HIGH CONF],161.46,left
+83,clock,0.252,21.01,1,"1. the obstacle in the image is likely a coffee cup or lid.
+2. it is located on the top of the wooden surface, which may be part of a countertop or table.
+3. if you are standing behind it and facing towards the coffee shop logo, move left to avoid hitting the obstacle.",11122.44,left
+84,potted plant,0.34,23.65,0,[FAST MODE - HIGH CONF],128.59,right
+85,potted plant,0.288,28.94,0,[FAST MODE - HIGH CONF],117,left
+86,potted plant,0.29,29.01,0,[FAST MODE - HIGH CONF],117.55,left
+87,potted plant,0.274,29.51,0,[FAST MODE - HIGH CONF],139.68,left
+88,potted plant,0.252,29.84,1,"1. the obstacle in the image is a potted plant that blocks part of the sidewalk.
+2. it is located on the left side of the view.
+3. to navigate around it, one would need to move to the right.",5442.35,left
+89,person,0.272,27.4,0,[FAST MODE - HIGH CONF],162.2,left
+90,person,0.27,27.82,0,[FAST MODE - HIGH CONF],126.26,left
+91,person,0.406,28.42,0,[FAST MODE - HIGH CONF],118.37,left
+92,person,0.444,29.36,0,[FAST MODE - HIGH CONF],134.46,left
+93,potted plant,0.448,23.95,0,[FAST MODE - HIGH CONF],157.41,right
+94,potted plant,0.413,24.34,0,[FAST MODE - HIGH CONF],171.59,right
+95,person,0.314,29.02,0,[FAST MODE - HIGH CONF],157.42,left
+96,person,0.263,26.99,0,[FAST MODE - HIGH CONF],167.56,left
+97,person,0.328,28.27,0,[FAST MODE - HIGH CONF],229.88,left
+98,person,0.385,28.57,0,[FAST MODE - HIGH CONF],185.26,left
+99,potted plant,0.373,24.48,0,[FAST MODE - HIGH CONF],208.84,right
+100,potted plant,0.373,23.87,0,[FAST MODE - HIGH CONF],262.18,right
+101,potted plant,0.4,24.05,0,[FAST MODE - HIGH CONF],177.08,right
+102,person,0.291,26.67,0,[FAST MODE - HIGH CONF],169.28,left
+103,potted plant,0.252,29.03,1,"1. the obstacle in the image is a potted plant with tall plants and leaves, including palm trees.
+2. it is located on the left side of the view.
+3. to navigate around this obstacle, you should move to your right until you are clear of the potted plant.",12435.87,left
+104,potted plant,0.279,29.35,0,[FAST MODE - HIGH CONF],189.37,left
+105,potted plant,0.267,29.62,0,[FAST MODE - HIGH CONF],202.29,left
+106,person,0.267,29.92,0,[FAST MODE - HIGH CONF],272.38,left
+107,potted plant,0.275,29.48,0,[FAST MODE - HIGH CONF],228.91,left
+108,potted plant,0.251,29.49,1,"the obstacle in the image is a red umbrella that is blocking part of the vase. it is located on the right side of the view, and it should be moved to the left.",5230.66,left
+109,potted plant,0.325,26.04,0,[FAST MODE - HIGH CONF],184.37,right
+110,potted plant,0.26,29.95,1,"* the obstacle in the image appears to be a tall plant on top of a concrete planter. it is located centrally within the frame.
+* to navigate around this obstacle, you should move left or right away from the plant.",5546.45,left
+111,potted plant,0.257,29.93,1,"1. the obstacle in the image is a large potted plant with long green leaves and brown stems, which is sitting on a concrete planter box.
+2. it is located on the left side of the view.
+3. to avoid the obstacle, move to the right until you reach a blue chair that is further down the sidewalk.",6522.21,left
+112,potted plant,0.265,30.52,0,[FAST MODE - HIGH CONF],339.17,left
+113,bench,0.282,27.91,0,[FAST MODE - HIGH CONF],185.57,left
+114,potted plant,0.273,28.27,0,[FAST MODE - HIGH CONF],246.52,left
+115,potted plant,0.263,28.63,0,[FAST MODE - HIGH CONF],194.44,left
+116,potted plant,0.254,28.47,1,"1. the obstacle in the image is a woman wearing blue jeans and white sneakers walking on a sidewalk near another woman.
+2. it is located to the left of both women.
+3. if you are standing behind one of the women, move to her right to pass by her comfortably.",6228.97,left
+117,potted plant,0.268,29.61,0,[FAST MODE - HIGH CONF],149.11,right
+118,potted plant,0.257,30.3,1,"* the obstacle in the image is a large plant, which can be seen on both sides of the photo.
+* the plant is located in the center of the view and occupies most of the screen space.
+* to navigate around this obstacle, one could either move left or right to get past it.",6099.31,left
+119,person,0.259,28.87,1,"1. the obstacle in the image is likely a person's arm, blocking their path while they are riding a scooter.
+2. it appears to be on the left side of the view.
+3. to continue moving forward without running into the obstacle, the scooter rider should move right.",6300.06,left
+120,person,0.251,30.09,1,"1. the obstacle in the image is a person walking towards the camera.
+2. the person is on the right side of the view.
+3. to avoid collision, move to the left.",5168.96,left
+121,person,0.251,31.52,1,"1. the obstacle in the image is a railing or pole that needs to be avoided while walking.
+2. it is located on the right side of the view.
+3. to avoid this obstacle, one should move to their left.",5631.38,left
+122,potted plant,0.26,29.43,0,[FAST MODE - HIGH CONF],196.21,right
+123,potted plant,0.262,26.36,0,[FAST MODE - HIGH CONF],164.56,right
+124,potted plant,0.262,29.67,0,[FAST MODE - HIGH CONF],178.16,left
+125,potted plant,0.258,29.47,1,"1. the obstacle is a small planter with a flower pot in it.
+2. it is on the left side of the image.
+3. move your wheelchair to the right and continue along the path.",5364.05,left
+126,potted plant,0.26,29.24,0,[FAST MODE - HIGH CONF],173.36,right
+127,potted plant,0.253,29.13,1,"1. the obstacle in the image is a large bush or tree hindering the view of the sidewalk.
+2. it is located on the right side of the view, partially blocking the path to another area.
+3. to navigate around this obstacle, you should move left and then cross over the bush or tree.",11784.45,left
+128,bench,0.279,16.33,0,[FAST MODE - HIGH CONF],398.4,left
+129,potted plant,0.258,29.34,1,"1. the obstacle in the image is a bush near a sidewalk.
+2. it is located on the right side of the view.
+3. to navigate, move to the left and walk along the sidewalk until you reach your destination.",11631.11,left
+130,potted plant,0.268,25.8,0,[FAST MODE - HIGH CONF],216.2,right
+131,potted plant,0.267,26.24,0,[FAST MODE - HIGH CONF],174.88,right
+132,potted plant,0.365,29.47,0,[FAST MODE - HIGH CONF],185.16,right
+133,potted plant,0.253,26.24,1,"1. the obstacle in the image is a tree stump and roots.
+2. it is located on the right side of the view.
+3. to navigate around it, move to your left until you are clear of the obstacle.",17015.28,left
+134,person,0.259,28.3,1,"1. the obstacle in the image is a person walking between two people who are wearing blue jeans.
+2. it is located on the right side of the view.
+3. move to the left to avoid the person and continue your path without any obstruction.",5812.17,left
+135,potted plant,0.27,26.19,0,[FAST MODE - HIGH CONF],183.14,right
+136,potted plant,0.291,26.42,0,[FAST MODE - HIGH CONF],158.26,right
+137,potted plant,0.256,29.77,1,"1. the obstacle in the image is a potted plant with leaves sticking out of it.
+2. it is located on the left side of the view.
+3. to navigate around this obstacle, move to your right until you reach the curb.",5672.31,left
+138,potted plant,0.262,26.34,0,[FAST MODE - HIGH CONF],194.57,right
+139,potted plant,0.258,26.12,1,"1. the obstacle in the image is a plant with large green leaves and long thin leaves.
+2. it is located on the left side of the view.
+3. move your device to the left to avoid the plant.",5358.93,left
+140,potted plant,0.251,26.51,1,"1) the obstacle in the image is a potted plant.
+2) it is located on the left side of the view.
+3) to avoid hitting it, move to the right.",5141.71,left
+141,potted plant,0.254,25.86,1,"1. the obstacle in the image is likely a potted plant with large leaves.
+2. the potted plant is located on the left side of the view.
+3. to navigate around this obstacle, one should move to the right.",5592.46,left
+142,potted plant,0.254,29.93,1,"1) the obstacle in the image is likely a red string hanging above.
+2) it is located in the center of the view.
+3) move to the left or right to avoid the hanging string.",5371.37,left
+143,potted plant,0.283,24.76,0,[FAST MODE - HIGH CONF],192.14,right
+144,potted plant,0.255,25.24,1,"1. the obstacle in the image is a large leafy plant with many leaves.
+2. it is located on the left side of the view, partially covering the railing and fence.
+3. to navigate around it, move to the right until you are clear of the plant's branches.",6020.22,left
+145,potted plant,0.256,30.14,1,"1. the obstacle in the image is a red metal pole that appears to be leaning and sticking out from a building.
+2. it is located on the left side of the view.
+3. to avoid this obstacle, move your wheelchair or walking aid to the right side of the image.",6179.46,left
+146,potted plant,0.269,29.46,0,[FAST MODE - HIGH CONF],190.94,left
+147,person,0.265,30.25,0,[FAST MODE - HIGH CONF],146.55,left
+148,person,0.26,29.94,1,"1. the obstacle in the image is a blue chair.
+2. it is located on the right side of the view.
+3. to avoid this obstacle, one should move to the left.",5112.91,left
+149,person,0.254,30.15,1,"the obstacle in the image is a person walking. the person is located on the right side of the view. to avoid collision, it is recommended to move away from the person and maintain a safe distance.",5222,right
+150,potted plant,0.262,29.65,0,[FAST MODE - HIGH CONF],182.76,left
+151,person,0.304,29.74,0,[FAST MODE - HIGH CONF],160.24,left
+152,person,0.262,29.92,0,[FAST MODE - HIGH CONF],158.38,left
+153,person,0.291,30.49,0,[FAST MODE - HIGH CONF],174.41,left
+154,person,0.3,30.92,0,[FAST MODE - HIGH CONF],190.66,left
+155,potted plant,0.337,28.62,0,[FAST MODE - HIGH CONF],184.62,right
+156,potted plant,0.316,23.71,0,[FAST MODE - HIGH CONF],186.5,right
+157,potted plant,0.255,28.84,1,"1. there is a large potted plant obstructing the pathway in front of it.
+2. the obstacle is on the left side of the image.
+3. to move forward, one would need to carefully navigate around the plant or ask for assistance from someone nearby who can help guide them safely past this obstacle.",6384.59,left
+158,person,0.261,30.09,0,[FAST MODE - HIGH CONF],208.03,left
+159,potted plant,0.291,30.35,0,[FAST MODE - HIGH CONF],157.99,left
+160,potted plant,0.271,30.24,0,[FAST MODE - HIGH CONF],186.74,left
+161,potted plant,0.26,29.47,0,[FAST MODE - HIGH CONF],214.6,right
+162,potted plant,0.277,24.43,0,[FAST MODE - HIGH CONF],193.11,right
+163,potted plant,0.287,29.89,0,[FAST MODE - HIGH CONF],184.27,left
+164,potted plant,0.252,24.2,1,"1. the obstacle in the image is a large plant with many leaves located on a gravel pathway.
+2. the plant is positioned to the left of the view.
+3. to avoid the plant, move your wheelchair or mobility device to the right side of the pathway.",12696.89,left
+165,person,0.344,29.83,0,[FAST MODE - HIGH CONF],147.65,left
+166,bench,0.276,4,0,[FAST MODE - TOO CLOSE],132.52,left
+167,person,0.36,30.58,0,[FAST MODE - HIGH CONF],128.8,left
+168,potted plant,0.263,29.24,0,[FAST MODE - HIGH CONF],137.78,left
+169,potted plant,0.253,23.93,1,"1. the obstacle in the image is a tall plant with green leaves and long brown stems, which appears to be an aloe vera plant.
+2. the plant is located on the left side of the view.
+3. to navigate around this obstacle, one should move away from it by stepping back or maneuvering carefully around it.",6472.77,left
+170,potted plant,0.253,29.1,1,"1. the obstacle in the image is a bush with leaves obstructing the pathway.
+2. it is located on the right side of the view.
+3. to navigate, move to the left until you reach the edge of the grassy area where the bushes stop.",5915.04,left
+171,potted plant,0.266,29.29,0,[FAST MODE - HIGH CONF],127.11,right
+172,potted plant,0.281,29.18,0,[FAST MODE - HIGH CONF],128.59,right
+173,chair,0.275,19.15,0,[FAST MODE - HIGH CONF],133.15,left
+174,potted plant,0.266,7.34,0,[FAST MODE - TOO CLOSE],132.17,left
+175,chair,0.299,16.72,0,[FAST MODE - HIGH CONF],148.75,left
+176,potted plant,0.327,29.1,0,[FAST MODE - HIGH CONF],158.11,left
+177,potted plant,0.329,29.22,0,[FAST MODE - HIGH CONF],152.12,left
+178,potted plant,0.269,11.54,0,[FAST MODE - HIGH CONF],151.98,left
+179,person,0.28,29.37,0,[FAST MODE - HIGH CONF],148.65,left
+180,person,0.287,29.33,0,[FAST MODE - HIGH CONF],174.49,left
+181,chair,0.362,24.46,0,[FAST MODE - HIGH CONF],161.74,left
+182,person,0.323,28.89,0,[FAST MODE - HIGH CONF],151.94,left
+183,potted plant,0.274,24.15,0,[FAST MODE - HIGH CONF],141.45,right
+184,potted plant,0.273,24.87,0,[FAST MODE - HIGH CONF],156.92,right
+185,potted plant,0.274,28.92,0,[FAST MODE - HIGH CONF],159.47,left
+186,person,0.264,29.81,0,[FAST MODE - HIGH CONF],151.69,left
+187,potted plant,0.254,24.19,1,"1. the obstacle in the image is a large plant with leaves and a thick stem.
+2. it is located on the sidewalk, which is to the left of the view.
+3. to navigate around it, you should move right until you reach the building.",5885.76,left
+188,potted plant,0.275,27.73,0,[FAST MODE - HIGH CONF],118.95,right
+189,potted plant,0.267,28.34,0,[FAST MODE - HIGH CONF],109.11,right
+190,potted plant,0.263,28.52,0,[FAST MODE - HIGH CONF],124.62,right
+191,potted plant,0.278,23.52,0,[FAST MODE - HIGH CONF],132.43,right
+192,potted plant,0.257,27.51,1,"1. the obstacle in the image is likely a puddle.
+2. it appears on the left side of the view.
+3. to navigate around this obstacle, move to the right.",5155.85,left
+193,person,0.287,27.17,0,[FAST MODE - HIGH CONF],131.16,left
+194,person,0.285,27.37,0,[FAST MODE - HIGH CONF],120.39,left
+195,person,0.262,28.55,0,[FAST MODE - HIGH CONF],112.35,left
+196,person,0.264,28.16,0,[FAST MODE - HIGH CONF],126.11,left
+197,person,0.257,28.4,1,"the obstacle in the image appears to be a person sitting on a chair. it is located in the center of the view, with no clear indication of whether it should move left or right due to its central position.",10555.9,left
+198,person,0.268,27.52,0,[FAST MODE - HIGH CONF],123.49,left
+199,potted plant,0.269,28.21,0,[FAST MODE - HIGH CONF],110.94,left
+200,person,0.315,28.49,0,[FAST MODE - HIGH CONF],123.08,left
+201,person,0.266,27.75,0,[FAST MODE - HIGH CONF],130.93,left
+202,person,0.264,26.16,0,[FAST MODE - HIGH CONF],154.9,left
+203,person,0.272,29.17,0,[FAST MODE - HIGH CONF],167.35,left
+204,person,0.251,29.13,1,"1. the obstacle in the image is a person sitting on a chair.
+2. it is located between the two chairs, closer to the person wearing a white outfit.
+3. to navigate around this obstacle, move left or right depending on which side of the person you are currently on.",11620.9,left
+205,person,0.261,26.71,0,[FAST MODE - HIGH CONF],140.39,left
+206,chair,0.282,25.23,0,[FAST MODE - HIGH CONF],112.53,left
+207,person,0.273,26.74,0,[FAST MODE - HIGH CONF],121.62,left
+208,person,0.267,28.12,0,[FAST MODE - HIGH CONF],124.39,left
+209,person,0.259,25.76,1,"1) the obstacle is a purse hanging from the chair's arm.
+2) it is on the right side of the view.
+3) move closer to the chair and check for any potential hazards before continuing forward.",5509.55,right
+210,person,0.25,25.41,1,"1. the obstacle in the image is a brown purse hanging from one of the chairs, likely obstructing someone's way if they were to try and sit or stand up from that chair.
+2. the brown purse is on the right side of the view, hanging off the back of a blue chair.
+3. to navigate this obstacle, one should move towards the left where there are no obstructions in sight.",12579.85,left
+211,person,0.294,27.84,0,[FAST MODE - HIGH CONF],127.34,left
+212,person,0.269,28.32,0,[FAST MODE - HIGH CONF],111.65,left
+213,person,0.256,26.18,1,"1) the obstacle in the image is a dog's leash.
+2) it is located on the right side of the view.
+3) to avoid hitting the leash, move to the left.",5231.8,left
+214,person,0.275,28.25,0,[FAST MODE - HIGH CONF],120.25,left
+215,person,0.292,26.09,0,[FAST MODE - HIGH CONF],119.6,left
+216,person,0.267,25.17,0,[FAST MODE - HIGH CONF],111.04,left
+217,person,0.251,26.22,1,"1. the obstacle in the image is a person's leg.
+2. it is located on the right side of the view.
+3. move your finger towards the left to navigate past the person's leg.",5289.84,left
+218,bench,0.306,23.22,0,[FAST MODE - HIGH CONF],119.39,left
+219,person,0.313,26.9,0,[FAST MODE - HIGH CONF],115.27,left
+220,bench,0.259,24.99,1,"1. a brown bag hanging from a chair's back is an obstacle.
+2. the obstacle is on the left side of the view.
+3. move the bag off the chair to clear the path.",5284.41,left
+221,bench,0.263,26.13,0,[FAST MODE - HIGH CONF],119.28,left
+222,person,0.251,28.9,1,"1. there are several chairs in the image that could be an obstacle.
+2. the chairs are located to the left of the view.
+3. to avoid the chairs, move right.",5185.59,left
+223,person,0.251,27.83,1,"1. the obstacle in the image is likely a bench that is blocking the way for the woman and the child to pass through.
+2. it is located on the left side of the view, with people standing around it.
+3. to navigate past this obstacle, one should move to the right of the bench where there might be more open space available.",6568.46,left
+224,chair,0.251,23.52,1,"1. the obstacle in the image is a large chicken leg hanging from a hook on a chair.
+2. it is located on the left side of the view, off to the side of the blue chair.
+3. to navigate around this obstacle, you would need to move right and then back to avoid it.",6293.21,left
+225,person,0.277,25.81,0,[FAST MODE - HIGH CONF],120.82,left
+226,person,0.253,25.51,1,"1. the obstacle in this image appears to be a person's leg.
+2. it is located on the left side of the view.
+3. to navigate around the obstacle, one should move right.",5282.68,left
+227,person,0.274,28.04,0,[FAST MODE - HIGH CONF],121.49,left
+228,person,0.287,24.99,0,[FAST MODE - HIGH CONF],111.07,left
+229,person,0.265,26.01,0,[FAST MODE - HIGH CONF],117.73,left
+230,person,0.266,24.91,0,[FAST MODE - HIGH CONF],119.86,left
+231,chair,0.275,22.94,0,[FAST MODE - HIGH CONF],134.07,left
+232,person,0.276,24.68,0,[FAST MODE - HIGH CONF],147.34,left
+233,potted plant,0.25,21.67,1,"1. the obstacle in the image is a planter box with plants and dirt inside it.
+2. it is located on the left side of the view.
+3. to navigate, move right to get around the planter box.",5341.77,left
+234,chair,0.267,22.36,0,[FAST MODE - HIGH CONF],126.65,left
+235,potted plant,0.268,20.68,0,[FAST MODE - HIGH CONF],141.13,left
+236,bench,0.256,22.22,1,"1) the obstacle in the image is a brown guitar.
+2) it is located on the right side of the view.
+3) to avoid it, move to the left or center and continue walking.",15864.77,left
+237,person,0.256,23.13,1,"1. the obstacle in the image is a large green box on top of a stack of bricks.
+2. it is located on the left side of the view.
+3. to navigate around this obstacle, one should move to the right until they are clear of the bricks and the green box.",6303.18,left
+238,person,0.251,23.23,1,"1. the obstacle is a tall stack of green and brown boxes.
+2. it is located on the center left side of the view.
+3. to navigate around it, one should move to either the right or left side of the image.",5507.07,left
+239,person,0.266,23.07,0,[FAST MODE - HIGH CONF],126,left
+240,person,0.25,21.68,1,"1. the obstacle in the image is a bench on which someone's backpack is placed, blocking their view of the people walking past them.
+2. the bench with the backpack on it is located on the right side of the view.
+3. to navigate around this obstacle, move to the left and walk past the bench to avoid the blind spot caused by the backpack.",6738.86,left
+241,person,0.289,21.59,0,[FAST MODE - HIGH CONF],122.57,left
+242,person,0.25,26.69,1,"1. the obstacle in the image is a white dog standing on a sidewalk near two people and some chairs.
+2. the dog is located to the right of the view, between one person sitting on a blue chair and another standing next to them.
+3. to avoid running into the dog, it's best to move left if you are closer to the dog or right if you are farther from the dog.",12752.33,left
+243,person,0.26,23.74,1,"1. the obstacle in the image is a pile of bricks.
+2. the pile of bricks is on the sidewalk, located to the right of the view.
+3. to navigate around this obstacle, one should move to the left or center first before reaching the pile of bricks, then continue moving to the right after passing it.",6468.82,left
+244,person,0.267,23.28,0,[FAST MODE - HIGH CONF],133.16,left
+245,chair,0.264,21.6,0,[FAST MODE - HIGH CONF],122.07,left
+246,chair,0.271,22.37,0,[FAST MODE - HIGH CONF],123.33,left
+247,chair,0.252,22.31,1,"1. the obstacle in the image is a blue bench that the man with white hair and light shirt is sitting on.
+2. the bench is located on the left side of the view.
+3. to navigate, you can move right to get past the bench or move left if you want to go back toward it.",11592.51,left
+248,person,0.312,24.85,0,[FAST MODE - HIGH CONF],161,left
+249,potted plant,0.256,24.16,1,"1. a brick wall in the background.
+2. on the left side of the image.
+3. move left to get around it.",4555.93,left
+250,person,0.254,22.1,1,"1. the obstacle in the image is a blue chair that someone is sitting on.
+2. the blue chair is located on the right side of the view, near some people who are walking by.
+3. to navigate around the obstacle, one should move to the left and find another place to sit or stand.",6130.38,left
+251,potted plant,0.272,23.46,0,[FAST MODE - HIGH CONF],181.78,right
+252,potted plant,0.274,18.57,0,[FAST MODE - HIGH CONF],166.55,left
+253,person,0.257,23.35,1,"1. the obstacle in the image is a blue chair.
+2. the blue chair is located on the left side of the view.
+3. to navigate around this obstacle, you can either move to the right or walk straight ahead until reaching another point of interest where the chair does not obstruct your path.",5888.22,left
+254,chair,0.263,20.82,0,[FAST MODE - HIGH CONF],124.01,left
+255,chair,0.265,21.26,0,[FAST MODE - HIGH CONF],128.9,left
+256,chair,0.284,21.91,0,[FAST MODE - HIGH CONF],125.77,left
+257,potted plant,0.259,19.63,1,"1. the obstacle in the image is a large plant with big leaves.
+2. it is on the left side of the view.
+3. to navigate around it, move to the right and continue walking forward.",5199.99,left
+258,person,0.279,23.69,0,[FAST MODE - HIGH CONF],148.11,left
+259,bench,0.353,20.74,0,[FAST MODE - HIGH CONF],111.37,left
+260,chair,0.269,21.07,0,[FAST MODE - HIGH CONF],122.49,left
+261,bench,0.284,20.7,0,[FAST MODE - HIGH CONF],164.29,left
+262,bench,0.261,21.3,0,[FAST MODE - HIGH CONF],175.45,left
+263,potted plant,0.25,17.77,1,"1. the obstacle in the image appears to be a potted plant with long green leaves partially obstructing the view through the window.
+2. the potted plant is located on the left side of the photo, as it stands between the window and the brick wall.
+3. to navigate this obstacle, you can either move around the plant or carefully move it out of the way to clear the path.",6635.89,left
+264,person,0.267,21.4,0,[FAST MODE - HIGH CONF],119.43,left
+265,chair,0.279,20.17,0,[FAST MODE - HIGH CONF],112.61,left
+266,person,0.258,25.57,1,"1. the obstacle in the image is a blue folding chair.
+2. it is located on the left side of the view, behind the person sitting on it.
+3. to navigate around the chair, move to the right side of the view.",5468.3,left
+267,person,0.262,25.16,0,[FAST MODE - HIGH CONF],168.7,left
+268,chair,0.257,19.52,1,"1. the obstacle in the image is a red purse hanging on the armrest of a blue chair.
+2. it is located on the left side of the view, as it hangs from the right armrest.
+3. to navigate around this obstacle, one should move to the right and avoid the chair with the purse on its armrest.",6474.25,left
+269,person,0.263,25.48,0,[FAST MODE - HIGH CONF],133.67,left
+270,person,0.316,24.94,0,[FAST MODE - HIGH CONF],134.06,left
+271,chair,0.364,21.78,0,[FAST MODE - HIGH CONF],127.84,left
+272,person,0.255,25.02,1,"1. the obstacle in the image is a person wearing a blue shirt and a white helmet, standing on a skateboard in front of another person who is walking away from him.
+2. the person on the skateboard is positioned to the right of the view.
+3. to navigate around this obstacle, one should move left to avoid colliding with them while also maintaining awareness of their surroundings and any other pedestrians who may be nearby.",7504.58,left
+273,person,0.289,24.15,0,[FAST MODE - HIGH CONF],129.13,left
+274,person,0.26,21.72,1,"1. the obstacle in the image is likely a street sign, which could be a traffic sign or pedestrian crossing sign.
+2. it is on the left side of the view.
+3. turn right to reach the street sign.",5403.45,left
+275,person,0.256,24.47,1,"1. the obstacle in the image is a person wearing a white helmet and blue shirt.
+2. this person is on the left side of the view.
+3. to navigate around this person, move to their right.",5364.6,left
+276,potted plant,0.268,20.04,0,[FAST MODE - HIGH CONF],135.15,right
+277,person,0.319,24.46,0,[FAST MODE - HIGH CONF],128.49,left
+278,chair,0.308,20.83,0,[FAST MODE - HIGH CONF],114.65,left
+279,bench,0.287,20.72,0,[FAST MODE - HIGH CONF],123.23,left
+280,bench,0.271,19.99,0,[FAST MODE - HIGH CONF],132.11,left
+281,person,0.317,23.17,0,[FAST MODE - HIGH CONF],185.86,left
+282,potted plant,0.335,20.58,0,[FAST MODE - HIGH CONF],203,right
+283,chair,0.325,22.49,0,[FAST MODE - HIGH CONF],210.36,left
+284,chair,0.314,22.12,0,[FAST MODE - HIGH CONF],175.73,left
+285,bench,0.291,21.46,0,[FAST MODE - HIGH CONF],159.23,left
+286,bench,0.286,19.91,0,[FAST MODE - HIGH CONF],169.54,left
+287,person,0.325,25.05,0,[FAST MODE - HIGH CONF],166.79,left
+288,person,0.282,25.2,0,[FAST MODE - HIGH CONF],152.92,left
+289,potted plant,0.27,17.04,0,[FAST MODE - HIGH CONF],173.55,right
+290,potted plant,0.255,18.25,1,"1. the obstacle in the image is a large plant with long leaves.
+2. the plant is located on the ground, slightly off-center to the left of the view.
+3. to navigate around this obstacle, move slightly to the right and avoid bumping into it.",5932.55,left
+291,person,0.251,25.08,1,"1) the obstacle in the image is likely a person who is standing.
+2) this person is located on the right side of the view, behind the woman with her hands on her face.
+3) to navigate around this obstacle, you should move to the left and find an alternate path.",5920.87,left
+292,person,0.252,28.3,1,"1. the obstacle in the image is a person's leg.
+2. it is located on the right side of the view.
+3. move left to avoid hitting the leg.",5016.81,left
+293,person,0.254,25.72,1,"1. the obstacle in the image is likely a person sitting on a bench.
+2. the bench with the person sitting on it is located to the left of the view.
+3. to navigate around this obstacle, move right until you can safely pass by the bench.",5870.46,left
+294,potted plant,0.283,24.01,0,[FAST MODE - HIGH CONF],138.95,right
+295,potted plant,0.278,22.57,0,[FAST MODE - HIGH CONF],172.23,right
+296,chair,0.252,20.76,1,"1. the object in question is likely a red frisbee stuck to a blue chair with a string, forming an l-shape.
+2. it is on the left side of the image.
+3. move your hand towards the left side of the image to feel for and retrieve the frisbee.",6008.33,left
+297,bench,0.251,22.39,1,"1. the obstacle in the image is a blue folding chair that the person is sitting on.
+2. the chair is located in the center of the view, with other people and objects surrounding it.
+3. to navigate around the obstacle, you should move to the right until you reach an open space without any chairs or obstructions.",11967.91,right
+298,chair,0.27,21.29,0,[FAST MODE - HIGH CONF],187.21,left
+299,potted plant,0.285,23.6,0,[FAST MODE - HIGH CONF],168.36,right
+300,potted plant,0.253,18.43,1,"1. the obstacle in the image is a plant with leaves that are too close to a window.
+2. the plant is located on the right side of the view, near a red brick wall and a concrete step.
+3. to navigate around the obstacle, move away from the plant towards the left side of the image.",6069.62,left
+301,potted plant,0.262,21.84,0,[FAST MODE - HIGH CONF],179.95,right
+302,bench,0.268,10.89,0,[FAST MODE - HIGH CONF],171.4,left
+303,bench,0.251,8.73,0,[FAST MODE - TOO CLOSE],179.29,left
+304,person,0.295,23.97,0,[FAST MODE - HIGH CONF],153.38,left
+305,bench,0.258,20.4,1,"1. the obstacle in the image is a chair with an orange cat hanging from its legs.
+2. it is positioned on the left side of the view, as there's a blue table behind it.
+3. to navigate around this obstacle, one should move to the right or pass by the chair and continue forward.",6161.49,left
+306,bench,0.272,21.62,0,[FAST MODE - HIGH CONF],183.44,left
+307,person,0.258,24.82,1,"1. the obstacle in the image is a person walking.
+2. the person is on the side of the view, not in the center.
+3. move right to avoid colliding with the person.",5105.35,right
+308,chair,0.267,20.42,0,[FAST MODE - HIGH CONF],174.96,left
+309,person,0.267,25.14,0,[FAST MODE - HIGH CONF],177.34,left
+310,person,0.295,26.68,0,[FAST MODE - HIGH CONF],133.37,left
+311,person,0.267,27.44,0,[FAST MODE - HIGH CONF],130.9,left
+312,potted plant,0.326,9.89,0,[FAST MODE - TOO CLOSE],162.16,left
+313,person,0.308,23.14,0,[FAST MODE - HIGH CONF],177.22,left
+314,person,0.258,26.66,1,"1. the obstacle is likely a curb on the sidewalk.
+2. it is located to the right of the two girls in the image.
+3. to avoid the obstacle, the girl should move left from her current position.",5680.6,left
+315,potted plant,0.29,20.47,0,[FAST MODE - HIGH CONF],150.74,right
+316,potted plant,0.268,19.21,0,[FAST MODE - HIGH CONF],147.15,right
+317,potted plant,0.255,21.82,1,"1. the obstacle in the image is a low hedge bush on top of grass with its roots and leaves exposed above ground level, making it difficult for pedestrians to navigate around.
+2. the obstruction is located in the center of the view.
+3. to bypass the obstacle, one should move right and then left again after passing the low hedge bush.",6598.93,left
+318,potted plant,0.26,20.86,1,"1. the obstacle in the image is likely a bush that is blocking a path.
+2. it is located on the right side of the view.
+3. to navigate around it, move to the left and then forward when you reach the bush.",5665.76,left
+319,person,0.271,25.72,0,[FAST MODE - HIGH CONF],149.86,left
+320,chair,0.265,20.98,0,[FAST MODE - HIGH CONF],150.16,left
+321,person,0.253,24.61,1,"what the obstacle likely is: a person in a wheelchair.
+
+whether it is on the left, center, or right of the view: right.
+
+a short navigation instruction such as “move left” or “move right.” move left.",5706.22,left
+322,person,0.29,20.88,0,[FAST MODE - HIGH CONF],199.93,left
+323,person,0.269,21.11,0,[FAST MODE - HIGH CONF],181.86,left
+324,person,0.276,21.65,0,[FAST MODE - HIGH CONF],142.5,left
+325,chair,0.367,20.36,0,[FAST MODE - HIGH CONF],153.12,left
+326,person,0.393,25.75,0,[FAST MODE - HIGH CONF],174.89,left
+327,person,0.268,25.26,0,[FAST MODE - HIGH CONF],166.85,left
+328,person,0.288,23.87,0,[FAST MODE - HIGH CONF],177.1,left
+329,person,0.376,26.74,0,[FAST MODE - HIGH CONF],168.4,left
+330,person,0.336,24.82,0,[FAST MODE - HIGH CONF],167.27,left
+331,person,0.263,25.53,0,[FAST MODE - HIGH CONF],179.48,left
+332,person,0.295,23.95,0,[FAST MODE - HIGH CONF],175.6,left
+333,person,0.255,25.26,1,"1. the obstacle in the image is a person sitting on a chair.
+2. this person is located to the left of the woman holding the child.
+3. if you are moving towards the woman, go right.",5326.66,left
+334,person,0.259,24.66,1,"1. a blue and white chair that has a person sitting in it.
+2. it is located on the left side of the image.
+3. to navigate to this object, move towards the edge of the frame where you will find a paved surface with chairs underneath.",5811.96,left
+335,person,0.253,23.98,1,"1. a blue chair that might be causing obstruction.
+2. the chair is on the left side of the image.
+3. move to the right, around the chair and back to your desired location.",5212.9,left
+336,person,0.261,24.29,0,[FAST MODE - HIGH CONF],875.66,left
+337,chair,0.257,20.24,1,"1. the obstacle in the image is a person walking by.
+2. it is on the right side of the view, behind the blue chair.
+3. to navigate around it, move to the left and sit down on the blue chair if possible.",5800.69,left
+338,person,0.28,24.67,0,[FAST MODE - HIGH CONF],151.58,left
+339,person,0.287,24.49,0,[FAST MODE - HIGH CONF],144.52,left
+340,person,0.268,24.73,0,[FAST MODE - HIGH CONF],140.34,left
+341,chair,0.274,20.23,0,[FAST MODE - HIGH CONF],151.11,left
+342,person,0.25,25.07,1,"1. the obstacle is likely a person wearing a white hat and carrying a black bag.
+2. the person is in the center of the image.
+3. move to the left or right to avoid colliding with the person.",5115.48,left
+343,person,0.259,21.55,1,"1. the obstacle in the image is likely a person walking by.
+2. it is located on the right side of the view.
+3. to avoid the obstacle, it's best to move left or towards the blue chair.",5208.73,left
+344,person,0.274,20.62,0,[FAST MODE - HIGH CONF],135.7,left
+345,chair,0.277,19.8,0,[FAST MODE - HIGH CONF],127.44,left
+346,person,0.292,24.6,0,[FAST MODE - HIGH CONF],140.35,left
+347,person,0.282,23.71,0,[FAST MODE - HIGH CONF],139.42,left
+348,person,0.292,25.14,0,[FAST MODE - HIGH CONF],147.48,left
+349,chair,0.297,19.2,0,[FAST MODE - HIGH CONF],152.45,left
+350,person,0.282,25.39,0,[FAST MODE - HIGH CONF],167.48,left
+351,chair,0.278,21.09,0,[FAST MODE - HIGH CONF],135.11,left
+352,person,0.29,26.26,0,[FAST MODE - HIGH CONF],150.62,left
+353,person,0.252,25.9,1,"1. the obstacle in the image is a blue folding chair that appears to be folded up and partially blocking the walkway.
+2. it is on the left side of the view.
+3. to continue walking, you should move right of the chair.",5449.78,left
+354,person,0.339,25.3,0,[FAST MODE - HIGH CONF],131.25,left
+355,person,0.291,26.18,0,[FAST MODE - HIGH CONF],127.6,left
+356,person,0.279,25.98,0,[FAST MODE - HIGH CONF],123.25,left
+357,person,0.254,27.02,1,"1. the obstacle in the image is likely a person walking away from the camera.
+2. it is on the left side of the view.
+3. to avoid the obstacle, move to the right.",4851.63,left
+358,person,0.316,25.13,0,[FAST MODE - HIGH CONF],134.68,left
+359,person,0.274,25.52,0,[FAST MODE - HIGH CONF],129.38,left
+360,chair,0.312,20.81,0,[FAST MODE - HIGH CONF],122.3,left
+361,chair,0.278,20.73,0,[FAST MODE - HIGH CONF],124.6,left
+362,person,0.295,24.97,0,[FAST MODE - HIGH CONF],134.38,left
+363,person,0.328,24.94,0,[FAST MODE - HIGH CONF],151.35,left
+364,person,0.267,26.82,0,[FAST MODE - HIGH CONF],175.34,left
+365,person,0.256,26.57,1,"1. the obstacle in the image is a chair that the person cannot sit on.
+2. the chair is located on the left side of the view.
+3. to navigate, move towards the right to reach the other chair where someone else is sitting.",5398.19,left
+366,chair,0.272,19.98,0,[FAST MODE - HIGH CONF],150.98,left
+367,person,0.266,24.98,0,[FAST MODE - HIGH CONF],132.39,left
+368,person,0.253,26.4,1,"1. the obstacle in the image is a blue bench.
+2. the blue bench is located on the right side of the view.
+3. to navigate around the obstacle, move to the left until you are clear of the bench.",5258.09,left
+369,person,0.266,25.57,0,[FAST MODE - HIGH CONF],135.95,left
+370,person,0.273,24.76,0,[FAST MODE - HIGH CONF],128.52,left
+371,person,0.28,25.48,0,[FAST MODE - HIGH CONF],128.31,left
+372,person,0.265,26.28,0,[FAST MODE - HIGH CONF],130.03,left
+373,person,0.299,25.71,0,[FAST MODE - HIGH CONF],136.6,left
+374,person,0.265,26.27,0,[FAST MODE - HIGH CONF],159.18,left
+375,person,0.258,24.83,1,"1. the obstacle in the image is a blue bench.
+2. it is located on the right side of the view.
+3. to move past the obstacle, one should take a step to the left and continue walking forward.",5359.62,left
+376,person,0.303,26.42,0,[FAST MODE - HIGH CONF],128.53,left
+377,person,0.268,27.66,0,[FAST MODE - HIGH CONF],123.8,left
+378,bench,0.258,21.45,1,"1. the obstacle is a blue chair that the person cannot sit on because their legs are on it.
+2. the blue chair is located to the left of the view, where the person's feet are placed.
+3. move your feet off the chair and reposition them so you can sit comfortably.",5693.03,left
+379,person,0.342,27.57,0,[FAST MODE - HIGH CONF],134.02,left
+380,person,0.321,26.16,0,[FAST MODE - HIGH CONF],131.25,left
+381,person,0.328,26.14,0,[FAST MODE - HIGH CONF],122.49,left
+382,person,0.255,25.82,1,"1. the obstacle in the image is likely a tree trunk that they need to go around.
+2. it appears to be on the left side of the view, as there are people walking down the path and not encountering any other obstructions.
+3. move towards the right side of the frame if possible to avoid the tree trunk.",5950.74,left
+383,person,0.297,26.73,0,[FAST MODE - HIGH CONF],135.71,left
+384,person,0.26,25.88,1,"1. the obstacle is a person standing in front of another person who is walking with them.
+2. it is on the right side of the view.
+3. to navigate around it, move left or towards the person leading.",5114.3,left
+385,person,0.29,23.51,0,[FAST MODE - HIGH CONF],131.36,left
+386,person,0.26,24.3,0,[FAST MODE - HIGH CONF],131.77,left
+387,person,0.277,25.94,0,[FAST MODE - HIGH CONF],128.2,left
+388,person,0.356,24.77,0,[FAST MODE - HIGH CONF],131.85,left
+389,person,0.276,26.09,0,[FAST MODE - HIGH CONF],127.37,left
+390,chair,0.26,19.28,1,"1. the obstacle in the image appears to be a hanging orange bag or purse on the back of a blue chair.
+2. it is located on the left side of the view, as it hangs from one of the chair's legs.
+3. to avoid hitting the obstacle, the user should move their chair away from the orange item.",5952.61,left
+391,person,0.261,25.26,0,[FAST MODE - HIGH CONF],134.44,left
+392,person,0.304,25.41,0,[FAST MODE - HIGH CONF],130.63,left
+393,chair,0.257,18.94,1,"1. the obstacle in the image is a blue chair with a brown bag hanging from it.
+2. the chair is located on the right side of the view.
+3. move to the left to avoid hitting or tripping over the chair and its attached bag.",5334.72,left
+394,person,0.262,25.16,0,[FAST MODE - HIGH CONF],145.45,left
+395,potted plant,0.293,9.31,0,[FAST MODE - TOO CLOSE],128.1,left
+396,potted plant,0.31,9.55,0,[FAST MODE - TOO CLOSE],132.27,left
+397,person,0.337,23.82,0,[FAST MODE - HIGH CONF],131.61,left
+398,person,0.275,25.38,0,[FAST MODE - HIGH CONF],142.91,left
+399,chair,0.257,18.76,1,"1. the obstacle in the image is likely a hammock with an orange and blue color scheme, hanging from the chair's legs.
+2. the hammock is situated on the left side of the view.
+3. to navigate this obstacle, one should move to the right side of the table to avoid the hammock.",5913.34,left
+400,person,0.332,24.45,0,[FAST MODE - HIGH CONF],128.39,left
+401,person,0.257,23.88,1,"1. the person in the background appears to be a pedestrian crossing the street.
+2. it is located on the right side of the view, behind the main subject of the photo.
+3. you can either move left or right, depending on your current position relative to the main subject and the obstacle.",5715.48,left
+402,person,0.287,26.2,0,[FAST MODE - HIGH CONF],134.05,left
+403,chair,0.273,19.38,0,[FAST MODE - HIGH CONF],125.49,left
+404,bench,0.263,6.38,0,[FAST MODE - TOO CLOSE],123.5,left
+405,person,0.29,25.64,0,[FAST MODE - HIGH CONF],127.31,left
+406,potted plant,0.385,6.77,0,[FAST MODE - TOO CLOSE],184.05,left
+407,person,0.255,26,1,"1. the obstacle in the image is a person's leg.
+2. the leg is located on the right side of the view, with the ankle visible.
+3. to navigate around this obstacle, one should move left or maintain current position if it doesn't interfere with their path.",5847.34,left
+408,chair,0.261,21.78,0,[FAST MODE - HIGH CONF],173.96,left
+409,person,0.294,25.1,0,[FAST MODE - HIGH CONF],163.84,left
+410,chair,0.311,20.8,0,[FAST MODE - HIGH CONF],126.68,left
+411,chair,0.286,21.93,0,[FAST MODE - HIGH CONF],173.8,left
+412,chair,0.255,19.11,1,"1. the obstacle in the image is a brown satchel hanging from one of the chairs' straps.
+2. it is on the side of the view, specifically on the left side.
+3. to navigate around this obstacle, move to the right and avoid it as you pass by.",5827.54,left
+413,person,0.252,24.1,1,"1. the obstacle in the image is a person walking away from another person.
+2. this person is on the right side of the view.
+3. to navigate around this obstacle, move left or stop to avoid bumping into them.",5380.01,left
+414,bench,0.252,25.71,1,"1. the obstacle in the image is a blue table that sits on top of a cement surface.
+2. it is located towards the center and slightly to the left of the frame.
+3. to navigate around this obstacle, you should move right or left depending on your current position relative to the table.",5923.77,left
+415,bench,0.273,25.74,0,[FAST MODE - HIGH CONF],147.15,left
+416,bench,0.251,22.04,1,"1. the obstacle in the image is a blue folding chair.
+2. the blue folding chair is located on the right side of the image.
+3. to navigate around the chair, move to the left until you are clear of the chair's path.",11594.71,left
+417,person,0.335,26.38,0,[FAST MODE - HIGH CONF],167.87,left
+418,person,0.257,24.47,1,"1. the obstacle in the image is a person standing in front of another person, blocking their view.
+2. the blocked-off area is on the left side of the photo.
+3. to move around this obstacle, one should either walk past them or ask politely to be moved out of the way.",13268.8,left
+419,person,0.257,25.55,1,"1. the obstacle in the image is a dog that appears to be running.
+2. the dog is located on the right side of the view, near a blue railing.
+3. to avoid hitting the dog, move to the left side and maintain distance from it.",6708.61,left
+420,person,0.257,26.04,1,"1. the obstacle in the image is a tree branch that is blocking the path.
+2. the tree branch is located on the left side of the view.
+3. to navigate around the obstacle, move to the right until you are clear of the tree branch.",6267.98,left
+421,person,0.273,25.61,0,[FAST MODE - HIGH CONF],231.43,left
+422,person,0.286,26.58,0,[FAST MODE - HIGH CONF],140.52,left
+423,person,0.279,27.6,0,[FAST MODE - HIGH CONF],153.25,left
+424,potted plant,0.255,4.58,0,[FAST MODE - TOO CLOSE],189.38,right
+425,person,0.298,26.13,0,[FAST MODE - HIGH CONF],205.73,left
+426,person,0.292,25.76,0,[FAST MODE - HIGH CONF],197.85,left
+427,chair,0.259,20.14,1,"1. the obstacle in the image is a brown bag tied to the leg of a blue chair.
+2. it is located on the left side of the view.
+3. to avoid the obstacle, move towards the right side of the view.",7660.21,left
+428,person,0.253,24.98,1,"1. the obstacle in the image is a person with blurry features standing between another person and a wall, making it difficult to see their face clearly.
+2. the person in the middle of the view is on the left side of the photo.
+3. to navigate around this obstacle, one should move right or towards the wall where they are standing.",8649.18,left
+429,person,0.27,25.55,0,[FAST MODE - HIGH CONF],273.41,left
+430,person,0.259,25,1,"1. the object in the image is a bench that someone is sitting on.
+2. it is located to the left of the view.
+3. to move forward, you should move right.",5925.7,left
+431,person,0.251,25.64,1,"1) the obstacle in the image appears to be a person sitting on a blue chair.
+2) the person is situated towards the left of the view.
+3) to navigate around this obstacle, one should move right or towards the center of the image where no other obstructions are present.",15169.25,left
+432,person,0.345,24.52,0,[FAST MODE - HIGH CONF],268.36,left
+433,person,0.258,26.13,1,"1. the obstacle in the image is likely a blue chair.
+2. the blue chair is located on the right side of the image.
+3. to navigate around this obstacle, one should move to the left or continue forward if there's enough space.",6412.19,left
+434,person,0.253,27.37,1,"1. the obstacle is a person walking down the sidewalk.
+2. it is on the right of the view.
+3. move to the left to avoid the person.",5334.61,left
+435,person,0.287,26.3,0,[FAST MODE - HIGH CONF],147.61,left
+436,chair,0.255,20.08,1,"1. the obstacle in the image is a blue chair.
+2. it is on the right side of the view.
+3. move to the left to avoid hitting the blue chair.",5234.32,left
+437,person,0.255,26.08,1,"1. the obstacle in the image appears to be a dog on a leash held by a woman and child.
+2. the dog is located on the ground, between the woman and child who are walking together.
+3. to continue forward without touching the dog's leash, you should move right or slightly towards the edge of the image away from the dog.",6343.92,right
+438,potted plant,0.333,5.36,0,[FAST MODE - TOO CLOSE],180.22,right
+439,potted plant,0.256,6.66,0,[FAST MODE - TOO CLOSE],179.63,right
+440,chair,0.262,20.8,0,[FAST MODE - HIGH CONF],137.13,left
+441,person,0.32,24.98,0,[FAST MODE - HIGH CONF],137.97,left
+442,person,0.259,25.26,1,"1. the obstacle in the image is a person wearing a cowboy hat and carrying a bag.
+2. this person is located on the left side of the view.
+3. to avoid this obstacle, you should move to the right.",5218.17,left
+443,person,0.3,24.94,0,[FAST MODE - HIGH CONF],157.05,left
+444,person,0.25,27.24,1,"1. the obstacle in the image is likely a tree.
+2. it is located on the left side of the view.
+3. to avoid the obstacle, move to the right or away from the tree.",17330.12,left
+445,person,0.253,26.88,1,"1) the obstacle in the image appears to be a tree.
+2) it is located on the left side of the view, just behind the woman and child.
+3) to avoid this obstacle, they should move away from it or change direction.",5650.2,left
+446,person,0.262,27.08,0,[FAST MODE - HIGH CONF],136.06,left
+447,potted plant,0.279,15.24,0,[FAST MODE - HIGH CONF],130.76,right
+448,potted plant,0.263,18.35,0,[FAST MODE - HIGH CONF],132.03,right
+449,person,0.258,24.65,1,"1. the obstacle in the image is likely a person standing near the woman and child.
+2. it is located on the right side of the view.
+3. to avoid the obstacle, move to the left or towards the wall.",5475.91,left
+450,person,0.298,26.29,0,[FAST MODE - HIGH CONF],139.77,left
+451,person,0.334,27.16,0,[FAST MODE - HIGH CONF],133.39,left
+452,potted plant,0.297,10.5,0,[FAST MODE - HIGH CONF],129.05,right
+453,person,0.279,23.26,0,[FAST MODE - HIGH CONF],134.88,left
+454,person,0.251,27.24,1,"1. the obstacle in the image is a tree trunk.
+2. it is located to the left of both the woman and child.
+3. to navigate around this obstacle, you should move right.",11007.98,left
+455,person,0.265,28.37,0,[FAST MODE - HIGH CONF],136.92,left
+456,person,0.288,27.39,0,[FAST MODE - HIGH CONF],131.99,left
+457,bench,0.265,23.67,0,[FAST MODE - HIGH CONF],122.46,left
+458,person,0.272,26.76,0,[FAST MODE - HIGH CONF],131.31,left
+459,person,0.261,28.71,0,[FAST MODE - HIGH CONF],128.87,left
+460,person,0.261,27.45,0,[FAST MODE - HIGH CONF],144.13,left
+461,chair,0.286,22.66,0,[FAST MODE - HIGH CONF],160.07,left
+462,person,0.264,26.03,0,[FAST MODE - HIGH CONF],169.76,left
+463,person,0.269,26.82,0,[FAST MODE - HIGH CONF],169.67,left
+464,person,0.279,26.19,0,[FAST MODE - HIGH CONF],183.2,left
+465,chair,0.277,20.01,0,[FAST MODE - HIGH CONF],173.79,left
+466,chair,0.255,21.64,1,"1. the obstacle in the image is likely a bag hanging from one of the blue chairs.
+2. the bag is located on the left side of the view, hanging off the backrest of one of the chairs.
+3. to navigate around this obstacle, move to the right and carefully avoid getting caught by the hanging bag.",6420.56,left
+467,bench,0.259,22.5,1,"1. the obstacle in the image is a brown dog toy hanging from a blue chair.
+2. the dog toy is located on the left side of the view.
+3. to navigate around this obstacle, one should move away from the chair and to the right or left depending on their current position.",5835.09,left
+468,person,0.251,27.86,1,"1. the obstacle in the image is likely a tree trunk.
+2. it is located on the right side of the view, behind the woman and child.
+3. to avoid the obstacle, move to the left.",17238.86,left
+469,bench,0.254,21.95,1,"1. the obstacle in the image is a brown bag hanging off the side of a blue chair.
+2. the brown bag is located on the right side of the chair, dangling over its edge.
+3. move the bag away from the chair's edge to prevent it from falling or causing an accident.",6323.22,right
+470,person,0.275,28.11,0,[FAST MODE - HIGH CONF],162.1,left
+471,person,0.259,27.06,1,"1. the obstacle in the image is likely a person walking by in the background.
+2. it is located on the right side of the view.
+3. to avoid bumping into the person, move to the left.",5641.71,left
+472,person,0.27,29,0,[FAST MODE - HIGH CONF],217.1,left
+473,person,0.287,29.24,0,[FAST MODE - HIGH CONF],137.14,left
+474,person,0.25,25.79,1,"what the obstacle likely is: the blurred figure in center with long hair.
+
+where it is located: in the middle of the image, not on any side specifically.
+
+navigation instruction: move towards the right to see the person clearly.",11191.78,right
+475,person,0.264,26.62,0,[FAST MODE - HIGH CONF],287.69,left
+476,person,0.282,29.15,0,[FAST MODE - HIGH CONF],153.36,left
+477,person,0.323,27.63,0,[FAST MODE - HIGH CONF],149.54,left
+478,person,0.361,27.04,0,[FAST MODE - HIGH CONF],146.59,left
+479,person,0.284,27.3,0,[FAST MODE - HIGH CONF],156.12,left
+480,person,0.257,26.13,1,"1. the person has a cane, which is an obstacle that helps them navigate their surroundings.
+2. the cane is located in the center of the image, held by the woman with long hair.
+3. to avoid hitting the cane, move to either side or slightly behind it.",6412.82,none
+481,person,0.261,25.98,0,[FAST MODE - HIGH CONF],192.87,left
+482,person,0.256,26.65,1,"1. the obstacle in the image is a person's leg on a chair.
+2. it is located to the right of the center of the image.
+3. move left or forward to continue your path around this obstacle.",5642.65,left
+483,potted plant,0.304,5.02,0,[FAST MODE - TOO CLOSE],255.51,right
+484,person,0.257,28.46,1,"1. the obstacle in the image is a person standing near a blue chair.
+2. the person and the chair are located on the right side of the view.
+3. to navigate around this obstacle, one should move to the left side of the view.",5606.82,left
+485,person,0.291,27.93,0,[FAST MODE - HIGH CONF],160.02,left
+486,potted plant,0.252,18.57,1,"1. the chair in front of the table is blocking the way for someone to reach the potted plant with palm fronds on top.
+2. it is located on the left side of the view.
+3. to navigate, move right and then forward until you can access the potted plant without obstructing your path.",6081.14,left
+487,person,0.27,28.28,0,[FAST MODE - HIGH CONF],148.52,left
+488,potted plant,0.274,4.67,0,[FAST MODE - TOO CLOSE],126.17,right
+489,chair,0.307,22.07,0,[FAST MODE - HIGH CONF],129.95,left
+490,chair,0.326,22.85,0,[FAST MODE - HIGH CONF],152.39,left
+491,chair,0.277,23.41,0,[FAST MODE - HIGH CONF],156.72,left
+492,person,0.267,26.42,0,[FAST MODE - HIGH CONF],168.59,left
+493,person,0.288,27.98,0,[FAST MODE - HIGH CONF],160.7,left
+494,person,0.256,27.04,1,"1) the obstacle in the image is a person sitting down.
+2) the person sitting down is located on the right side of the view.
+3) to avoid the obstacle, one should move to the left or center of the image.",6322.23,left
+495,potted plant,0.324,4.43,0,[FAST MODE - TOO CLOSE],208.52,right
+496,potted plant,0.327,14.99,0,[FAST MODE - HIGH CONF],134.31,right
+497,potted plant,0.251,15.04,1,"the obstacle in the image is a large plant pot filled with rocks and plants. it is located on the right side of the view. to navigate around this obstacle, you should move to the left or proceed carefully past it while keeping your surroundings in mind.",5877.61,left
+498,person,0.253,28.1,1,"1. the obstacle in the image is a person wearing a green jacket who is standing between two other people, one of whom has a hand on their hip.
+2. the person in the green jacket is located to the right of the woman with her hand on her hip and slightly behind her.
+3. to navigate around this obstacle, you should move left towards the woman with her hand on her hip.",8759.13,left
+499,potted plant,0.262,13.54,0,[FAST MODE - HIGH CONF],285.01,right
+500,person,0.376,26.11,0,[FAST MODE - HIGH CONF],148.76,left
+501,person,0.304,24,0,[FAST MODE - HIGH CONF],142.17,left
+502,person,0.266,23.22,0,[FAST MODE - HIGH CONF],164.83,left
+503,person,0.316,28.72,0,[FAST MODE - HIGH CONF],154.68,left
+504,person,0.267,27.94,0,[FAST MODE - HIGH CONF],154.38,left
+505,potted plant,0.256,9.93,0,[FAST MODE - TOO CLOSE],168.73,right
+506,bench,0.274,27.69,0,[FAST MODE - HIGH CONF],498.92,left
+507,potted plant,0.274,20.43,0,[FAST MODE - HIGH CONF],182.97,right
+508,person,0.267,28.05,0,[FAST MODE - HIGH CONF],174.01,left
+509,chair,0.332,21.48,0,[FAST MODE - HIGH CONF],197.88,left
+510,chair,0.263,22.09,0,[FAST MODE - HIGH CONF],205.4,left
+511,chair,0.31,23.03,0,[FAST MODE - HIGH CONF],177.6,left
+512,person,0.251,23.29,1,"1. the obstacle in the image is a blue chair that the person seems to be sitting on.
+2. the blue chair is located on the left side of the image.
+3. to navigate around the obstacle, move your blind user away from the blue chair towards the right side of the image.",13290.35,left
+513,person,0.266,29,0,[FAST MODE - HIGH CONF],715.41,left
+514,person,0.268,26.97,0,[FAST MODE - HIGH CONF],215.13,left
+515,person,0.315,22.83,0,[FAST MODE - HIGH CONF],183.31,left
+516,person,0.296,21.36,0,[FAST MODE - HIGH CONF],194.28,left
+517,person,0.253,28.8,1,"1. the obstacle in the image is likely a man standing up and blocking someone's way who is sitting on a blue chair.
+2. it is positioned on the right side of the view, with the person sitting in the chair to their left.
+3. move right to get around the person standing.",6803.88,left
+518,dining table,0.259,21.88,1,"1. the obstacle in the image is a brown frisbee attached to a blue chair with a long string.
+2. it is hanging from the side of the table, which could be on either the left or right depending on where you are standing relative to the camera.
+3. to move around this obstacle, one should gently swing their body towards the other side of the table to avoid hitting the frisbee with their legs or feet.",7773.6,left
+519,person,0.291,27.47,0,[FAST MODE - HIGH CONF],213.72,left
+520,person,0.259,27.97,1,"1. the obstacle in the image is a person standing between two chairs.
+2. it is located on the right side of the view.
+3. to navigate around the obstacle, move to the left and avoid passing through it.",6033.24,left
+521,chair,0.253,20.56,1,"1. the obstacle in the image is a chair with a brown bag hanging from it.
+2. the chair with the brown bag hanging from it is on the left side of the view.
+3. to avoid this obstacle, move to the right or forward.",5779.78,left
+522,person,0.269,28.57,0,[FAST MODE - HIGH CONF],160.3,left
+523,person,0.345,23.97,0,[FAST MODE - HIGH CONF],131.15,left
+524,person,0.28,22.85,0,[FAST MODE - HIGH CONF],129.29,left
+525,person,0.284,21.36,0,[FAST MODE - HIGH CONF],132.72,left
+526,person,0.271,21.48,0,[FAST MODE - HIGH CONF],156.91,left
+527,person,0.256,28.54,1,"1. the obstacle in the image appears to be a person holding onto a backpack strap with their shoulder, blocking the view of another individual standing behind them.
+2. this person is located on the left side of the photo.
+3. to navigate around this obstacle, move right towards the white door that can be seen through the blurry image.",12473.43,left
+528,person,0.267,27.21,0,[FAST MODE - HIGH CONF],145.77,left
+529,bench,0.289,22,0,[FAST MODE - HIGH CONF],129.21,left
+530,person,0.253,18.71,1,"1. the obstacle is likely a blue chair that the person cannot sit on due to their disability.
+2. it is located in the center of the view.
+3. move left or right depending on which way you want to go around the chair.",5611.05,left
+531,person,0.339,22.45,0,[FAST MODE - HIGH CONF],130.35,left
+532,chair,0.298,22.82,0,[FAST MODE - HIGH CONF],120.25,left
+533,chair,0.258,23.01,1,"1. the obstacle in the image is a brown purse hanging from the back of a blue chair.
+2. it is located on the right side of the view, between the chair and the wall.
+3. to navigate around this obstacle, move to the left of the chair or slightly closer to the wall if possible.",6218.22,left
+534,bench,0.286,23.85,0,[FAST MODE - HIGH CONF],164.81,left
+535,person,0.294,27.7,0,[FAST MODE - HIGH CONF],138.49,left
+536,bench,0.262,25.47,0,[FAST MODE - HIGH CONF],131.75,left
+537,person,0.263,26.86,0,[FAST MODE - HIGH CONF],142.04,left
+538,bench,0.303,21.83,0,[FAST MODE - HIGH CONF],157.61,left
+539,bench,0.263,22.43,0,[FAST MODE - HIGH CONF],173.38,left
+540,bench,0.256,17.19,1,"1. the obstacle in the image is a brown bag tied to the back of a blue chair with a rope or leash, most likely containing a pet such as a dog.
+2. the bag and chair are located on the right side of the view.
+3. to navigate around this obstacle, one should move left if they are currently moving towards the right, or vice versa.",6939.14,left
+541,bench,0.251,18.84,1,"1. the obstacle in the image is a blue chair that the person cannot sit on due to its high back and armrests.
+2. the blue chair is located on the left side of the view, with the person sitting on it.
+3. to navigate around this obstacle, one should move right or away from the blue chair.",6421.94,left
+542,bench,0.257,16.28,1,"1. the obstacle in the image is likely a brown leather purse hanging from a blue chair's handle.
+2. the purse is located on the right side of the view.
+3. to avoid this obstacle, move to the left side where there are no hanging objects.",6394.74,left
+543,person,0.302,25.82,0,[FAST MODE - HIGH CONF],137.7,right
+544,person,0.257,24.64,1,"1. the obstacle in the image appears to be a blue chair that is obstructing someone's way.
+2. it is located on the left side of the view.
+3. to navigate around it, move right.",5704.64,left
+545,person,0.28,24.75,0,[FAST MODE - HIGH CONF],158.01,left
+546,person,0.258,23.99,1,"1. the obstacle is a person's leg that is blocking someone from walking past them.
+2. the leg is on the right side of the view.
+3. move to the left, away from the leg.",5992.06,left
+547,person,0.252,23.76,1,"1. the obstacle in the image appears to be a blue folding chair with wheels on it.
+2. the blue folding chair is located in the center of the image.
+3. to navigate around this obstacle, you should move to either the left or right side of the view depending on its position relative to your intended direction of travel.",6280.16,left
+548,person,0.268,22.41,0,[FAST MODE - HIGH CONF],148.63,left
+549,person,0.313,22.79,0,[FAST MODE - HIGH CONF],123,left
+550,person,0.27,26.22,0,[FAST MODE - HIGH CONF],133.43,left
+551,person,0.252,26.5,1,"1. the obstacle in the image is likely a person walking by with a backpack on their shoulder.
+2. the person with the backpack is positioned to the left of the view.
+3. to avoid colliding with this person, you should move away from them and give them space.",6211.33,left
+552,person,0.28,25.86,0,[FAST MODE - HIGH CONF],167.4,left
+553,person,0.317,24.32,0,[FAST MODE - HIGH CONF],142.75,right
+554,bench,0.251,13.8,1,"1. the brown bag hanging from the chair is likely an obstacle for a blind user.
+2. it is on the left side of the view.
+3. move to the left and navigate around the bag.",5427.23,left
+555,person,0.259,24.8,1,"1. there is a bench that appears to be broken in front of the person sitting on it.
+2. the obstacle is located on the right side of the view, with the person facing left.
+3. move towards the center and find an alternative seating option.",5965.29,left
+556,person,0.272,25.07,0,[FAST MODE - HIGH CONF],161.24,left
+557,person,0.254,21.48,1,"1. the obstacle in the image is likely a person standing on the sidewalk.
+2. it is located to the right of the view where the old man and the young woman are standing.
+3. to navigate around this person, one should move left or right depending on which direction they intend to go.",6290.08,left
+558,chair,0.259,13.85,1,"1. the obstacle in the image is a blue folding chair with a brown bag hanging from it, which may be causing an obstruction for the blind user.
+2. the blue folding chair and its accompanying brown bag are located on the left side of the view.
+3. to navigate around this obstacle, you should move to the right until reaching clear ground or a more accessible pathway.",8848.26,left
+559,chair,0.254,14.23,1,"1. the obstacle in the image is a brown bag hanging from the armrest of a chair.
+2. it is on the right side of the view, leaning against the wall.
+3. move your cane towards the left to avoid the brown bag.",7113.45,left
+560,person,0.251,24.24,1,"1. the obstacle in this image is likely a person walking towards the camera.
+2. the person is located on the left side of the view, between two other people.
+3. move to the right and away from the person's path to avoid collision.",5939.5,left
+561,bench,0.251,23.76,1,"1. the obstacle in the image is a person sitting on a chair.
+2. this person is located to the right of the view.
+3. to navigate around this obstacle, move left or straight ahead.",5485.17,left
+562,person,0.282,17.88,0,[FAST MODE - HIGH CONF],169.04,left
+563,person,0.264,24.28,0,[FAST MODE - HIGH CONF],135.24,right
+564,bench,0.264,15.26,0,[FAST MODE - HIGH CONF],123.69,left
+565,person,0.346,28.46,0,[FAST MODE - HIGH CONF],127,left
+566,person,0.272,28.2,0,[FAST MODE - HIGH CONF],127.74,left
+567,person,0.301,25.89,0,[FAST MODE - HIGH CONF],151.19,left
+568,person,0.269,25.67,0,[FAST MODE - HIGH CONF],153.82,left
+569,bench,0.254,26.96,1,"1. the obstacle in the image is a person's leg.
+2. it is located on the right side of the view.
+3. to navigate around it, one should move to the left.",5355.33,left
+570,bench,0.279,27.46,0,[FAST MODE - HIGH CONF],158.13,left
+571,chair,0.276,14.76,0,[FAST MODE - HIGH CONF],120.36,left
+572,chair,0.297,13.87,0,[FAST MODE - HIGH CONF],118.37,left
+573,chair,0.264,14.02,0,[FAST MODE - HIGH CONF],121.74,left
+574,bench,0.278,14.53,0,[FAST MODE - HIGH CONF],145.82,left
+575,bench,0.279,14.54,0,[FAST MODE - HIGH CONF],158.94,left
+576,person,0.29,26.64,0,[FAST MODE - HIGH CONF],159.6,left
+577,person,0.292,28.05,0,[FAST MODE - HIGH CONF],174.39,left
+578,person,0.346,14.55,0,[FAST MODE - HIGH CONF],163.8,left
+579,chair,0.267,13.05,0,[FAST MODE - HIGH CONF],184.86,left

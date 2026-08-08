@@ -1,0 +1,96 @@
+frame_idx,source_env,source_file,yolo_max_conf,detected_classes,status,vlm_response,latency_ms,usage_ratio
+1,custom,trial_x_0.295_raw.mp4,0.2787,oven,VLM_TRIGGERED,PENDING...,0,0.0000
+1,custom,trial_x_0.295_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards.,3049.4,1.0000
+2,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.5000
+3,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.3333
+4,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2500
+5,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2000
+6,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1667
+7,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1429
+8,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1250
+9,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1111
+10,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1000
+11,custom,trial_x_0.295_raw.mp4,0.6532,chair,YOLO_ONLY,N/A,0,0.0909
+12,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0833
+13,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0769
+14,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0714
+15,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0667
+16,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0625
+17,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0588
+18,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0556
+19,custom,trial_x_0.295_raw.mp4,0.2831,person,VLM_TRIGGERED,PENDING...,0,0.0526
+19,custom,trial_x_0.295_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards in the room.,3063.4,0.1053
+20,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1000
+21,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0952
+22,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0909
+23,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0870
+24,custom,trial_x_0.295_raw.mp4,0.2698,chair,VLM_TRIGGERED,PENDING...,0,0.0833
+24,custom,trial_x_0.295_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards in the room.,3060.9,0.1250
+25,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1200
+26,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1154
+27,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1111
+28,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1071
+29,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1034
+30,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1000
+31,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0968
+32,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0938
+33,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0909
+34,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0882
+35,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0857
+36,custom,trial_x_0.295_raw.mp4,0.4783,chair,VLM_TRIGGERED,PENDING...,0,0.0833
+36,custom,trial_x_0.295_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards in the room.,3054.6,0.1111
+37,custom,trial_x_0.295_raw.mp4,0.3642,chair;cat,VLM_TRIGGERED,PENDING...,0,0.1081
+37,custom,trial_x_0.295_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards in the room.,3069.4,0.1351
+38,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1316
+39,custom,trial_x_0.295_raw.mp4,0.3451,umbrella,VLM_TRIGGERED,PENDING...,0,0.1282
+39,custom,trial_x_0.295_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards in the room.,3057.6,0.1538
+40,custom,trial_x_0.295_raw.mp4,0.3168,cat;suitcase,VLM_TRIGGERED,PENDING...,0,0.1500
+40,custom,trial_x_0.295_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards in the room.,3065.8,0.1750
+41,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1707
+42,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1667
+43,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1628
+44,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1591
+45,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1556
+46,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1522
+47,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1489
+48,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1458
+49,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1429
+50,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1400
+51,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1373
+52,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1346
+53,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1321
+54,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1296
+55,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1273
+56,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1250
+57,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1228
+58,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1207
+59,custom,trial_x_0.295_raw.mp4,0.2708,dog,VLM_TRIGGERED,PENDING...,0,0.1186
+59,custom,trial_x_0.295_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards in the room.,3068.0,0.1356
+60,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1333
+61,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1311
+62,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1290
+63,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1270
+64,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1250
+65,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1231
+66,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1212
+67,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1194
+68,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1176
+69,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1159
+70,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1143
+71,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1127
+72,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1111
+73,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1096
+74,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1081
+75,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1067
+76,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1053
+77,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1039
+78,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1026
+79,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1013
+80,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1000
+81,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0988
+82,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0976
+83,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0964
+84,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0952
+85,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0941
+86,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0930
+87,custom,trial_x_0.295_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0920

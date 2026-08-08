@@ -1,0 +1,92 @@
+frame_idx,source_env,source_file,yolo_max_conf,status,vlm_response,latency_ms,usage_ratio
+1,robot_room_second_trial,trial_x_0.69.mp4,0.2506,VLM_TRIGGERED,PENDING...,0,0
+1,robot_room_second_trial,trial_x_0.69.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles and hazards in the room include the orange traffic cone; which is placed on the dark floor; and the black blurry circle that represents a simulated Age-Related Macular Degeneration effect. The clear areas of the image show a well-lit path leading to the cone; with no other visible obstacles or hazards.,4530.7,1
+2,robot_room_second_trial,trial_x_0.69.mp4,0,YOLO_ONLY,N/A,0,0.5
+3,robot_room_second_trial,trial_x_0.69.mp4,0,YOLO_ONLY,N/A,0,0.3333
+4,robot_room_second_trial,trial_x_0.69.mp4,0,YOLO_ONLY,N/A,0,0.25
+5,robot_room_second_trial,trial_x_0.69.mp4,0.3699,YOLO_ONLY,N/A,0,0.2
+6,robot_room_second_trial,trial_x_0.69.mp4,0,YOLO_ONLY,N/A,0,0.1667
+7,robot_room_second_trial,trial_x_0.69.mp4,0,YOLO_ONLY,N/A,0,0.1429
+8,robot_room_second_trial,trial_x_0.69.mp4,0,YOLO_ONLY,N/A,0,0.125
+9,robot_room_second_trial,trial_x_0.69.mp4,0.2522,VLM_TRIGGERED,PENDING...,0,0.1111
+9,robot_room_second_trial,trial_x_0.69.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include an orange traffic cone with reflective tape; which is positioned on a blue carpeted floor. The cone appears to be stationary and there are no other visible hazards or obstructions within the frame of the image provided.,3968,0.2222
+10,robot_room_second_trial,trial_x_0.69.mp4,0.3009,YOLO_ONLY,N/A,0,0.2
+11,robot_room_second_trial,trial_x_0.69.mp4,0.3092,YOLO_ONLY,N/A,0,0.1818
+12,robot_room_second_trial,trial_x_0.69.mp4,0.3092,YOLO_ONLY,N/A,0,0.1667
+13,robot_room_second_trial,trial_x_0.69.mp4,0.3809,YOLO_ONLY,N/A,0,0.1538
+14,robot_room_second_trial,trial_x_0.69.mp4,0,YOLO_ONLY,N/A,0,0.1429
+15,robot_room_second_trial,trial_x_0.69.mp4,0.2582,VLM_TRIGGERED,PENDING...,0,0.1333
+15,robot_room_second_trial,trial_x_0.69.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include an orange traffic cone with reflective stripes; which is positioned prominently in the foreground. The floor appears to be a standard carpeted area; and there are no visible hazards such as sharp objects or uneven surfaces that can be discerned from this image.,4138.9,0.2
+16,robot_room_second_trial,trial_x_0.69.mp4,0,YOLO_ONLY,N/A,0,0.1875
+17,robot_room_second_trial,trial_x_0.69.mp4,0.3175,YOLO_ONLY,N/A,0,0.1765
+18,robot_room_second_trial,trial_x_0.69.mp4,0,YOLO_ONLY,N/A,0,0.1667
+19,robot_room_second_trial,trial_x_0.69.mp4,0.2577,VLM_TRIGGERED,PENDING...,0,0.1579
+19,robot_room_second_trial,trial_x_0.69.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles and hazards in the room include the orange traffic cone; which is positioned prominently in the foreground; and the black blurry circle that represents a simulated Age-Related Macular Degeneration effect. The floor appears to be carpeted with a blue pattern; and there are no other visible obstacles or hazards within the frame of the image.,4521.3,0.2105
+20,robot_room_second_trial,trial_x_0.69.mp4,0,YOLO_ONLY,N/A,0,0.2
+21,robot_room_second_trial,trial_x_0.69.mp4,0.3197,YOLO_ONLY,N/A,0,0.1905
+22,robot_room_second_trial,trial_x_0.69.mp4,0.5297,YOLO_ONLY,N/A,0,0.1818
+23,robot_room_second_trial,trial_x_0.69.mp4,0.2632,VLM_TRIGGERED,PENDING...,0,0.1739
+23,robot_room_second_trial,trial_x_0.69.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include an orange traffic cone with reflective stripes; which is positioned prominently in the foreground. The floor appears to be a standard carpeted area; and there are no visible hazards such as sharp objects or uneven surfaces that can be discerned from this image.,4159.8,0.2174
+24,robot_room_second_trial,trial_x_0.69.mp4,0.2589,VLM_TRIGGERED,PENDING...,0,0.2083
+24,robot_room_second_trial,trial_x_0.69.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include an orange traffic cone with reflective stripes; which is positioned on a blue carpeted floor. The cone appears to be stationary and there are no immediate hazards visible in the image.,3743.6,0.25
+25,robot_room_second_trial,trial_x_0.69.mp4,0.3339,YOLO_ONLY,N/A,0,0.24
+26,robot_room_second_trial,trial_x_0.69.mp4,0,YOLO_ONLY,N/A,0,0.2308
+27,robot_room_second_trial,trial_x_0.69.mp4,0,YOLO_ONLY,N/A,0,0.2222
+28,robot_room_second_trial,trial_x_0.69.mp4,0.3461,YOLO_ONLY,N/A,0,0.2143
+29,robot_room_second_trial,trial_x_0.69.mp4,0,YOLO_ONLY,N/A,0,0.2069
+30,robot_room_second_trial,trial_x_0.69.mp4,0,YOLO_ONLY,N/A,0,0.2
+31,robot_room_second_trial,trial_x_0.69.mp4,0.2589,VLM_TRIGGERED,PENDING...,0,0.1935
+31,robot_room_second_trial,trial_x_0.69.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include an orange traffic cone with a black circular area; which is likely a simulation of Age-Related Macular Degeneration; and a black chair. The clear areas of the image show a gray carpeted floor leading to a desk or workstation.,3950.1,0.2258
+32,robot_room_second_trial,trial_x_0.69.mp4,0.2887,VLM_TRIGGERED,PENDING...,0,0.2188
+32,robot_room_second_trial,trial_x_0.69.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include an orange traffic cone with reflective stripes; which is positioned prominently in the foreground. The floor appears to be a standard carpeted area; and there are no visible hazards such as sharp objects or uneven surfaces that can be discerned from this image.,4152.1,0.25
+33,robot_room_second_trial,trial_x_0.69.mp4,0.3197,YOLO_ONLY,N/A,0,0.2424
+34,robot_room_second_trial,trial_x_0.69.mp4,0,YOLO_ONLY,N/A,0,0.2353
+35,robot_room_second_trial,trial_x_0.69.mp4,0,YOLO_ONLY,N/A,0,0.2286
+36,robot_room_second_trial,trial_x_0.69.mp4,0.3244,YOLO_ONLY,N/A,0,0.2222
+37,robot_room_second_trial,trial_x_0.69.mp4,0,YOLO_ONLY,N/A,0,0.2162
+38,robot_room_second_trial,trial_x_0.69.mp4,0,YOLO_ONLY,N/A,0,0.2105
+39,robot_room_second_trial,trial_x_0.69.mp4,0.2599,VLM_TRIGGERED,PENDING...,0,0.2051
+39,robot_room_second_trial,trial_x_0.69.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include an orange traffic cone with reflective tape; which is positioned on a blue carpeted floor. The cone appears to be stationary and there are no other visible hazards or obstructions within the frame of the image provided.,3921.8,0.2308
+40,robot_room_second_trial,trial_x_0.69.mp4,0,YOLO_ONLY,N/A,0,0.225
+41,robot_room_second_trial,trial_x_0.69.mp4,0.3002,YOLO_ONLY,N/A,0,0.2195
+42,robot_room_second_trial,trial_x_0.69.mp4,0.2635,VLM_TRIGGERED,PENDING...,0,0.2143
+42,robot_room_second_trial,trial_x_0.69.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles and hazards in the room include the orange traffic cone; which is positioned in the center of the image; and the black blurry circle that represents a simulated Age-Related Macular Degeneration effect. The clear areas of the image show a blue carpeted floor with no other visible obstructions or hazards.,4197.9,0.2381
+43,robot_room_second_trial,trial_x_0.69.mp4,0.2644,VLM_TRIGGERED,PENDING...,0,0.2326
+43,robot_room_second_trial,trial_x_0.69.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include an orange traffic cone with reflective tape; which is positioned prominently in the foreground. The floor appears to be a standard carpeted area; and there are no visible hazards such as sharp objects or uneven surfaces that would pose a risk of tripping or falling.,4137.3,0.2558
+44,robot_room_second_trial,trial_x_0.69.mp4,0.3451,YOLO_ONLY,N/A,0,0.25
+45,robot_room_second_trial,trial_x_0.69.mp4,0.286,VLM_TRIGGERED,PENDING...,0,0.2444
+45,robot_room_second_trial,trial_x_0.69.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include an orange traffic cone with reflective stripes; which is positioned prominently in the foreground. The floor appears to be a standard carpeted area; and there are no visible hazards such as sharp objects or uneven surfaces that can be discerned from this image.,4122.8,0.2667
+46,robot_room_second_trial,trial_x_0.69.mp4,0.2874,VLM_TRIGGERED,PENDING...,0,0.2609
+46,robot_room_second_trial,trial_x_0.69.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include an orange traffic cone with reflective tape; which is positioned prominently in the foreground. The floor appears to be a standard carpeted area; and there are no visible hazards such as sharp objects or uneven surfaces that can be discerned from this image.,4125.2,0.2826
+47,robot_room_second_trial,trial_x_0.69.mp4,0.2715,VLM_TRIGGERED,PENDING...,0,0.2766
+47,robot_room_second_trial,trial_x_0.69.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include an orange traffic cone with reflective stripes; which is positioned prominently in the foreground. The floor appears to be a standard carpeted area; and there are no visible hazards such as sharp objects or uneven surfaces that can be discerned from this image.,4119.9,0.2979
+48,robot_room_second_trial,trial_x_0.69.mp4,0.28,VLM_TRIGGERED,PENDING...,0,0.2917
+48,robot_room_second_trial,trial_x_0.69.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include an orange traffic cone with reflective stripes; which is positioned prominently in the foreground. The floor appears to be a standard carpeted area; and there are no visible hazards such as sharp objects or uneven surfaces that can be discerned from this image.,4136.1,0.3125
+49,robot_room_second_trial,trial_x_0.69.mp4,0.2766,VLM_TRIGGERED,PENDING...,0,0.3061
+49,robot_room_second_trial,trial_x_0.69.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles and hazards in the room include an orange traffic cone with reflective stripes; which is placed on a blue carpeted floor. The cone appears to be stationary and there are no other visible objects or hazards within the frame of the image provided.,3967.6,0.3265
+50,robot_room_second_trial,trial_x_0.69.mp4,0,YOLO_ONLY,N/A,0,0.32
+51,robot_room_second_trial,trial_x_0.69.mp4,0,YOLO_ONLY,N/A,0,0.3137
+52,robot_room_second_trial,trial_x_0.69.mp4,0.2596,VLM_TRIGGERED,PENDING...,0,0.3077
+52,robot_room_second_trial,trial_x_0.69.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include an orange traffic cone with a black circular area; which is likely a simulation of Age-Related Macular Degeneration; and a chair with a purple overlay indicating its position or movement. The clear areas of the image show a blue carpeted floor leading to a desk area with a computer monitor.,4212,0.3269
+53,robot_room_second_trial,trial_x_0.69.mp4,0,YOLO_ONLY,N/A,0,0.3208
+54,robot_room_second_trial,trial_x_0.69.mp4,0,YOLO_ONLY,N/A,0,0.3148
+55,robot_room_second_trial,trial_x_0.69.mp4,0,YOLO_ONLY,N/A,0,0.3091
+56,robot_room_second_trial,trial_x_0.69.mp4,0.2912,VLM_TRIGGERED,PENDING...,0,0.3036
+56,robot_room_second_trial,trial_x_0.69.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include an orange traffic cone with a black circular area; which is likely a simulation of Age-Related Macular Degeneration; and a chair with a purple outline. The clear areas of the image show a blue carpeted floor leading to a desk with a computer monitor on it.,4146.4,0.3214
+57,robot_room_second_trial,trial_x_0.69.mp4,0,YOLO_ONLY,N/A,0,0.3158
+58,robot_room_second_trial,trial_x_0.69.mp4,0.2918,VLM_TRIGGERED,PENDING...,0,0.3103
+58,robot_room_second_trial,trial_x_0.69.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include an orange traffic cone with reflective tape; which is positioned on a blue carpeted floor. The cone appears to be stationary and there are no other visible hazards or obstructions within the frame of the image provided.,3885.2,0.3276
+59,robot_room_second_trial,trial_x_0.69.mp4,0.3048,YOLO_ONLY,N/A,0,0.322
+60,robot_room_second_trial,trial_x_0.69.mp4,0.2944,VLM_TRIGGERED,PENDING...,0,0.3167
+60,robot_room_second_trial,trial_x_0.69.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include an orange traffic cone with a black circular area; which is likely a simulation of Age-Related Macular Degeneration; and a black object on the floor that resembles a piece of furniture or equipment. The path appears to be clear except for these objects.,4116,0.3333
+61,robot_room_second_trial,trial_x_0.69.mp4,0.3626,YOLO_ONLY,N/A,0,0.3279
+62,robot_room_second_trial,trial_x_0.69.mp4,0,YOLO_ONLY,N/A,0,0.3226
+63,robot_room_second_trial,trial_x_0.69.mp4,0.2577,VLM_TRIGGERED,PENDING...,0,0.3175
+63,robot_room_second_trial,trial_x_0.69.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include an orange traffic cone with a black circular area; which is likely a simulation of Age-Related Macular Degeneration; and a blue rectangular box that appears to be a marker or boundary for the simulation. The clear floor area around these objects is mostly unobstructed except for the shadows cast by the cone and the box.,4951.3,0.3333
+64,robot_room_second_trial,trial_x_0.69.mp4,0,YOLO_ONLY,N/A,0,0.3281
+65,robot_room_second_trial,trial_x_0.69.mp4,0,YOLO_ONLY,N/A,0,0.3231
+66,robot_room_second_trial,trial_x_0.69.mp4,0.2634,VLM_TRIGGERED,PENDING...,0,0.3182
+66,robot_room_second_trial,trial_x_0.69.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include an orange traffic cone with a black circular area; which is likely a simulation of Age-Related Macular Degeneration; and a chair with a purple bounding box. The clear areas of the image show a gray carpeted floor leading to a desk or workstation.,5186.3,0.3333
+67,robot_room_second_trial,trial_x_0.69.mp4,0,YOLO_ONLY,N/A,0,0.3284
+68,robot_room_second_trial,trial_x_0.69.mp4,0,YOLO_ONLY,N/A,0,0.3235
+69,robot_room_second_trial,trial_x_0.69.mp4,0.3928,YOLO_ONLY,N/A,0,0.3188

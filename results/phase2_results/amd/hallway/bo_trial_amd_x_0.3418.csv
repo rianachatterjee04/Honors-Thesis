@@ -1,0 +1,134 @@
+frame_idx,source_env,source_file,yolo_max_conf,status,vlm_response,latency_ms,usage_ratio
+1,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.0000
+2,hallway,trial_x_0.1.mp4,0.3031,VLM_TRIGGERED,PENDING...,0,0.0000
+2,hallway,trial_x_0.1.mp4,N/A,VLM_RESPONSE_RECEIVED,"The image shows a section of an office or public space with a focus on the flooring. The most prominent feature in this area is the black circular object; which appears to be a simulation of Age-Related Macular Degeneration (AMD); given its shape and coloration. This object is not a real hazard but rather a visual representation used for demonstration or educational purposes.
+
+In terms of identifying obstacles and hazards in the room; there are no immediate physical obstructions visible in this section of the floor. The path appears clear except for the simulated AMD circle. However; it's important to note that the simulation is not a real-world scenario but rather an artistic or educational tool.
+
+If we were to consider the actual flooring and path; they seem to be well-maintained with no visible cracks; holes; or debris. The carpet appears to be in good condition without any signs of damage or wear that would indicate a hazardous environment. Therefore; based on this image alone; there are no real obstacles or hazards present in the room as described by the question.",8485.4,0.5000
+3,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.3333
+4,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.2500
+5,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.2000
+6,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.1667
+7,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.1429
+8,hallway,trial_x_0.1.mp4,0.2521,VLM_TRIGGERED,PENDING...,0,0.1250
+8,hallway,trial_x_0.1.mp4,N/A,VLM_RESPONSE_RECEIVED,The image provided does not allow for an accurate description or identification of obstacles and hazards within the room due to its low resolution and lack of clarity. The central black blurry circle; which is likely a simulation of Age-Related Macular Degeneration; is the only element that can be discerned from this image. It's important to note that while this simulation may represent a common visual impairment; it does not depict an actual hazard or obstacle in a real-world setting. Therefore; no further details about the room's physical features or potential hazards can be provided based on this image alone.,5779.2,0.2500
+9,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.2222
+10,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.2000
+11,hallway,trial_x_0.1.mp4,0.4452,YOLO_ONLY,N/A,0,0.1818
+12,hallway,trial_x_0.1.mp4,0.3939,YOLO_ONLY,N/A,0,0.1667
+13,hallway,trial_x_0.1.mp4,0.4718,YOLO_ONLY,N/A,0,0.1538
+14,hallway,trial_x_0.1.mp4,0.4210,YOLO_ONLY,N/A,0,0.1429
+15,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.1333
+16,hallway,trial_x_0.1.mp4,0.3947,YOLO_ONLY,N/A,0,0.1250
+17,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.1176
+18,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.1111
+19,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.1053
+20,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.1000
+21,hallway,trial_x_0.1.mp4,0.3167,VLM_TRIGGERED,PENDING...,0,0.0952
+21,hallway,trial_x_0.1.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows an orange traffic cone placed on a blue carpeted floor; which is a common safety measure used in various settings to indicate caution or to mark off a restricted area. The cone's bright color stands out against the muted tones of the carpet and the darker flooring; making it easily noticeable. There are no other visible obstacles or hazards within the frame of the image. It is important to note that while the black blurry circle in the center could be interpreted as a simulation of Age-Related Macular Degeneration; this interpretation should not be taken as factual due to the lack of clarity and context provided by the image. The focus should remain on the clear areas of the image; which include the traffic cone and the carpeted floor.,6406.3,0.1429
+22,hallway,trial_x_0.1.mp4,0.2535,VLM_TRIGGERED,PENDING...,0,0.1364
+22,hallway,trial_x_0.1.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows an orange traffic cone placed on a carpeted floor; which is a common safety measure used to indicate hazards or obstacles in various settings. The cone's bright color stands out against the muted tones of the carpet; making it easily noticeable. There are no other visible objects or hazards within the frame of the image. It's important to note that while the black circle in the center is a simulated representation and not an actual object; it could be mistaken for one due to its color and placement. The focus should remain on the clear areas of the image; which include the traffic cone and the carpeted floor.,5787.9,0.1818
+23,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.1739
+24,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.1667
+25,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.1600
+26,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.1538
+27,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.1481
+28,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.1429
+29,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.1379
+30,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.1333
+31,hallway,trial_x_0.1.mp4,0.2955,VLM_TRIGGERED,PENDING...,0,0.1290
+31,hallway,trial_x_0.1.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a section of an indoor space with a focus on the flooring. There are no visible obstacles or hazards that can be identified from this particular angle and resolution. The floor appears to be made of a dark-colored carpet; which is common in many indoor settings for its durability and ease of cleaning. The path leading to the foreground is clear except for the black circular object mentioned; which is likely an artistic representation or a digital overlay rather than a physical hazard. Since the image does not provide enough detail to identify any specific type of flooring material or texture; it's not possible to determine if there are any slippery spots or uneven surfaces that could pose a risk for tripping. The overall condition of the floor seems to be good; with no visible signs of damage or wear.,6569.0,0.1613
+32,hallway,trial_x_0.1.mp4,0.3695,YOLO_ONLY,N/A,0,0.1562
+33,hallway,trial_x_0.1.mp4,0.5088,YOLO_ONLY,N/A,0,0.1515
+34,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.1471
+35,hallway,trial_x_0.1.mp4,0.4443,YOLO_ONLY,N/A,0,0.1429
+36,hallway,trial_x_0.1.mp4,0.3999,YOLO_ONLY,N/A,0,0.1389
+37,hallway,trial_x_0.1.mp4,0.4379,YOLO_ONLY,N/A,0,0.1351
+38,hallway,trial_x_0.1.mp4,0.4658,YOLO_ONLY,N/A,0,0.1316
+39,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.1282
+40,hallway,trial_x_0.1.mp4,0.2728,VLM_TRIGGERED,PENDING...,0,0.1250
+40,hallway,trial_x_0.1.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows an orange traffic cone placed on what appears to be a carpeted floor; with a dark circular area in the center that could be interpreted as a shadow or a reflection. The cone is positioned on the right side of the frame; standing upright. There are no other visible obstacles or hazards within the clear areas of the image. The focus should be on the floor and path; which seem to be in good condition without any apparent damage or debris.,4895.4,0.1500
+41,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.1463
+42,hallway,trial_x_0.1.mp4,0.4813,YOLO_ONLY,N/A,0,0.1429
+43,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.1395
+44,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.1364
+45,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.1333
+46,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.1304
+47,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.1277
+48,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.1250
+49,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.1224
+50,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.1200
+51,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.1176
+52,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.1154
+53,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.1132
+54,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.1111
+55,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.1091
+56,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.1071
+57,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.1053
+58,hallway,trial_x_0.1.mp4,0.2773,VLM_TRIGGERED,PENDING...,0,0.1034
+58,hallway,trial_x_0.1.mp4,N/A,VLM_RESPONSE_RECEIVED,"The image shows a section of an indoor space with a patterned carpet that has a geometric design; predominantly blue and gray tones. The floor appears to be made of tiles or vinyl; which are common materials for such environments due to their durability and ease of cleaning. There is no visible debris or obstructions on the floor itself; however; there is an orange object in the foreground that could be a piece of equipment or furniture. The edges of the image do not show any walls or other structural elements; so it's unclear if this space extends beyond what is visible.
+
+The black blurry circle in the center does not represent an actual hazard but rather a simulated one for the purpose of the Age-Related Macular Degeneration simulation. It is likely used to demonstrate how such a condition might affect vision and depth perception; which are critical functions of the eye. The simulation is designed to be realistic; with the circle's size and color matching those of an actual macular degeneration effect.
+
+In summary; the image shows a clean floor with no visible obstacles or hazards; except for the orange object in the foreground and the simulated black circle representing Age-Related Macular Degeneration.",8644.9,0.1207
+59,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.1186
+60,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.1167
+61,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.1148
+62,hallway,trial_x_0.1.mp4,0.3409,VLM_TRIGGERED,PENDING...,0,0.1129
+62,hallway,trial_x_0.1.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a section of an indoor space with a focus on the flooring. There are no immediate obstacles or hazards visible; however; the central black circle could be interpreted as a simulated representation of a hazardous area due to its distinct color and shape. It is important to note that this is not a real-world scenario but rather an artistic or symbolic representation. In a practical setting; such a feature would likely be used for training purposes in areas like emergency response or disaster preparedness; where it could serve as a visual cue for individuals to avoid the area.,5533.9,0.1290
+63,hallway,trial_x_0.1.mp4,0.3113,VLM_TRIGGERED,PENDING...,0,0.1270
+63,hallway,trial_x_0.1.mp4,N/A,VLM_RESPONSE_RECEIVED,"The image shows a section of an office or institutional building; characterized by its carpeted flooring. The most prominent feature is a large black circle in the center of the room; which stands out due to its contrast with the surrounding environment. This circle could be interpreted as a simulation of Age-Related Macular Degeneration (AMD); but since it's not a real condition; it should be disregarded for the purpose of identifying obstacles and hazards.
+
+The flooring is covered in a patterned carpet that appears to have a blue and gray color scheme with some lighter areas. The edges of the room are marked by dark-colored borders or frames; which could indicate doorways or partitions. There are no visible objects on the floor that would pose an immediate hazard; but the absence of people in the image means we cannot comment on any potential human-related obstacles.
+
+In terms of identifying obstacles and hazards; there are none immediately apparent in this section of the room. The carpet does not show signs of damage or tripping hazards; and the edges of the room do not appear to be sharp or uneven. However; without a wider view of the entire space; it is impossible to provide a comprehensive assessment of all potential obstacles and hazards that may exist outside the frame of this image.",9312.3,0.1429
+64,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.1406
+65,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.1385
+66,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.1364
+67,hallway,trial_x_0.1.mp4,0.3594,YOLO_ONLY,N/A,0,0.1343
+68,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.1324
+69,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.1304
+70,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.1286
+71,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.1268
+72,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.1250
+73,hallway,trial_x_0.1.mp4,0.2709,VLM_TRIGGERED,PENDING...,0,0.1233
+73,hallway,trial_x_0.1.mp4,N/A,VLM_RESPONSE_RECEIVED,"The image shows a section of an office or institutional building with a patterned carpet that features a geometric design. The most prominent feature is the large; black circle in the center of the floor; which stands out due to its size and color contrast against the surrounding area. This circle could be interpreted as a visual metaphor for a hole or an anomaly within the context of the room's layout.
+
+In terms of obstacles and hazards; there are no immediately visible objects that would pose a physical risk to individuals walking through this space. The floor appears to be in good condition without any tripping hazards like loose carpet fibers or debris. However; the black circle could potentially be mistaken for an obstacle if one were not paying attention to their surroundings.
+
+It's important to note that while the image does not show any physical obstacles; the presence of a large; dark spot in the center of the room could be considered a visual hazard due to its size and contrast with the surrounding area. This could potentially cause confusion or disorientation for individuals navigating through the space.",8401.3,0.1370
+74,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.1351
+75,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.1333
+76,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.1316
+77,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.1299
+78,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.1282
+79,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.1266
+80,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.1250
+81,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.1235
+82,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.1220
+83,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.1205
+84,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.1190
+85,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.1176
+86,hallway,trial_x_0.1.mp4,0.2844,VLM_TRIGGERED,PENDING...,0,0.1163
+86,hallway,trial_x_0.1.mp4,N/A,VLM_RESPONSE_RECEIVED,"The image shows a section of an indoor environment; likely a hallway or corridor within a building. The flooring appears to be carpeted with a pattern that includes various shades of blue and gray. There is no visible debris or obstacles on the floor itself; however; there are two distinct areas where the flooring seems to have been damaged or worn down. These damages are characterized by large; dark circles that contrast starkly with the surrounding carpet. The edges of these circles are irregular and jagged; suggesting they may be the result of wear and tear over time rather than a manufacturing defect.
+
+In terms of safety and maintenance; these areas could pose a tripping hazard for individuals walking through the hallway. They might also indicate structural issues that require attention to prevent further damage or potential accidents. The clear areas of the image show no other obstacles or hazards; therefore; the focus should be on addressing the damaged flooring in these specific locations.",7687.7,0.1279
+87,hallway,trial_x_0.1.mp4,0.2992,VLM_TRIGGERED,PENDING...,0,0.1264
+87,hallway,trial_x_0.1.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a section of an indoor environment; likely a hallway or corridor within a building. The flooring appears to be carpeted with a patterned design that includes various shades of blue and gray. There are no visible obstacles or hazards on the floor itself; however; there is a bright orange object at the bottom right corner of the image which could potentially be a signpost or an indicator of some sort. The lighting in the room seems to be artificial; as indicated by the shadows and the overall ambiance. There are no signs of wear or damage on the floor; suggesting that the area is well-maintained.,5870.9,0.1379
+88,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.1364
+89,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.1348
+90,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.1333
+91,hallway,trial_x_0.1.mp4,0.2964,VLM_TRIGGERED,PENDING...,0,0.1319
+91,hallway,trial_x_0.1.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a section of an indoor space; likely a hallway or corridor within a building. The flooring consists of dark blue carpeting with a geometric pattern that includes both straight lines and curves. There are no visible obstacles or hazards on the floor itself; however; there is a bright orange object to the right side of the image which could be a signpost or an indicator of some sort. The lighting in the room appears to be artificial; as indicated by the uniformity of the shadows and the lack of natural light sources visible in the frame. There are no people or animals present in the image; so it is not possible to identify any additional hazards related to human activity.,6256.7,0.1429
+92,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.1413
+93,hallway,trial_x_0.1.mp4,0.2551,VLM_TRIGGERED,PENDING...,0,0.1398
+93,hallway,trial_x_0.1.mp4,N/A,VLM_RESPONSE_RECEIVED,"The image shows a section of an indoor environment; likely a hallway or corridor within a building. The most prominent feature is the large black circle in the center; which is not a natural part of the room's design but appears to be digitally superimposed onto the floor. This could represent a simulated hazard or obstacle for an AI system training scenario.
+
+The rest of the image shows a patterned carpet with a geometric design that includes shades of blue and gray. The carpet is uniformly laid out; suggesting it's part of a larger area not fully visible in the frame. There are no other discernible objects or hazards within the clear areas of the image.
+
+Given the context provided by the question; if this were an actual scenario; the black circle could be interpreted as a simulated obstacle for navigation systems to test their ability to detect and avoid obstacles. However; since it is clearly not a real object but rather a digital addition; there are no real hazards present in this image.",7750.3,0.1505
+94,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.1489
+95,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.1474
+96,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.1458
+97,hallway,trial_x_0.1.mp4,0.0000,YOLO_ONLY,N/A,0,0.1443

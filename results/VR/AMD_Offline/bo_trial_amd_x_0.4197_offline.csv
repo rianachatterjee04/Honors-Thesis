@@ -1,0 +1,112 @@
+frame_idx,source_env,source_file,yolo_max_conf,detected_classes,status,vlm_response,latency_ms,usage_ratio
+1,AMD,trial_x_0.58.mp4,0.3321,chair,VLM_TRIGGERED,PENDING...,0,0.0000
+1,AMD,trial_x_0.58.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a room with a large black circular object that could be a screen or a window; and a whiteboard with writing on it. There is a safety cone on the floor; and a desk with a computer monitor. The room appears to be dimly lit; and the focus is on the clear areas of the image; which include the floor and the path. There are no visible obstacles or hazards in the room that can be clearly identified due to the low lighting and the camera defect simulating Diabetic Retinopathy.,5579.6,1.0000
+2,AMD,trial_x_0.58.mp4,0.6261,chair;car,YOLO_ONLY,N/A,0,0.5000
+3,AMD,trial_x_0.58.mp4,0.7207,chair;car;tv,YOLO_ONLY,N/A,0,0.3333
+4,AMD,trial_x_0.58.mp4,0.5100,chair,YOLO_ONLY,N/A,0,0.2500
+5,AMD,trial_x_0.58.mp4,0.2587,chair,VLM_TRIGGERED,PENDING...,0,0.2000
+5,AMD,trial_x_0.58.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a room with a black circular object on the wall; which could be a screen or a piece of art. There is a whiteboard with writing on it; and a desk with a computer monitor. A safety cone is placed on the floor; and a white object; possibly a chair; is partially visible. The room appears to be a classroom or an office space. There are no immediate obstacles or hazards visible in the clear areas of the image.,4855.8,0.4000
+6,AMD,trial_x_0.58.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.3333
+7,AMD,trial_x_0.58.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2857
+8,AMD,trial_x_0.58.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2500
+9,AMD,trial_x_0.58.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2222
+10,AMD,trial_x_0.58.mp4,0.6569,tv,YOLO_ONLY,N/A,0,0.2000
+11,AMD,trial_x_0.58.mp4,0.3644,tv,VLM_TRIGGERED,PENDING...,0,0.1818
+11,AMD,trial_x_0.58.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a room with a clear floor area; but due to the camera defect simulating Diabetic Retinopathy; the details are obscured. The most prominent feature is a large; dark circular object that could be a hole or a shadow; which is the main hazard in this context. There is also a bright orange traffic cone on the floor; which could be a safety marker or a sign of caution. The rest of the room is not clearly visible; but the presence of the cone suggests that there might be a restricted area or a path that requires attention.,5325.5,0.2727
+12,AMD,trial_x_0.58.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2500
+13,AMD,trial_x_0.58.mp4,0.7496,tv,YOLO_ONLY,N/A,0,0.2308
+14,AMD,trial_x_0.58.mp4,0.4387,refrigerator;tv,YOLO_ONLY,N/A,0,0.2143
+15,AMD,trial_x_0.58.mp4,0.3314,tv,VLM_TRIGGERED,PENDING...,0,0.2000
+15,AMD,trial_x_0.58.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a room with a black circular object on the floor; which could be a shadow or a reflection. There is a whiteboard with writing on it; and a desk with a chair. A safety cone is placed on the floor; and a white object; possibly a piece of furniture or equipment; is partially visible on the right side. The room appears to be a classroom or an office space.,5042.7,0.2667
+16,AMD,trial_x_0.58.mp4,0.4331,toilet,YOLO_ONLY,N/A,0,0.2500
+17,AMD,trial_x_0.58.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2353
+18,AMD,trial_x_0.58.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2222
+19,AMD,trial_x_0.58.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2105
+20,AMD,trial_x_0.58.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2000
+21,AMD,trial_x_0.58.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1905
+22,AMD,trial_x_0.58.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1818
+23,AMD,trial_x_0.58.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1739
+24,AMD,trial_x_0.58.mp4,0.2758,clock;sink,VLM_TRIGGERED,PENDING...,0,0.1667
+24,AMD,trial_x_0.58.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear floor with a black circular object that could be a stain or a mark. There is no visible hazard or obstacle in the immediate area that can be identified from this image. The focus is on the floor and the path leading to it; which appears to be well-defined and unobstructed. The camera defect simulating Diabetic Retinopathy does not affect the clarity of the image; allowing for a detailed description of the floor and path.,5652.3,0.2083
+25,AMD,trial_x_0.58.mp4,0.3803,sink,VLM_TRIGGERED,PENDING...,0,0.2000
+25,AMD,trial_x_0.58.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear path leading to a toilet; with a distinct circular feature on the floor that could be a drain or a manhole cover. There are no visible obstacles or hazards in the immediate vicinity of the toilet; but the image's low resolution and the presence of a camera defect simulating Diabetic Retinopathy make it difficult to identify any specific details beyond the toilet and the circular feature.,5471.8,0.2400
+26,AMD,trial_x_0.58.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2308
+27,AMD,trial_x_0.58.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2222
+28,AMD,trial_x_0.58.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2143
+29,AMD,trial_x_0.58.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2069
+30,AMD,trial_x_0.58.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2000
+31,AMD,trial_x_0.58.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1935
+32,AMD,trial_x_0.58.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1875
+33,AMD,trial_x_0.58.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1818
+34,AMD,trial_x_0.58.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1765
+35,AMD,trial_x_0.58.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1714
+36,AMD,trial_x_0.58.mp4,0.2595,tv,VLM_TRIGGERED,PENDING...,0,0.1667
+36,AMD,trial_x_0.58.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear floor with a distinct black circular object; which could be a stain or a mark; located towards the center. There are no immediate obstacles or hazards visible in the image. The focus is on the floor and the path leading to it. The camera's noise; which simulates Diabetic Retinopathy; is not a real hazard but a digital effect applied to the image.,4852.6,0.1944
+37,AMD,trial_x_0.58.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1892
+38,AMD,trial_x_0.58.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1842
+39,AMD,trial_x_0.58.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1795
+40,AMD,trial_x_0.58.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1750
+41,AMD,trial_x_0.58.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1707
+42,AMD,trial_x_0.58.mp4,0.2597,tv,VLM_TRIGGERED,PENDING...,0,0.1667
+42,AMD,trial_x_0.58.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a room with a black circular object on the floor; which could be a stain or a mark. There is also a blue cloth or towel on the floor; and a white electrical outlet on the wall. The room appears to be a bathroom or a similar space; given the presence of the towel and the electrical outlet. The black object on the floor is the main obstacle or hazard in the image; as it is the most prominent and contrasting feature. The noise in the image is a camera defect simulating Diabetic Retinopathy; which is not relevant to the physical obstacles in the room.,6605.2,0.1905
+43,AMD,trial_x_0.58.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1860
+44,AMD,trial_x_0.58.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1818
+45,AMD,trial_x_0.58.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1778
+46,AMD,trial_x_0.58.mp4,0.2897,tv,VLM_TRIGGERED,PENDING...,0,0.1739
+46,AMD,trial_x_0.58.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a room with a black circular object on the floor; which could be a stain or a mark. There is also a blue object on top of the black object; which is not clearly identifiable. The floor appears to be a smooth; possibly tiled surface; and there is a white wall with some writing and drawings on it. The lighting in the room is bright; and there are no visible obstacles or hazards that would require immediate attention. The focus is on the clear areas of the image; which include the floor and the wall.,6031.4,0.1957
+47,AMD,trial_x_0.58.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1915
+48,AMD,trial_x_0.58.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1875
+49,AMD,trial_x_0.58.mp4,0.2579,tv,VLM_TRIGGERED,PENDING...,0,0.1837
+49,AMD,trial_x_0.58.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a dark; circular area on the floor that could be a shadow or a dark spot; possibly caused by a light source or an object blocking the light. There is no clear evidence of any obstacles or hazards in the visible area of the image. The focus is on the floor and the path leading to it; which appears to be a standard walkway in a room with a white wall and a blue object on the wall. The camera defect simulating Diabetic Retinopathy does not affect the description of the visible elements in the image.,5995.8,0.2041
+50,AMD,trial_x_0.58.mp4,0.3423,tv,VLM_TRIGGERED,PENDING...,0,0.2000
+50,AMD,trial_x_0.58.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a room with a clear floor and a path leading to a dark area. The dark area appears to be a hole or a depression in the floor; which could be a hazard. There are no visible obstacles or hazards in the immediate vicinity of the path; but the dark area could potentially be a tripping hazard or a sign of structural issues. The camera defect simulating Diabetic Retinopathy does not affect the identification of the hazard in the room.,5489.4,0.2200
+51,AMD,trial_x_0.58.mp4,0.3415,tv,VLM_TRIGGERED,PENDING...,0,0.2157
+51,AMD,trial_x_0.58.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a dark; circular object on the floor; which could be a shadow or a dark spot; and a blue object on the wall; which might be a piece of cloth or a towel. There is no clear indication of any obstacles or hazards in the visible area of the image. The focus is on the floor and the wall; and the noise is a camera defect simulating Diabetic Retinopathy; which is not relevant to the physical environment depicted.,5266.1,0.2353
+52,AMD,trial_x_0.58.mp4,0.3373,tv,VLM_TRIGGERED,PENDING...,0,0.2308
+52,AMD,trial_x_0.58.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a room with a clear floor and a path leading to a dark area. The dark area appears to be a hole or a depression in the floor; which could be a hazard. There are no visible obstacles or hazards in the clear areas of the image. The focus should be on the floor and the path leading to the dark area.,4754.4,0.2500
+53,AMD,trial_x_0.58.mp4,0.3252,tv,VLM_TRIGGERED,PENDING...,0,0.2453
+53,AMD,trial_x_0.58.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear floor with a distinct circular black spot; which could be a stain or a mark. There are no immediate obstacles or hazards visible in the image. The focus is on the floor and the path leading to it. The camera defect simulating Diabetic Retinopathy does not affect the description of the room's features.,5449.3,0.2642
+54,AMD,trial_x_0.58.mp4,0.2988,tv,VLM_TRIGGERED,PENDING...,0,0.2593
+54,AMD,trial_x_0.58.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear floor with a distinct circular indentation; which could be a sink or a drain. There are no immediate obstacles or hazards visible in the immediate vicinity of the sink. The focus is on the clear area of the image; which includes the floor and the path leading to the sink. The noise in the image is a camera defect simulating Diabetic Retinopathy; which is not relevant to the physical environment depicted.,6084.0,0.2778
+55,AMD,trial_x_0.58.mp4,0.2847,tv,VLM_TRIGGERED,PENDING...,0,0.2727
+55,AMD,trial_x_0.58.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a dark; circular object on the floor; which could be a shadow or a dark spot; and a blue cloth or towel hanging on the wall. There is no clear indication of any obstacles or hazards in the visible area of the image. The focus is on the floor and the path; and the noise is a camera defect simulating Diabetic Retinopathy; which is not relevant to the physical environment depicted.,5897.9,0.2909
+56,AMD,trial_x_0.58.mp4,0.3386,tv,VLM_TRIGGERED,PENDING...,0,0.2857
+56,AMD,trial_x_0.58.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a dark; circular area on the floor that could be a shadow or a dark spot; possibly caused by a light source or an object blocking the light. There is no clear evidence of any obstacles or hazards in the visible area of the image. The focus is on the floor and the path leading to it; which appears to be a standard walkway in an indoor setting. The camera defect simulating Diabetic Retinopathy does not affect the identification of the room's features.,5615.2,0.3036
+57,AMD,trial_x_0.58.mp4,0.3624,tv,VLM_TRIGGERED,PENDING...,0,0.2982
+57,AMD,trial_x_0.58.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a dark; circular area on the floor that could be a shadow or a dark spot; possibly caused by a light source or an object blocking the light. There is no clear indication of any obstacles or hazards in the immediate vicinity of the floor. The focus is on the clear area of the image; which is the floor itself. The camera defect simulating Diabetic Retinopathy does not affect the description of the room's features.,5253.0,0.3158
+58,AMD,trial_x_0.58.mp4,0.3704,tv,VLM_TRIGGERED,PENDING...,0,0.3103
+58,AMD,trial_x_0.58.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a room with a black circular object on the floor; which could be a shadow or a reflection. There is no clear indication of any obstacles or hazards in the visible area of the image. The focus is on the floor and the path; and the noise seems to be a camera defect simulating Diabetic Retinopathy; which is not relevant to the physical environment.,5124.8,0.3276
+59,AMD,trial_x_0.58.mp4,0.3180,tv,VLM_TRIGGERED,PENDING...,0,0.3220
+59,AMD,trial_x_0.58.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a room with a black circular object on the floor; which could be a shadow or a reflection. There is no clear indication of any obstacles or hazards in the visible area of the image. The focus is on the floor and the path; and the noise is a camera defect simulating Diabetic Retinopathy; which is not relevant to the physical environment depicted.,4765.1,0.3390
+60,AMD,trial_x_0.58.mp4,0.3200,tv,VLM_TRIGGERED,PENDING...,0,0.3333
+60,AMD,trial_x_0.58.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear floor with a distinct circular indentation; which could be a sink or a drain. There are no immediate obstacles or hazards visible in the immediate vicinity of the sink. The focus is on the clear area of the image; which includes the floor and the path leading to the sink. The noise in the image is a camera defect simulating Diabetic Retinopathy; which is not relevant to the physical environment depicted.,5163.3,0.3500
+61,AMD,trial_x_0.58.mp4,0.2906,tv,VLM_TRIGGERED,PENDING...,0,0.3443
+61,AMD,trial_x_0.58.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a room with a clear floor and a path leading to a black circular object; which appears to be a hole or a drain. There are no visible obstacles or hazards in the immediate area that can be discerned from this image. The focus is on the floor and the path leading to the black object; which is the main subject of the photograph. The noise in the image is a camera defect simulating Diabetic Retinopathy; which is not relevant to the physical environment depicted.,5756.7,0.3607
+62,AMD,trial_x_0.58.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.3548
+63,AMD,trial_x_0.58.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.3492
+64,AMD,trial_x_0.58.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.3438
+65,AMD,trial_x_0.58.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.3385
+66,AMD,trial_x_0.58.mp4,0.2674,tv,VLM_TRIGGERED,PENDING...,0,0.3333
+66,AMD,trial_x_0.58.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a room with a black circular object on the floor; which could be a shadow or a reflection. There is no clear indication of any obstacles or hazards in the visible area of the image. The focus is on the floor and the path; and the noise seems to be a camera defect simulating Diabetic Retinopathy; which is not relevant to the physical environment. Therefore; based on the visible information; there are no obstacles or hazards to identify in this particular image.,6061.1,0.3485
+67,AMD,trial_x_0.58.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.3433
+68,AMD,trial_x_0.58.mp4,0.2863,tv,VLM_TRIGGERED,PENDING...,0,0.3382
+68,AMD,trial_x_0.58.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a room with a black circular object on the floor; which could be a stain or a mark. There is also a blue cloth or towel on the floor; which might be used for cleaning or as a makeshift tool. The walls are white; and there is a small; rectangular object on the wall that could be a light switch or a thermostat. The floor appears to be tiled; and there is a clear path leading to the object on the floor. The room seems to be a bathroom or a utility room; given the presence of the towel and the type of object on the floor.,7128.9,0.3529
+69,AMD,trial_x_0.58.mp4,0.3275,tv,VLM_TRIGGERED,PENDING...,0,0.3478
+69,AMD,trial_x_0.58.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a room with a black circular object on the floor; which could be a stain or a mark. There is also a blue cloth or towel on the edge of a surface; possibly a counter or shelf. The room appears to be a bathroom or a kitchen; given the presence of the towel and the style of the object on the floor. The focus should be on the clear areas of the image; which include the floor and the path leading to the object. The noise in the image is a camera defect simulating Diabetic Retinopathy; which is not relevant to the identification of obstacles and hazards in the room.,6317.6,0.3623
+70,AMD,trial_x_0.58.mp4,0.2956,tv,VLM_TRIGGERED,PENDING...,0,0.3571
+70,AMD,trial_x_0.58.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a black circular object on the floor; which could be a stain or a mark. There is no clear indication of any other obstacles or hazards in the visible area of the image. The focus is on the floor and the path leading to it. The camera defect simulating Diabetic Retinopathy does not affect the identification of the black circular object.,4490.1,0.3714
+71,AMD,trial_x_0.58.mp4,0.2627,tv,VLM_TRIGGERED,PENDING...,0,0.3662
+71,AMD,trial_x_0.58.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a room with a black circular object on the floor; which could be a stain or a mark. There is also a blue cloth or towel on the floor; which might be used for cleaning or as a makeshift tool. The walls are white; and there is a small; rectangular object on the wall that could be a light switch or a thermostat. The floor appears to be tiled; and there is a clear path leading to the object on the floor. The room seems to be a bathroom or a utility room; given the presence of the towel and the type of object on the floor.,6165.3,0.3803
+72,AMD,trial_x_0.58.mp4,0.2739,tv,VLM_TRIGGERED,PENDING...,0,0.3750
+72,AMD,trial_x_0.58.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear floor with a black circular object that could be a stain or a mark. There is no visible hazard or obstacle in the immediate area that can be identified from this image. The focus is on the floor and the path leading to it; which appears to be well-maintained. The camera defect simulating Diabetic Retinopathy does not affect the visibility of the floor and path.,5425.4,0.3889
+73,AMD,trial_x_0.58.mp4,0.2538,tv;clock,VLM_TRIGGERED,PENDING...,0,0.3836
+73,AMD,trial_x_0.58.mp4,N/A,VLM_RESPONSE_RECEIVED,"The image shows a room with a black circular object on the floor; which could be a shadow or a dark spot. There is also a blue rectangular object with the label ""toilet 0.45"" indicating a measurement or a label on the floor. The room appears to be a bathroom or a similar space; and the focus should be on the clear areas of the image; which include the floor and the path. The noise in the image is a camera defect simulating Diabetic Retinopathy; which is not relevant to the description of the room's features.",5947.0,0.3973
+74,AMD,trial_x_0.58.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.3919
+75,AMD,trial_x_0.58.mp4,0.2891,tv,VLM_TRIGGERED,PENDING...,0,0.3867
+75,AMD,trial_x_0.58.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a room with a black circular object on the floor; which could be a stain or a mark. There is also a blue cloth or towel on the edge of a surface; possibly a shelf or a countertop. The floor appears to be a smooth; possibly tiled surface; and the path leading to the object is clear. There are no visible obstacles or hazards in the immediate area that can be discerned from this image. The camera defect simulating Diabetic Retinopathy does not affect the visible elements of the room.,5936.9,0.4000
+76,AMD,trial_x_0.58.mp4,0.2805,tv,VLM_TRIGGERED,PENDING...,0,0.3947
+76,AMD,trial_x_0.58.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a dark; circular object on the floor; which could be a shadow or a dark spot. There is no clear indication of any obstacles or hazards in the visible area of the image. The focus is on the floor and the path; and the noise appears to be a camera defect simulating Diabetic Retinopathy; which is not relevant to the physical environment depicted.,5807.2,0.4079
+77,AMD,trial_x_0.58.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.4026
+78,AMD,trial_x_0.58.mp4,0.2629,tv,VLM_TRIGGERED,PENDING...,0,0.3974
+78,AMD,trial_x_0.58.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a room with a black circular object on the floor; which could be a stain or a mark. There is also a blue object on the floor that appears to be a piece of cloth or a towel. The walls are white; and there is a blue line on the floor that seems to indicate a path or a boundary. The room is well-lit; and there are no visible obstacles or hazards that would require immediate attention. The camera defect simulating Diabetic Retinopathy does not affect the clarity of the image; allowing for a clear description of the floor and path.,6462.9,0.4103
+79,AMD,trial_x_0.58.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.4051

@@ -1,0 +1,86 @@
+frame_idx,source_env,source_file,yolo_max_conf,status,vlm_response,latency_ms,usage_ratio
+1,robot_room_first_trial,trial_x_0.81.mp4,0.0000,YOLO_ONLY,N/A,0,0.0000
+2,robot_room_first_trial,trial_x_0.81.mp4,0.3225,YOLO_ONLY,N/A,0,0.0000
+3,robot_room_first_trial,trial_x_0.81.mp4,0.3232,YOLO_ONLY,N/A,0,0.0000
+4,robot_room_first_trial,trial_x_0.81.mp4,0.3158,YOLO_ONLY,N/A,0,0.0000
+5,robot_room_first_trial,trial_x_0.81.mp4,0.3166,YOLO_ONLY,N/A,0,0.0000
+6,robot_room_first_trial,trial_x_0.81.mp4,0.3092,YOLO_ONLY,N/A,0,0.0000
+7,robot_room_first_trial,trial_x_0.81.mp4,0.3767,YOLO_ONLY,N/A,0,0.0000
+8,robot_room_first_trial,trial_x_0.81.mp4,0.3012,YOLO_ONLY,N/A,0,0.0000
+9,robot_room_first_trial,trial_x_0.81.mp4,0.3793,YOLO_ONLY,N/A,0,0.0000
+10,robot_room_first_trial,trial_x_0.81.mp4,0.3068,YOLO_ONLY,N/A,0,0.0000
+11,robot_room_first_trial,trial_x_0.81.mp4,0.3287,YOLO_ONLY,N/A,0,0.0000
+12,robot_room_first_trial,trial_x_0.81.mp4,0.2853,VLM_TRIGGERED,PENDING...,0,0.0000
+12,robot_room_first_trial,trial_x_0.81.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows an office setting with a desk and chair; but there are no visible obstacles or hazards in the immediate area that can be identified from this perspective. The focus is on the clear areas of the room; which include the floor and path.,4748.0,0.0833
+13,robot_room_first_trial,trial_x_0.81.mp4,0.0000,YOLO_ONLY,N/A,0,0.0769
+14,robot_room_first_trial,trial_x_0.81.mp4,0.2669,VLM_TRIGGERED,PENDING...,0,0.0714
+14,robot_room_first_trial,trial_x_0.81.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows an office setting with a desk and chair; which are the main objects of interest. The floor appears to be carpeted in a dark color; and there is a bright orange object on the floor that could be a mat or rug. There are no visible obstacles or hazards in the immediate vicinity of the desk and chair; however; the clarity of the image limits the ability to identify any potential hazards beyond what is immediately visible.,4937.7,0.1429
+15,robot_room_first_trial,trial_x_0.81.mp4,0.0000,YOLO_ONLY,N/A,0,0.1333
+16,robot_room_first_trial,trial_x_0.81.mp4,0.3390,YOLO_ONLY,N/A,0,0.1250
+17,robot_room_first_trial,trial_x_0.81.mp4,0.3182,YOLO_ONLY,N/A,0,0.1176
+18,robot_room_first_trial,trial_x_0.81.mp4,0.2638,VLM_TRIGGERED,PENDING...,0,0.1111
+18,robot_room_first_trial,trial_x_0.81.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows an office setting with a desk and chair; but there are no visible obstacles or hazards in the immediate area that can be identified from this perspective. The focus is on the clear areas of the room; which include the floor and path.,3854.0,0.1667
+19,robot_room_first_trial,trial_x_0.81.mp4,0.0000,YOLO_ONLY,N/A,0,0.1579
+20,robot_room_first_trial,trial_x_0.81.mp4,0.0000,YOLO_ONLY,N/A,0,0.1500
+21,robot_room_first_trial,trial_x_0.81.mp4,0.2654,VLM_TRIGGERED,PENDING...,0,0.1429
+21,robot_room_first_trial,trial_x_0.81.mp4,N/A,VLM_RESPONSE_RECEIVED,The room contains an orange cone placed on the floor; which could be a safety measure or a marker for a specific area. There is no visible obstruction or hazard in the immediate vicinity of the chair that can be identified from this image. The focus should remain on the clear areas of the image to describe the actual floor and path.,4268.0,0.1905
+22,robot_room_first_trial,trial_x_0.81.mp4,0.3342,YOLO_ONLY,N/A,0,0.1818
+23,robot_room_first_trial,trial_x_0.81.mp4,0.2632,VLM_TRIGGERED,PENDING...,0,0.1739
+23,robot_room_first_trial,trial_x_0.81.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include the orange mat; which could be a fire hazard if not properly managed; and the black blurry circle that represents an Age-Related Macular Degeneration simulation. The clear areas of the image show a floor with a patterned carpet and a desk area with chairs. There are no other visible obstacles or hazards in the immediate vicinity of the desk.,5272.0,0.2174
+24,robot_room_first_trial,trial_x_0.81.mp4,0.3087,YOLO_ONLY,N/A,0,0.2083
+25,robot_room_first_trial,trial_x_0.81.mp4,0.0000,YOLO_ONLY,N/A,0,0.2000
+26,robot_room_first_trial,trial_x_0.81.mp4,0.0000,YOLO_ONLY,N/A,0,0.1923
+27,robot_room_first_trial,trial_x_0.81.mp4,0.3727,YOLO_ONLY,N/A,0,0.1852
+28,robot_room_first_trial,trial_x_0.81.mp4,0.4016,YOLO_ONLY,N/A,0,0.1786
+29,robot_room_first_trial,trial_x_0.81.mp4,0.3238,YOLO_ONLY,N/A,0,0.1724
+30,robot_room_first_trial,trial_x_0.81.mp4,0.0000,YOLO_ONLY,N/A,0,0.1667
+31,robot_room_first_trial,trial_x_0.81.mp4,0.0000,YOLO_ONLY,N/A,0,0.1613
+32,robot_room_first_trial,trial_x_0.81.mp4,0.0000,YOLO_ONLY,N/A,0,0.1562
+33,robot_room_first_trial,trial_x_0.81.mp4,0.2834,VLM_TRIGGERED,PENDING...,0,0.1515
+33,robot_room_first_trial,trial_x_0.81.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows an office setting with a desk and chair; but there are no visible obstacles or hazards in the immediate area that can be described based on the provided image. The focus is on the clear areas of the floor and path; which appear to be unobstructed.,4031.8,0.1818
+34,robot_room_first_trial,trial_x_0.81.mp4,0.0000,YOLO_ONLY,N/A,0,0.1765
+35,robot_room_first_trial,trial_x_0.81.mp4,0.0000,YOLO_ONLY,N/A,0,0.1714
+36,robot_room_first_trial,trial_x_0.81.mp4,0.0000,YOLO_ONLY,N/A,0,0.1667
+37,robot_room_first_trial,trial_x_0.81.mp4,0.0000,YOLO_ONLY,N/A,0,0.1622
+38,robot_room_first_trial,trial_x_0.81.mp4,0.2934,VLM_TRIGGERED,PENDING...,0,0.1579
+38,robot_room_first_trial,trial_x_0.81.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include the orange mat placed on the floor; which could be a tripping hazard; and the black chair with its shadow cast onto the wall; indicating it is blocking part of the room's lighting. The clear area of the image shows a well-lit corner of the room with no immediate obstructions in sight.,4537.2,0.1842
+39,robot_room_first_trial,trial_x_0.81.mp4,0.0000,YOLO_ONLY,N/A,0,0.1795
+40,robot_room_first_trial,trial_x_0.81.mp4,0.0000,YOLO_ONLY,N/A,0,0.1750
+41,robot_room_first_trial,trial_x_0.81.mp4,0.0000,YOLO_ONLY,N/A,0,0.1707
+42,robot_room_first_trial,trial_x_0.81.mp4,0.0000,YOLO_ONLY,N/A,0,0.1667
+43,robot_room_first_trial,trial_x_0.81.mp4,0.2619,VLM_TRIGGERED,PENDING...,0,0.1628
+43,robot_room_first_trial,trial_x_0.81.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows an office setting with a desk and chair; but there are no visible obstacles or hazards in the immediate area that can be described based on the provided image. The focus is on the clear areas of the floor and path; which appear to be unobstructed by any objects or individuals.,4587.3,0.1860
+44,robot_room_first_trial,trial_x_0.81.mp4,0.2574,VLM_TRIGGERED,PENDING...,0,0.1818
+44,robot_room_first_trial,trial_x_0.81.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include the orange object on the floor; which appears to be an obstacle course marker or a piece of equipment for some sort of activity. The hazard is the black blurry circle in the center; which represents a simulated Age-Related Macular Degeneration effect and should not be considered as an actual hazard.,4884.1,0.2045
+45,robot_room_first_trial,trial_x_0.81.mp4,0.0000,YOLO_ONLY,N/A,0,0.2000
+46,robot_room_first_trial,trial_x_0.81.mp4,0.0000,YOLO_ONLY,N/A,0,0.1957
+47,robot_room_first_trial,trial_x_0.81.mp4,0.0000,YOLO_ONLY,N/A,0,0.1915
+48,robot_room_first_trial,trial_x_0.81.mp4,0.2876,VLM_TRIGGERED,PENDING...,0,0.1875
+48,robot_room_first_trial,trial_x_0.81.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include the orange mat placed on the floor; which could be a tripping hazard; and the black chair with its shadow cast onto the wall; indicating it is blocking part of the room's lighting. The clear area of the image shows a well-lit corridor leading to another room; with no immediate obstructions visible in this section.,5164.0,0.2083
+49,robot_room_first_trial,trial_x_0.81.mp4,0.3034,YOLO_ONLY,N/A,0,0.2041
+50,robot_room_first_trial,trial_x_0.81.mp4,0.3338,YOLO_ONLY,N/A,0,0.2000
+51,robot_room_first_trial,trial_x_0.81.mp4,0.4201,YOLO_ONLY,N/A,0,0.1961
+52,robot_room_first_trial,trial_x_0.81.mp4,0.4149,YOLO_ONLY,N/A,0,0.1923
+53,robot_room_first_trial,trial_x_0.81.mp4,0.0000,YOLO_ONLY,N/A,0,0.1887
+54,robot_room_first_trial,trial_x_0.81.mp4,0.2645,VLM_TRIGGERED,PENDING...,0,0.1852
+54,robot_room_first_trial,trial_x_0.81.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles in the room include an orange mat placed on the floor; which could be a tripping hazard; and the black chair with its shadow cast onto the wall; indicating it is blocking part of the room's lighting. The clear area of the image shows a well-lit corridor leading to another room; with no immediate obstructions visible in this section.,5137.3,0.2037
+55,robot_room_first_trial,trial_x_0.81.mp4,0.0000,YOLO_ONLY,N/A,0,0.2000
+56,robot_room_first_trial,trial_x_0.81.mp4,0.0000,YOLO_ONLY,N/A,0,0.1964
+57,robot_room_first_trial,trial_x_0.81.mp4,0.2624,VLM_TRIGGERED,PENDING...,0,0.1930
+57,robot_room_first_trial,trial_x_0.81.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows an office setting with a desk and chair; but there are no visible obstacles or hazards that can be identified from this angle. The focus is on the clear areas of the room; which include the floor and path.,4084.8,0.2105
+58,robot_room_first_trial,trial_x_0.81.mp4,0.0000,YOLO_ONLY,N/A,0,0.2069
+59,robot_room_first_trial,trial_x_0.81.mp4,0.0000,YOLO_ONLY,N/A,0,0.2034
+60,robot_room_first_trial,trial_x_0.81.mp4,0.3486,YOLO_ONLY,N/A,0,0.2000
+61,robot_room_first_trial,trial_x_0.81.mp4,0.2508,VLM_TRIGGERED,PENDING...,0,0.1967
+61,robot_room_first_trial,trial_x_0.81.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows an office setting with a desk and chair; but there are no visible obstacles or hazards that can be identified from this angle. The focus is on the clear areas of the room; which include the floor and path.,4319.2,0.2131
+62,robot_room_first_trial,trial_x_0.81.mp4,0.0000,YOLO_ONLY,N/A,0,0.2097
+63,robot_room_first_trial,trial_x_0.81.mp4,0.0000,YOLO_ONLY,N/A,0,0.2063
+64,robot_room_first_trial,trial_x_0.81.mp4,0.0000,YOLO_ONLY,N/A,0,0.2031
+65,robot_room_first_trial,trial_x_0.81.mp4,0.0000,YOLO_ONLY,N/A,0,0.2000
+66,robot_room_first_trial,trial_x_0.81.mp4,0.0000,YOLO_ONLY,N/A,0,0.1970
+67,robot_room_first_trial,trial_x_0.81.mp4,0.3146,YOLO_ONLY,N/A,0,0.1940
+68,robot_room_first_trial,trial_x_0.81.mp4,0.0000,YOLO_ONLY,N/A,0,0.1912
+69,robot_room_first_trial,trial_x_0.81.mp4,0.0000,YOLO_ONLY,N/A,0,0.1884
+70,robot_room_first_trial,trial_x_0.81.mp4,0.0000,YOLO_ONLY,N/A,0,0.1857
+71,robot_room_first_trial,trial_x_0.81.mp4,0.0000,YOLO_ONLY,N/A,0,0.1831
+72,robot_room_first_trial,trial_x_0.81.mp4,0.0000,YOLO_ONLY,N/A,0,0.1806

@@ -1,0 +1,104 @@
+frame_idx,source_env,source_file,moondream_detections,detected_classes,pseudo_conf,status,vlm_response,latency_ms,usage_ratio
+1,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0000
+2,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0000
+3,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0000
+4,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0000
+5,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0000
+6,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0000
+7,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0000
+8,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0000
+9,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0000
+10,custom,trial_x_0.34_raw.mp4,0,none,0.0000,VLM_TRIGGERED,PENDING...,0,0.0000
+10,custom,trial_x_0.34_raw.mp4,,VLM_RESPONSE_RECEIVED,,I'm sorry; but I can't provide a description or answer your question as I'm currently unable to view or interpret images. If you have any other questions or need assistance with a different topic; feel free to ask!,2884.2,0.1000
+11,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0909
+12,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0833
+13,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0769
+14,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0714
+15,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0667
+16,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0625
+17,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0588
+18,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0556
+19,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0526
+20,custom,trial_x_0.34_raw.mp4,0,none,0.0000,VLM_TRIGGERED,PENDING...,0,0.0500
+20,custom,trial_x_0.34_raw.mp4,,VLM_RESPONSE_RECEIVED,,I'm sorry; but I can't provide a description or answer your question as I'm currently unable to process or interpret visual data.,2348.4,0.1000
+21,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0952
+22,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0909
+23,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0870
+24,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0833
+25,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0800
+26,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0769
+27,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0741
+28,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0714
+29,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0690
+30,custom,trial_x_0.34_raw.mp4,0,none,0.0000,VLM_TRIGGERED,PENDING...,0,0.0667
+30,custom,trial_x_0.34_raw.mp4,,VLM_RESPONSE_RECEIVED,,I'm sorry; but I can't provide a description or answer your question as I don't have the ability to see or interpret visual content. I'm designed to assist with text-based tasks and provide information based on the data I've been trained on. If you have any questions or need assistance with a different type of task; feel free to ask!,3122.4,0.1000
+31,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0968
+32,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0938
+33,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0909
+34,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0882
+35,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0857
+36,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0833
+37,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0811
+38,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0789
+39,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0769
+40,custom,trial_x_0.34_raw.mp4,0,none,0.0000,VLM_TRIGGERED,PENDING...,0,0.0750
+40,custom,trial_x_0.34_raw.mp4,,VLM_RESPONSE_RECEIVED,,I'm sorry; but I can't provide a description or answer your question as I don't have the ability to see or interpret visual content. I can only process and respond to text-based inputs. If you have any questions or need assistance with a different task; feel free to ask!,2878.9,0.1000
+41,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0976
+42,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0952
+43,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0930
+44,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0909
+45,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0889
+46,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0870
+47,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0851
+48,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0833
+49,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0816
+50,custom,trial_x_0.34_raw.mp4,0,none,0.0000,VLM_TRIGGERED,PENDING...,0,0.0800
+50,custom,trial_x_0.34_raw.mp4,,VLM_RESPONSE_RECEIVED,,I'm sorry; but I can't provide a description or answer your question as I don't have the ability to see or interpret visual content. I can only process and respond to text-based inputs. If you have any questions or need assistance with a different task; feel free to ask!,2878.5,0.1000
+51,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0980
+52,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0962
+53,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0943
+54,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0926
+55,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0909
+56,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0893
+57,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0877
+58,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0862
+59,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0847
+60,custom,trial_x_0.34_raw.mp4,0,none,0.0000,VLM_TRIGGERED,PENDING...,0,0.0833
+60,custom,trial_x_0.34_raw.mp4,,VLM_RESPONSE_RECEIVED,,I'm sorry; but I can't provide a description or answer your question as I don't have the ability to see or interpret visual content. I can only process and respond to text-based inputs. If you have any questions or need assistance with a different task; feel free to ask!,2922.9,0.1000
+61,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0984
+62,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0968
+63,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0952
+64,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0938
+65,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0923
+66,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0909
+67,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0896
+68,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0882
+69,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0870
+70,custom,trial_x_0.34_raw.mp4,0,none,0.0000,VLM_TRIGGERED,PENDING...,0,0.0857
+70,custom,trial_x_0.34_raw.mp4,,VLM_RESPONSE_RECEIVED,,I'm sorry; but I can't provide a description or answer your question as I don't have the ability to see or interpret visual content. I can only process and respond to text-based inputs. If you have any questions or need assistance with a different task; feel free to ask!,3271.7,0.1000
+71,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0986
+72,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0972
+73,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0959
+74,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0946
+75,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0933
+76,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0921
+77,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0909
+78,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0897
+79,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0886
+80,custom,trial_x_0.34_raw.mp4,0,none,0.0000,VLM_TRIGGERED,PENDING...,0,0.0875
+80,custom,trial_x_0.34_raw.mp4,,VLM_RESPONSE_RECEIVED,,I'm sorry; but I can't provide a description or answer your question as I don't have the ability to see or interpret visual content. I can only process and respond to text-based inputs. If you have any questions or need assistance with a different task; feel free to ask!,3426.3,0.1000
+81,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0988
+82,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0976
+83,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0964
+84,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0952
+85,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0941
+86,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0930
+87,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0920
+88,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0909
+89,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0899
+90,custom,trial_x_0.34_raw.mp4,0,none,0.0000,VLM_TRIGGERED,PENDING...,0,0.0889
+90,custom,trial_x_0.34_raw.mp4,,VLM_RESPONSE_RECEIVED,,I'm sorry; but I can't provide a description or answer your question as I don't have the ability to see or interpret visual content. I can only process and respond to text-based inputs. If you have any questions or need assistance with a different task; feel free to ask!,3185.3,0.1000
+91,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0989
+92,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0978
+93,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0968
+94,custom,trial_x_0.34_raw.mp4,0,none,0.0000,MOONDREAM_ONLY,N/A,0,0.0957

@@ -1,0 +1,66 @@
+frame_idx,source_env,source_file,yolo_max_conf,detected_classes,status,vlm_response,latency_ms,usage_ratio
+1,AMD,trial_x_0.5.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+2,AMD,trial_x_0.5.mp4,0.5794,side walk;road,YOLO_ONLY,N/A,0,0.0000
+3,AMD,trial_x_0.5.mp4,0.6151,side walk;road,YOLO_ONLY,N/A,0,0.0000
+4,AMD,trial_x_0.5.mp4,0.7407,road;road,YOLO_ONLY,N/A,0,0.0000
+5,AMD,trial_x_0.5.mp4,0.9285,road,YOLO_ONLY,N/A,0,0.0000
+6,AMD,trial_x_0.5.mp4,0.9196,road,YOLO_ONLY,N/A,0,0.0000
+7,AMD,trial_x_0.5.mp4,0.6025,road,YOLO_ONLY,N/A,0,0.0000
+8,AMD,trial_x_0.5.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+9,AMD,trial_x_0.5.mp4,0.3691,road,VLM_TRIGGERED,PENDING...,0,0.0000
+9,AMD,trial_x_0.5.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too blurred to provide a detailed description of the room or identify any obstacles and hazards. If you have a clearer image; I would be happy to assist with a description and answer your question.,6983.2,0.1111
+10,AMD,trial_x_0.5.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1000
+11,AMD,trial_x_0.5.mp4,0.7353,side walk;road,YOLO_ONLY,N/A,0,0.0909
+12,AMD,trial_x_0.5.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0833
+13,AMD,trial_x_0.5.mp4,0.3777,road,VLM_TRIGGERED,PENDING...,0,0.0769
+13,AMD,trial_x_0.5.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too blurred to identify any obstacles or hazards with precision. However; from what is visible; there appears to be a whiteboard with writing on it; and a small orange traffic cone on the floor. The cone is the most distinct object that can be identified. Due to the low resolution and lack of clarity; it is not possible to provide a detailed description of the floor or path.,5426.3,0.1538
+14,AMD,trial_x_0.5.mp4,0.8991,road;side walk,YOLO_ONLY,N/A,0,0.1429
+15,AMD,trial_x_0.5.mp4,0.7780,road;road,YOLO_ONLY,N/A,0,0.1333
+16,AMD,trial_x_0.5.mp4,0.9214,road,YOLO_ONLY,N/A,0,0.1250
+17,AMD,trial_x_0.5.mp4,0.9397,road;road,YOLO_ONLY,N/A,0,0.1176
+18,AMD,trial_x_0.5.mp4,0.6340,road,YOLO_ONLY,N/A,0,0.1111
+19,AMD,trial_x_0.5.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1053
+20,AMD,trial_x_0.5.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1000
+21,AMD,trial_x_0.5.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0952
+22,AMD,trial_x_0.5.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0909
+23,AMD,trial_x_0.5.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0870
+24,AMD,trial_x_0.5.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0833
+25,AMD,trial_x_0.5.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0800
+26,AMD,trial_x_0.5.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0769
+27,AMD,trial_x_0.5.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0741
+28,AMD,trial_x_0.5.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0714
+29,AMD,trial_x_0.5.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0690
+30,AMD,trial_x_0.5.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0667
+31,AMD,trial_x_0.5.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0645
+32,AMD,trial_x_0.5.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0625
+33,AMD,trial_x_0.5.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0606
+34,AMD,trial_x_0.5.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0588
+35,AMD,trial_x_0.5.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0571
+36,AMD,trial_x_0.5.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0556
+37,AMD,trial_x_0.5.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0541
+38,AMD,trial_x_0.5.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0526
+39,AMD,trial_x_0.5.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0513
+40,AMD,trial_x_0.5.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0500
+41,AMD,trial_x_0.5.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0488
+42,AMD,trial_x_0.5.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0476
+43,AMD,trial_x_0.5.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0465
+44,AMD,trial_x_0.5.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0455
+45,AMD,trial_x_0.5.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0444
+46,AMD,trial_x_0.5.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0435
+47,AMD,trial_x_0.5.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0426
+48,AMD,trial_x_0.5.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0417
+49,AMD,trial_x_0.5.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0408
+50,AMD,trial_x_0.5.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0400
+51,AMD,trial_x_0.5.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0392
+52,AMD,trial_x_0.5.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0385
+53,AMD,trial_x_0.5.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0377
+54,AMD,trial_x_0.5.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0370
+55,AMD,trial_x_0.5.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0364
+56,AMD,trial_x_0.5.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0357
+57,AMD,trial_x_0.5.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0351
+58,AMD,trial_x_0.5.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0345
+59,AMD,trial_x_0.5.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0339
+60,AMD,trial_x_0.5.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0333
+61,AMD,trial_x_0.5.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0328
+62,AMD,trial_x_0.5.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0323
+63,AMD,trial_x_0.5.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0317

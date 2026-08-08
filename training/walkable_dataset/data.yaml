@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['road', 'side walk', 'street sign']
+
+roboflow:
+  workspace: yolov8dataset-mkk6v
+  project: demo-video-jmoz0
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/yolov8dataset-mkk6v/demo-video-jmoz0/dataset/3

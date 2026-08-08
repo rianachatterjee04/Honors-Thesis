@@ -1,0 +1,161 @@
+frame_idx,source_env,source_file,yolo_max_conf,status,vlm_response,latency_ms,usage_ratio
+1,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.0000
+2,hallway,trial_x_0.37.mp4,0.3339,VLM_TRIGGERED,PENDING...,0,0.0000
+2,hallway,trial_x_0.37.mp4,N/A,VLM_RESPONSE_RECEIVED,"The image shows several potential obstacles and hazards within an indoor setting. The most prominent obstacle is the black blurry circle; which represents a simulated Age-Related Macular Degeneration (AMD) effect. This visual distortion does not affect the physical environment but serves as a metaphor for the impact of AMD on vision.
+
+In terms of actual obstacles and hazards; there are two orange traffic cones placed on the floor. These cones are typically used to mark areas that require caution or to indicate restricted access. Their presence suggests that there may be an area where pedestrians should not enter or where some sort of work is being done.
+
+Additionally; the darkness in the center of the image could be interpreted as a hazard due to its potential to obscure vision and create a sense of uncertainty about what lies ahead. However; this effect is more likely a result of the simulated AMD rather than an actual physical hazard.
+
+Overall; the image highlights the importance of clear visibility in environments where individuals may be present; such as in workplaces or public spaces. The use of traffic cones and the simulated AMD effect serve to draw attention to potential hazards that could affect a person's ability to navigate safely through the space.",10409.6,0.5000
+3,hallway,trial_x_0.37.mp4,0.3911,VLM_TRIGGERED,PENDING...,0,0.3333
+3,hallway,trial_x_0.37.mp4,N/A,VLM_RESPONSE_RECEIVED,The primary obstacle in the room appears to be the large black area that obscures the view of the hallway. This could be due to a variety of reasons such as a dark object; a person blocking the light source; or an artistic installation. The floor is covered with a blue carpet; which seems to be in good condition without any visible damage or debris. There are no other obvious hazards like tripping hazards or sharp objects within the frame of the image provided. However; due to the obscured view; it's not possible to provide a detailed description of the floor and path beyond what is visible in this particular shot.,6036.9,0.6667
+4,hallway,trial_x_0.37.mp4,0.3414,VLM_TRIGGERED,PENDING...,0,0.5000
+4,hallway,trial_x_0.37.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows an area with several orange traffic cones placed at intervals along the floor; which are typically used as safety markers or to demarcate a restricted zone. The cones are positioned in such a way that they create a clear path through the room; suggesting that this is a controlled environment where pedestrians should be cautious and follow the marked route. There are no visible obstacles or hazards on the floor itself; however; the black blurry circle in the center could be interpreted as an artistic representation of a person's face; which might not be relevant to the physical layout of the room but adds a layer of complexity to the scene. The focus should remain on the clear areas of the image; such as the floor and path; which are unobstructed by any visible obstacles or hazards.,6927.9,0.7500
+5,hallway,trial_x_0.37.mp4,0.3107,VLM_TRIGGERED,PENDING...,0,0.6000
+5,hallway,trial_x_0.37.mp4,N/A,VLM_RESPONSE_RECEIVED,"The image shows several potential obstacles and hazards within an indoor setting. The most prominent are the orange traffic cones; which are placed at regular intervals along the pathway. These cones serve as a visual cue for pedestrians to navigate safely around them. Additionally; there is a black blurry circle in the center of the image that could be interpreted as an Age-Related Macular Degeneration simulation; but since it's not clear and does not obstruct the path; it should be ignored.
+
+The floor appears to be made of carpeted material with a patterned design; which is common in office or institutional buildings for its durability and ease of cleaning. The pathway itself seems to be well-lit; suggesting that there are no immediate hazards related to low visibility. However; the absence of any visible obstacles such as furniture; debris; or sharp edges on the floor means that the room is currently safe for pedestrian use.
+
+In summary; the image shows a clear pathway with traffic cones and no immediate hazards; although the black blurry circle in the center should be disregarded as it does not represent an actual obstacle.",8966.2,0.8000
+6,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.6667
+7,hallway,trial_x_0.37.mp4,0.3555,VLM_TRIGGERED,PENDING...,0,0.5714
+7,hallway,trial_x_0.37.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows an area with several orange traffic cones placed along the floor; which are typically used as safety markers or to demarcate a restricted zone. The cones are positioned at regular intervals; suggesting they are set up for some specific purpose; possibly related to construction; maintenance work; or a temporary hazard warning. There is no visible obstruction in the immediate path of the cones; however; the black blurry circle in the center could be interpreted as an artistic representation rather than a real-world object. It's important to note that this interpretation is based on the context provided by the question and not on any actual objects present in the image.,6042.2,0.7143
+8,hallway,trial_x_0.37.mp4,0.3045,VLM_TRIGGERED,PENDING...,0,0.6250
+8,hallway,trial_x_0.37.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows an area with several orange traffic cones placed along the floor; which are typically used as safety markers or to demarcate a restricted zone. The cones are positioned at regular intervals; suggesting they are set up for some specific purpose; possibly related to construction; maintenance work; or a temporary hazard warning. There is no visible obstruction in the immediate path of the cones; however; the black blurry circle in the center could be interpreted as an artistic representation rather than a real-world object. It's important to note that this interpretation is based on the context provided by the question and not on any actual objects present in the image.,5828.8,0.7500
+9,hallway,trial_x_0.37.mp4,0.2771,VLM_TRIGGERED,PENDING...,0,0.6667
+9,hallway,trial_x_0.37.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows an area with several orange traffic cones placed at intervals along the floor; which are typically used as safety markers or to demarcate a restricted zone. The cones are positioned in such a way that they create a clear path through the room; suggesting that this is a controlled environment where pedestrians should be cautious and possibly guided by the cones. There are no visible obstacles or hazards on the floor itself; however; the black blurry circle in the center could be interpreted as an artistic representation of a person's face; which might not be relevant to the physical environment but adds a layer of complexity to the image. The focus should remain on the clear areas of the image; such as the floor and path; which are unobstructed by any visible obstacles or hazards.,6779.1,0.7778
+10,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.7000
+11,hallway,trial_x_0.37.mp4,0.3373,VLM_TRIGGERED,PENDING...,0,0.6364
+11,hallway,trial_x_0.37.mp4,N/A,VLM_RESPONSE_RECEIVED,The primary obstacle in the room appears to be the large black circular area; which could represent a hazard or an obstruction due to its size and central location. This area is surrounded by orange traffic cones; which are typically used as warning signs for caution. The cones are placed at intervals along the pathway; suggesting that they are marking off a restricted area or directing foot traffic away from it. There are no other visible obstacles such as furniture; debris; or people in the immediate vicinity of the cones. The floor itself is covered with a dark carpet; which could be indicative of a high-traffic area or an area that requires caution due to its slippery surface. Overall; the image suggests a controlled environment where safety measures are being taken to prevent accidents or guide individuals along a specific path.,7209.4,0.7273
+12,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.6667
+13,hallway,trial_x_0.37.mp4,0.3198,VLM_TRIGGERED,PENDING...,0,0.6154
+13,hallway,trial_x_0.37.mp4,N/A,VLM_RESPONSE_RECEIVED,The primary obstacle in the room appears to be the large black area that obscures the view of the path ahead. This could be due to a variety of reasons such as a dark object; a shadow cast by an unseen source; or perhaps a reflection on the floor. The clear areas of the image show a well-defined path leading towards what seems to be an exit or another room. There are no other visible obstacles in the immediate vicinity that can be identified from this perspective. It's important to note that while the black area is significant; it does not constitute an actual hazard as there are no signs of danger such as tripping hazards or sharp objects. The focus should remain on the clear areas for a detailed description of the floor and path.,6395.4,0.6923
+14,hallway,trial_x_0.37.mp4,0.3749,VLM_TRIGGERED,PENDING...,0,0.6429
+14,hallway,trial_x_0.37.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows an area with several orange traffic cones placed at intervals along the floor; which are typically used as safety markers or to demarcate a restricted zone. The cones are positioned in such a way that they create a clear path through the room; suggesting that this is a controlled environment where pedestrians should be cautious and possibly guided by the cones. There are no visible obstacles or hazards on the floor itself; however; the black blurry circle in the center could be interpreted as an artistic representation of a person's face; which might not be relevant to the physical environment but adds a layer of complexity to the image. The focus should remain on the clear areas of the image; such as the floor and path; which are unobstructed by any visible obstacles or hazards.,6691.9,0.7143
+15,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.6667
+16,hallway,trial_x_0.37.mp4,0.3884,VLM_TRIGGERED,PENDING...,0,0.6250
+16,hallway,trial_x_0.37.mp4,N/A,VLM_RESPONSE_RECEIVED,"The image shows several potential obstacles and hazards within an indoor setting. The most prominent obstacle is the black blurry circle; which represents a simulated Age-Related Macular Degeneration (AMD) effect. This visual distortion does not affect the physical environment but serves as a metaphor for the impact of AMD on vision.
+
+In terms of actual obstacles and hazards; there are orange traffic cones placed along the pathway. These cones serve as markers or guides; likely indicating that the area is under construction or requires caution due to potential hazards. The floor appears to be a standard carpeted surface with no visible tripping hazards like loose wires or uneven surfaces.
+
+The hallway itself seems to have a standard width and depth for indoor spaces; with no immediate signs of obstructions such as furniture or debris that would pose a risk. The lighting is consistent throughout the corridor; suggesting good visibility conditions.
+
+In summary; while the image includes simulated visual elements like the AMD effect; the actual hazards and obstacles present are minimal and related to the use of traffic cones for guidance or safety purposes within an indoor setting.",8800.4,0.6875
+17,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.6471
+18,hallway,trial_x_0.37.mp4,0.2631,VLM_TRIGGERED,PENDING...,0,0.6111
+18,hallway,trial_x_0.37.mp4,N/A,VLM_RESPONSE_RECEIVED,"The image shows several potential obstacles and hazards within an indoor setting. The most prominent are the orange traffic cones; which are placed at regular intervals along the pathway. These cones serve as a visual cue for pedestrians to navigate safely through the area. Additionally; there is a black blurry circle in the center of the image that could be interpreted as an Age-Related Macular Degeneration simulation; but since this is not a real obstacle or hazard; it should be disregarded.
+
+The floor appears to be made of carpeted material with a patterned design; which may present a slipping risk if wet. The pathway itself seems clear except for the cones; and there are no visible obstacles such as furniture or debris that would pose a physical hazard. However; the darkness at the end of the corridor could be considered a potential hazard due to reduced visibility. It is important to note that this assessment is based on the visible elements in the image and does not account for any hidden obstacles or hazards outside the frame.",8254.3,0.6667
+19,hallway,trial_x_0.37.mp4,0.4431,VLM_TRIGGERED,PENDING...,0,0.6316
+19,hallway,trial_x_0.37.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows an area with several orange traffic cones placed along the floor; which are typically used as safety markers or to demarcate a restricted zone. The cones are positioned at regular intervals; suggesting they are set up for some specific purpose; possibly related to construction; maintenance work; or an event requiring crowd control. There is no visible obstruction in the immediate path of the cones; however; the black blurry circle in the center could be a result of motion blur from a camera or other equipment capturing the image; and it does not represent any physical hazard within the room. The floor appears to be a standard hard surface; likely concrete or polished stone; which is common in industrial or commercial buildings for its durability and ease of maintenance. There are no visible signs of damage or wear on the floor; suggesting that the area is well-maintained.,7274.1,0.6842
+20,hallway,trial_x_0.37.mp4,0.5157,VLM_TRIGGERED,PENDING...,0,0.6500
+20,hallway,trial_x_0.37.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows an area with several orange traffic cones placed along the floor; which are typically used as safety markers or to demarcate a restricted zone. The cones are positioned at regular intervals; suggesting they are set up for some specific purpose; possibly related to construction; maintenance work; or an event requiring crowd control. There is no visible obstruction in the immediate path of the cones; however; the black blurry circle in the center could be a result of the camera's focus or a digital overlay rather than an actual hazard on the floor. It does not appear to be a physical obstacle but rather a visual anomaly within the image. The rest of the floor is clear except for the cones and the shadows they cast; which are consistent with the lighting conditions in the room.,6679.8,0.7000
+21,hallway,trial_x_0.37.mp4,0.2554,VLM_TRIGGERED,PENDING...,0,0.6667
+21,hallway,trial_x_0.37.mp4,N/A,VLM_RESPONSE_RECEIVED,"The obstacles and hazards present in the room include the orange traffic cones; which are placed at regular intervals along the pathway. These cones serve as a visual cue for pedestrians or vehicles to navigate safely through the area. The black blurry circle in the center is an artificial representation of Age-Related Macular Degeneration and should be ignored when identifying obstacles and hazards.
+
+The clear areas of the image show a well-defined pathway with no immediate obstructions; suggesting that the room is designed for pedestrian use or vehicular traffic. The floor appears to be made of a smooth material; likely concrete or polished stone; which is common in commercial or public buildings. There are no visible signs of damage or debris on the floor; indicating that the area is maintained and safe for use.
+
+In summary; the room presents a clear pathway with orange traffic cones as safety markers; and there are no immediate hazards or obstacles in the visible areas of the image.",8025.1,0.7143
+22,hallway,trial_x_0.37.mp4,0.4657,VLM_TRIGGERED,PENDING...,0,0.6818
+22,hallway,trial_x_0.37.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows an area with several orange traffic cones placed along the floor; which are typically used as safety markers or to demarcate a restricted zone. The cones are positioned at regular intervals; suggesting they are set up for some specific purpose; possibly related to construction; maintenance work; or a temporary hazard warning. There is no visible obstruction in the immediate path of the cones; however; the black blurry circle in the center could be interpreted as an artistic representation rather than a real-world object. It's important to note that this interpretation is based on the context provided by the question and not on any actual objects present in the image.,6123.7,0.7273
+23,hallway,trial_x_0.37.mp4,0.4836,VLM_TRIGGERED,PENDING...,0,0.6957
+23,hallway,trial_x_0.37.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows an area with several orange traffic cones placed along the floor; which are typically used as safety markers or to demarcate a restricted zone. The cones are positioned at regular intervals; suggesting they are set up for some specific purpose; possibly related to construction; maintenance work; or an event requiring crowd control. There is no visible obstruction in the immediate path of the cones; however; the black blurry circle in the center could be a result of motion blur from a camera or a reflection on the floor; which does not constitute an obstacle but rather a visual anomaly. The rest of the room appears to be clear except for this one area where the cones are placed.,6066.7,0.7391
+24,hallway,trial_x_0.37.mp4,0.4553,VLM_TRIGGERED,PENDING...,0,0.7083
+24,hallway,trial_x_0.37.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows an area with several orange traffic cones placed at intervals along the floor; which are typically used as safety markers or to demarcate a restricted zone. The cones are positioned in such a way that they create a clear path through the room; suggesting that this is a controlled environment where pedestrians should be cautious and follow the marked route. There are no visible obstacles or hazards on the floor itself; however; the black blurry circle in the center could be interpreted as an artistic representation of a person's face; which might not be relevant to the physical layout of the room but adds a layer of complexity to the scene. The focus should remain on the clear areas of the image; such as the floor and path; which are unobstructed by any visible obstacles or hazards.,6728.8,0.7500
+25,hallway,trial_x_0.37.mp4,0.5519,VLM_TRIGGERED,PENDING...,0,0.7200
+25,hallway,trial_x_0.37.mp4,N/A,VLM_RESPONSE_RECEIVED,"The image shows several potential obstacles and hazards within an indoor setting. The most prominent are the orange traffic cones; which are placed at regular intervals along the pathway. These cones serve as a visual cue for pedestrians to navigate safely around them. Additionally; there is a black blurry circle in the center of the image that could be interpreted as an Age-Related Macular Degeneration simulation; but since it's not clear and does not obstruct the path; it should be ignored.
+
+The floor appears to be made of carpeted material with a patterned design; which is common in office or institutional buildings for its durability and ease of cleaning. The pathway itself seems to be well-lit; suggesting that visibility is maintained throughout the room. There are no visible tripping hazards such as uneven surfaces or debris on the floor.
+
+In summary; the image shows a clear path with traffic cones for guidance; and while there is a potential simulation of Age-Related Macular Degeneration; it does not pose an actual hazard in this context. The room appears to be well-maintained and safe for pedestrian use.",8748.4,0.7600
+26,hallway,trial_x_0.37.mp4,0.5033,VLM_TRIGGERED,PENDING...,0,0.7308
+26,hallway,trial_x_0.37.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows an area with several orange traffic cones placed at intervals along the floor; which are typically used as safety markers or to demarcate a restricted zone. The cones are positioned in such a way that they create a clear path through the room; suggesting that this is a controlled environment where pedestrians should be cautious and follow the marked route. There are no visible obstacles or hazards on the floor itself; however; the black blurry circle in the center could be interpreted as an artistic representation of a person's face; which might not be relevant to the physical layout of the room but adds a layer of complexity to the scene. The focus should remain on the clear areas of the image; such as the floor and path; which are unobstructed by any visible obstacles or hazards.,6701.6,0.7692
+27,hallway,trial_x_0.37.mp4,0.5199,VLM_TRIGGERED,PENDING...,0,0.7407
+27,hallway,trial_x_0.37.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows an area with several orange traffic cones placed at intervals along the floor; which are typically used as safety markers or to demarcate a restricted zone. The cones are positioned in such a way that they create a clear path through the room; suggesting that this is a controlled environment where pedestrians should be cautious and follow the marked route. There are no visible obstacles or hazards on the floor itself; however; the black blurry circle in the center could be interpreted as an artistic representation of a person's face; which might not be relevant to the physical layout of the room but adds a layer of complexity to the scene. The focus should remain on the clear areas of the image; such as the floor and path; which are unobstructed by any visible obstacles or hazards.,6777.7,0.7778
+28,hallway,trial_x_0.37.mp4,0.5262,VLM_TRIGGERED,PENDING...,0,0.7500
+28,hallway,trial_x_0.37.mp4,N/A,VLM_RESPONSE_RECEIVED,"The image shows several potential obstacles and hazards within an indoor setting; primarily due to the black blurry circle that represents a simulated Age-Related Macular Degeneration (AMD). This simulation is not a real obstacle but rather a visual effect used to indicate where one might expect to see AMD symptoms.
+
+In terms of actual obstacles and hazards; there are two orange traffic cones placed on the floor. These cones are typically used as safety markers in construction zones or areas where caution is required due to potential hazards. Their presence suggests that there may be work being done or a restricted area within this room.
+
+The floor itself appears to be a standard carpeted surface; which could pose tripping hazards if not properly maintained. Additionally; the walls and ceiling are visible but do not show any immediate signs of damage or obstruction. The lighting in the room is consistent with an indoor environment; providing visibility for the area.
+
+In summary; while there are no real physical obstacles or hazards present in this image; the presence of traffic cones and the simulated AMD effect indicate areas where caution should be exercised due to potential work zones or restricted access.",10286.1,0.7857
+29,hallway,trial_x_0.37.mp4,0.4691,VLM_TRIGGERED,PENDING...,0,0.7586
+29,hallway,trial_x_0.37.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows an area with several orange traffic cones placed on the floor; which are typically used as safety markers or to demarcate a restricted zone. The cones are positioned in a way that suggests they are marking off a pathway or warning of potential hazards ahead. There is no visible obstruction or hazard in the clear areas of the image; however; the black blurry circle in the center could be interpreted as an artistic representation rather than a real-world object. It's important to note that this interpretation is based on the context provided by the question and not on any actual elements within the image.,6642.3,0.7931
+30,hallway,trial_x_0.37.mp4,0.4034,VLM_TRIGGERED,PENDING...,0,0.7667
+30,hallway,trial_x_0.37.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows an area with several orange traffic cones placed at intervals along the floor; which are typically used as safety markers or to demarcate a restricted zone. The cones are positioned in such a way that they create a clear path through the room; suggesting that this is a controlled environment where pedestrians should be cautious and follow the marked route. There are no visible obstacles or hazards on the floor itself; however; the black blurry circle in the center could be interpreted as an artistic representation of a person's face; which might not be relevant to the physical layout of the room but adds a layer of complexity to the scene. The focus should remain on the clear areas of the image; such as the floor and path; which are unobstructed by any visible obstacles or hazards.,7032.0,0.8000
+31,hallway,trial_x_0.37.mp4,0.3586,VLM_TRIGGERED,PENDING...,0,0.7742
+31,hallway,trial_x_0.37.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows an area with several orange traffic cones placed at intervals along the floor; which are typically used as safety markers or to demarcate a restricted zone. The cones are positioned in such a way that they create a clear path through the room; suggesting that this is a controlled environment where pedestrians should be cautious and follow the marked route. There are no visible obstacles or hazards on the floor itself; however; the black blurry circle in the center of the image could be interpreted as an artistic representation rather than a real-world object. It is important to note that this interpretation is based solely on the visual information provided and does not account for any potential external factors that may affect the perception of the scene.,6648.8,0.8065
+32,hallway,trial_x_0.37.mp4,0.4086,VLM_TRIGGERED,PENDING...,0,0.7812
+32,hallway,trial_x_0.37.mp4,N/A,VLM_RESPONSE_RECEIVED,The primary obstacle in the room appears to be the large black circular area; which could represent a hazard or an obstruction. This is due to its central positioning and the way it contrasts with the surrounding environment. The floor itself seems clear of any significant debris or objects that would pose a physical risk. However; without additional context or information about the room's purpose; it is difficult to determine if this black area is intentional or accidental. It could be an artistic installation; a signage error; or even a representation of a hazard in a simulation. The path leading towards the black area seems clear and unobstructed; suggesting that there are no immediate obstacles on it.,5980.0,0.8125
+33,hallway,trial_x_0.37.mp4,0.3503,VLM_TRIGGERED,PENDING...,0,0.7879
+33,hallway,trial_x_0.37.mp4,N/A,VLM_RESPONSE_RECEIVED,The primary obstacle in the room appears to be the black; swirling substance that covers the floor. This could be interpreted as a visual representation of smoke or steam; which is a hazardous condition that would require immediate attention. The orange traffic cones are placed on either side of the path; indicating a designated walkway and serving as a warning to prevent accidents. There are no other visible obstacles such as furniture; debris; or people in the image. The focus should be on the clear areas of the floor and path; which include the orange cones and the black substance; with the potential for smoke or steam hazards.,5972.9,0.8182
+34,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.7941
+35,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.7714
+36,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.7500
+37,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.7297
+38,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.7105
+39,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.6923
+40,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.6750
+41,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.6585
+42,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.6429
+43,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.6279
+44,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.6136
+45,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.6000
+46,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.5870
+47,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.5745
+48,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.5625
+49,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.5510
+50,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.5400
+51,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.5294
+52,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.5192
+53,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.5094
+54,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.5000
+55,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.4909
+56,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.4821
+57,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.4737
+58,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.4655
+59,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.4576
+60,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.4500
+61,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.4426
+62,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.4355
+63,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.4286
+64,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.4219
+65,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.4154
+66,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.4091
+67,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.4030
+68,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.3971
+69,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.3913
+70,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.3857
+71,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.3803
+72,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.3750
+73,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.3699
+74,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.3649
+75,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.3600
+76,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.3553
+77,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.3506
+78,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.3462
+79,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.3418
+80,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.3375
+81,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.3333
+82,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.3293
+83,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.3253
+84,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.3214
+85,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.3176
+86,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.3140
+87,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.3103
+88,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.3068
+89,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.3034
+90,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.3000
+91,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.2967
+92,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.2935
+93,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.2903
+94,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.2872
+95,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.2842
+96,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.2812
+97,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.2784
+98,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.2755
+99,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.2727
+100,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.2700
+101,hallway,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.2673

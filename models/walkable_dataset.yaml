@@ -1,0 +1,12 @@
+# Dataset configuration using only training data
+train: /Users/rianachatterjee/Downloads/in-lab/demovideo/train/images
+val: /Users/rianachatterjee/Downloads/in-lab/demovideo/train/images  # Same as train, YOLO will auto-split
+
+# Number of classes
+nc: 3
+
+# Class names
+names:
+  0: 'side walk'
+  1: 'road'  
+  2: 'street sign'

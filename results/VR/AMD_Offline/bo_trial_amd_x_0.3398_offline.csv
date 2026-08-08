@@ -1,0 +1,110 @@
+frame_idx,source_env,source_file,yolo_max_conf,detected_classes,status,vlm_response,latency_ms,usage_ratio
+1,custom,trial_x_0.52_raw.mp4,0.5123,chair;tv,YOLO_ONLY,N/A,0,0.0000
+2,custom,trial_x_0.52_raw.mp4,0.3769,chair,YOLO_ONLY,N/A,0,0.0000
+3,custom,trial_x_0.52_raw.mp4,0.5646,chair,YOLO_ONLY,N/A,0,0.0000
+4,custom,trial_x_0.52_raw.mp4,0.5376,chair;toilet,YOLO_ONLY,N/A,0,0.0000
+5,custom,trial_x_0.52_raw.mp4,0.3455,chair;toilet,YOLO_ONLY,N/A,0,0.0000
+6,custom,trial_x_0.52_raw.mp4,0.4858,chair;chair;tv,YOLO_ONLY,N/A,0,0.0000
+7,custom,trial_x_0.52_raw.mp4,0.5431,chair;chair;tv,YOLO_ONLY,N/A,0,0.0000
+8,custom,trial_x_0.52_raw.mp4,0.4121,chair;car,YOLO_ONLY,N/A,0,0.0000
+9,custom,trial_x_0.52_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+10,custom,trial_x_0.52_raw.mp4,0.3112,tv;chair,VLM_TRIGGERED,PENDING...,0,0.0000
+10,custom,trial_x_0.52_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a room with a whiteboard on the wall; which is the most prominent feature. There is a black circular object in the center that appears to be a camera artifact simulating a lens; but it is not a real camera lens. The floor is not clearly visible due to the blurriness of the image; but there are no immediate obstacles or hazards that can be identified from the visible parts of the room. The orange traffic cone on the floor suggests that there may be some sort of work or activity taking place; but it is not possible to determine the exact nature of the work from the image alone.,10076.7,0.1000
+11,custom,trial_x_0.52_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0909
+12,custom,trial_x_0.52_raw.mp4,0.2865,bottle,VLM_TRIGGERED,PENDING...,0,0.0833
+12,custom,trial_x_0.52_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too blurred to identify any obstacles or hazards with precision. However; from what can be discerned; there appears to be a bright light source in the center; which could be a camera flash or another light source; and an orange traffic cone on the floor. The rest of the image is too indistinct to provide a detailed description of the floor and path.,4701.9,0.1667
+13,custom,trial_x_0.52_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1538
+14,custom,trial_x_0.52_raw.mp4,0.6001,tv,YOLO_ONLY,N/A,0,0.1429
+15,custom,trial_x_0.52_raw.mp4,0.4383,tv,YOLO_ONLY,N/A,0,0.1333
+16,custom,trial_x_0.52_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1250
+17,custom,trial_x_0.52_raw.mp4,0.4497,tv;bowl,YOLO_ONLY,N/A,0,0.1176
+18,custom,trial_x_0.52_raw.mp4,0.3815,tv;bottle;sink,YOLO_ONLY,N/A,0,0.1111
+19,custom,trial_x_0.52_raw.mp4,0.5099,toilet,YOLO_ONLY,N/A,0,0.1053
+20,custom,trial_x_0.52_raw.mp4,0.4753,tv;toilet;chair,YOLO_ONLY,N/A,0,0.1000
+21,custom,trial_x_0.52_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0952
+22,custom,trial_x_0.52_raw.mp4,0.4962,toothbrush,YOLO_ONLY,N/A,0,0.0909
+23,custom,trial_x_0.52_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0870
+24,custom,trial_x_0.52_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0833
+25,custom,trial_x_0.52_raw.mp4,0.3939,toilet,YOLO_ONLY,N/A,0,0.0800
+26,custom,trial_x_0.52_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0769
+27,custom,trial_x_0.52_raw.mp4,0.2906,toilet,VLM_TRIGGERED,PENDING...,0,0.0741
+27,custom,trial_x_0.52_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too blurred to identify any obstacles or hazards.,3013.6,0.1111
+28,custom,trial_x_0.52_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1071
+29,custom,trial_x_0.52_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1034
+30,custom,trial_x_0.52_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1000
+31,custom,trial_x_0.52_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0968
+32,custom,trial_x_0.52_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0938
+33,custom,trial_x_0.52_raw.mp4,0.3669,sink,YOLO_ONLY,N/A,0,0.0909
+34,custom,trial_x_0.52_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0882
+35,custom,trial_x_0.52_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0857
+36,custom,trial_x_0.52_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0833
+37,custom,trial_x_0.52_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0811
+38,custom,trial_x_0.52_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0789
+39,custom,trial_x_0.52_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0769
+40,custom,trial_x_0.52_raw.mp4,0.3513,toilet,YOLO_ONLY,N/A,0,0.0750
+41,custom,trial_x_0.52_raw.mp4,0.3411,toilet;sink,YOLO_ONLY,N/A,0,0.0732
+42,custom,trial_x_0.52_raw.mp4,0.3559,toilet;sink,YOLO_ONLY,N/A,0,0.0714
+43,custom,trial_x_0.52_raw.mp4,0.3528,sink;toilet,YOLO_ONLY,N/A,0,0.0698
+44,custom,trial_x_0.52_raw.mp4,0.3023,sink;toilet,VLM_TRIGGERED,PENDING...,0,0.0682
+44,custom,trial_x_0.52_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a room with a whiteboard and a black circular object on the floor; which appears to be a camera artifact simulating AMD. The floor is not clearly visible due to the blurriness; but it seems to be a standard classroom floor. There are no other discernible obstacles or hazards in the visible area of the image.,4145.1,0.0909
+45,custom,trial_x_0.52_raw.mp4,0.3472,toilet;sink,YOLO_ONLY,N/A,0,0.0889
+46,custom,trial_x_0.52_raw.mp4,0.4535,toilet,YOLO_ONLY,N/A,0,0.0870
+47,custom,trial_x_0.52_raw.mp4,0.3680,sink,YOLO_ONLY,N/A,0,0.0851
+48,custom,trial_x_0.52_raw.mp4,0.3763,sink,YOLO_ONLY,N/A,0,0.0833
+49,custom,trial_x_0.52_raw.mp4,0.2859,toilet,VLM_TRIGGERED,PENDING...,0,0.0816
+49,custom,trial_x_0.52_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a room with a whiteboard on the wall; which has some red writing and a blue object on it. The floor appears to be a standard whiteboard floor; and there are no visible obstacles or hazards in the immediate area. The camera artifact simulating AMD is a blurry circle in the center of the image; which does not affect the description of the room's floor and path.,4586.3,0.1020
+50,custom,trial_x_0.52_raw.mp4,0.3179,toilet;sink,VLM_TRIGGERED,PENDING...,0,0.1000
+50,custom,trial_x_0.52_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a room with a whiteboard and a black circular object on the floor; which appears to be a camera artifact simulating AMD. The floor is not clearly visible due to the blurriness; but it seems to be a standard classroom floor. There are no other obvious obstacles or hazards in the visible area of the image.,4266.1,0.1200
+51,custom,trial_x_0.52_raw.mp4,0.3510,sink;toilet,YOLO_ONLY,N/A,0,0.1176
+52,custom,trial_x_0.52_raw.mp4,0.3267,toilet;sink,VLM_TRIGGERED,PENDING...,0,0.1154
+52,custom,trial_x_0.52_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a room with a whiteboard and a black circular object on the floor; which appears to be a camera artifact simulating AMD. The clear areas of the image show a whiteboard with writing and a blue object on the right side; possibly a piece of cloth or a towel. There are no visible obstacles or hazards in the room that can be clearly identified.,4434.0,0.1346
+53,custom,trial_x_0.52_raw.mp4,0.3285,toilet;sink,VLM_TRIGGERED,PENDING...,0,0.1321
+53,custom,trial_x_0.52_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a room with a whiteboard that has various writings and drawings on it. There is a black circular object on the floor; which appears to be a camera artifact simulating AMD; and a blue cloth or towel on the right side of the board. The floor is not clearly visible due to the camera's focus on the board; but it seems to be a standard classroom floor. There are no immediate hazards or obstacles visible in the image.,4956.6,0.1509
+54,custom,trial_x_0.52_raw.mp4,0.3058,toilet,VLM_TRIGGERED,PENDING...,0,0.1481
+54,custom,trial_x_0.52_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a room with a whiteboard and a black circular object that appears to be a camera artifact simulating AMD. The floor is not clearly visible due to the camera's focus on the black object; but it seems to be a standard classroom floor. There are no immediate obstacles or hazards visible in the image.,4150.3,0.1667
+55,custom,trial_x_0.52_raw.mp4,0.3129,toilet;sink,VLM_TRIGGERED,PENDING...,0,0.1636
+55,custom,trial_x_0.52_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a room with a whiteboard that has various writings and drawings on it. There is a black circular object on the floor; which appears to be a camera artifact simulating AMD; and a blue cloth or object on the right side of the board. The floor is not clearly visible due to the camera's focus on the board; but it seems to be a standard classroom floor. There are no immediate hazards or obstacles visible in the image.,4805.8,0.1818
+56,custom,trial_x_0.52_raw.mp4,0.2987,toilet;sink,VLM_TRIGGERED,PENDING...,0,0.1786
+56,custom,trial_x_0.52_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a room with a whiteboard that has various writings and drawings on it. There is a black circular object on the floor; which appears to be a camera artifact simulating AMD; and a blue cloth or object on the right side of the board. The floor is not clearly visible due to the camera's focus on the board; but it seems to be a standard classroom floor. There are no immediate hazards or obstacles visible in the image.,4741.6,0.1964
+57,custom,trial_x_0.52_raw.mp4,0.3061,sink;toilet,VLM_TRIGGERED,PENDING...,0,0.1930
+57,custom,trial_x_0.52_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a room with a whiteboard that has various writings and drawings on it. There is a black circular object on the floor; which appears to be a camera artifact simulating AMD; and a blue cloth or object on the right side of the board. The floor is not clearly visible due to the camera's focus on the board; but it seems to be a standard classroom floor. There are no immediate hazards or obstacles visible in the image.,4803.2,0.2105
+58,custom,trial_x_0.52_raw.mp4,0.2949,sink;toilet,VLM_TRIGGERED,PENDING...,0,0.2069
+58,custom,trial_x_0.52_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a room with a whiteboard and a black circular object on the floor; which appears to be a camera artifact simulating AMD. The clear areas of the image show a whiteboard with writing and a blue object on the floor; which could be a piece of clothing or a tool. There are no visible obstacles or hazards in the room that can be identified from this image.,4456.8,0.2241
+59,custom,trial_x_0.52_raw.mp4,0.3197,toilet;sink,VLM_TRIGGERED,PENDING...,0,0.2203
+59,custom,trial_x_0.52_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a room with a whiteboard and a black circular object on the floor; which appears to be a camera artifact simulating AMD. The clear areas of the image show a whiteboard with writing and a blue object on the right side; possibly a cloth or a piece of paper. There are no visible obstacles or hazards in the room that can be clearly identified.,4406.3,0.2373
+60,custom,trial_x_0.52_raw.mp4,0.3141,sink;toilet,VLM_TRIGGERED,PENDING...,0,0.2333
+60,custom,trial_x_0.52_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a room with a whiteboard that has been marked with red and black writing; indicating various notes and possibly diagrams or calculations. There is a black circular object on the whiteboard; which is likely a camera artifact simulating AMD (Atherosclerosis); a condition that can affect the eyes. The floor appears to be a standard whiteboard surface; and there are no visible obstacles or hazards in the immediate area captured in the image. The focus should be on the clear areas of the image; which include the whiteboard and the floor.,5355.1,0.2500
+61,custom,trial_x_0.52_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2459
+62,custom,trial_x_0.52_raw.mp4,0.3137,toilet,VLM_TRIGGERED,PENDING...,0,0.2419
+62,custom,trial_x_0.52_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear floor with no visible obstacles or hazards. The focus is on the whiteboard; which has some writing on it; but no other objects or potential hazards are discernible in the visible area.,3898.9,0.2581
+63,custom,trial_x_0.52_raw.mp4,0.2780,toilet,VLM_TRIGGERED,PENDING...,0,0.2540
+63,custom,trial_x_0.52_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a room with a whiteboard and a black circular object that appears to be a camera artifact simulating AMD. The floor is not clearly visible due to the camera's focus on the black object; but it seems to be a standard classroom floor. There are no immediate obstacles or hazards visible in the image.,4871.3,0.2698
+64,custom,trial_x_0.52_raw.mp4,0.3171,sink;toilet,VLM_TRIGGERED,PENDING...,0,0.2656
+64,custom,trial_x_0.52_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a room with a whiteboard and a black circular object on the floor; which appears to be a camera artifact simulating AMD. The floor is not clearly visible due to the blurriness; but it seems to be a standard classroom floor. There are no other obvious obstacles or hazards in the visible area of the image.,4411.5,0.2812
+65,custom,trial_x_0.52_raw.mp4,0.3111,sink;toilet,VLM_TRIGGERED,PENDING...,0,0.2769
+65,custom,trial_x_0.52_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear floor with no visible obstacles or hazards. The focus is on the whiteboard; which has some writing on it; but no other objects or features are discernible in the photo.,3616.4,0.2923
+66,custom,trial_x_0.52_raw.mp4,0.3114,sink;toilet,VLM_TRIGGERED,PENDING...,0,0.2879
+66,custom,trial_x_0.52_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear floor with a whiteboard on the left side; and a blue object; possibly a cloth or a bag; resting on the right side. There are no visible obstacles or hazards in the immediate area captured in the image. The focus is on the whiteboard and the blue object; with the black blurry circle being a camera artifact and not a real feature of the room.,4480.9,0.3030
+67,custom,trial_x_0.52_raw.mp4,0.3095,sink;toilet,VLM_TRIGGERED,PENDING...,0,0.2985
+67,custom,trial_x_0.52_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear floor with a whiteboard on the left side; and a blue object; possibly a cloth or a towel; hanging on the right side. There are no visible obstacles or hazards in the room; but the black blurry circle in the center is a camera artifact simulating AMD; which should be ignored. The focus should be on the clear areas of the image; which include the floor and the whiteboard.,4884.0,0.3134
+68,custom,trial_x_0.52_raw.mp4,0.2778,toilet,VLM_TRIGGERED,PENDING...,0,0.3088
+68,custom,trial_x_0.52_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a room with a whiteboard that has been marked with red writing; which appears to be notes or instructions. There is a black circular object on the floor; which could be a shadow or a reflection; but it is not a clear obstacle or hazard. The floor itself is not fully visible; but it seems to be a standard classroom or office floor. There are no visible hazards or obstacles in the clear areas of the image.,4786.6,0.3235
+69,custom,trial_x_0.52_raw.mp4,0.3453,sink,YOLO_ONLY,N/A,0,0.3188
+70,custom,trial_x_0.52_raw.mp4,0.3502,sink,YOLO_ONLY,N/A,0,0.3143
+71,custom,trial_x_0.52_raw.mp4,0.3590,sink,YOLO_ONLY,N/A,0,0.3099
+72,custom,trial_x_0.52_raw.mp4,0.3709,sink,YOLO_ONLY,N/A,0,0.3056
+73,custom,trial_x_0.52_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.3014
+74,custom,trial_x_0.52_raw.mp4,0.3048,sink;toilet,VLM_TRIGGERED,PENDING...,0,0.2973
+74,custom,trial_x_0.52_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear floor with a whiteboard on the left side; and a blue object; possibly a cloth or a towel; hanging on the right side. There are no visible obstacles or hazards in the room; but the black blurry circle in the center is a camera artifact simulating AMD; which should be ignored. The focus should be on the clear areas of the image; which include the floor and the whiteboard.,4851.6,0.3108
+75,custom,trial_x_0.52_raw.mp4,0.3815,sink,YOLO_ONLY,N/A,0,0.3067
+76,custom,trial_x_0.52_raw.mp4,0.4290,sink,YOLO_ONLY,N/A,0,0.3026
+77,custom,trial_x_0.52_raw.mp4,0.4342,sink,YOLO_ONLY,N/A,0,0.2987
+78,custom,trial_x_0.52_raw.mp4,0.4195,sink,YOLO_ONLY,N/A,0,0.2949
+79,custom,trial_x_0.52_raw.mp4,0.4231,sink,YOLO_ONLY,N/A,0,0.2911
+80,custom,trial_x_0.52_raw.mp4,0.4253,sink,YOLO_ONLY,N/A,0,0.2875
+81,custom,trial_x_0.52_raw.mp4,0.4200,sink,YOLO_ONLY,N/A,0,0.2840
+82,custom,trial_x_0.52_raw.mp4,0.4068,sink;toilet,YOLO_ONLY,N/A,0,0.2805
+83,custom,trial_x_0.52_raw.mp4,0.4321,sink,YOLO_ONLY,N/A,0,0.2771
+84,custom,trial_x_0.52_raw.mp4,0.4345,sink,YOLO_ONLY,N/A,0,0.2738
+85,custom,trial_x_0.52_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2706
+86,custom,trial_x_0.52_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2674

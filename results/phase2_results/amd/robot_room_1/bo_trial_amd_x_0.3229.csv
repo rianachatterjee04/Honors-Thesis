@@ -1,0 +1,117 @@
+frame_idx,source_env,source_file,yolo_max_conf,status,vlm_response,latency_ms,usage_ratio
+1,robot_room_first_trial,trial_x_0.37.mp4,0.3750,YOLO_ONLY,N/A,0,0.0000
+2,robot_room_first_trial,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.0000
+3,robot_room_first_trial,trial_x_0.37.mp4,0.2858,VLM_TRIGGERED,PENDING...,0,0.0000
+3,robot_room_first_trial,trial_x_0.37.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles and hazards in the room include the black blurry circle; which represents an Age-Related Macular Degeneration simulation; and the cluttered desk area with various items such as papers; a computer monitor; and other miscellaneous objects. The floor appears to be clear of any significant obstructions; but there is a potential tripping hazard due to the clutter on the desk.,4841.5,0.3333
+4,robot_room_first_trial,trial_x_0.37.mp4,0.3473,YOLO_ONLY,N/A,0,0.2500
+5,robot_room_first_trial,trial_x_0.37.mp4,0.3765,YOLO_ONLY,N/A,0,0.2000
+6,robot_room_first_trial,trial_x_0.37.mp4,0.3835,YOLO_ONLY,N/A,0,0.1667
+7,robot_room_first_trial,trial_x_0.37.mp4,0.2966,VLM_TRIGGERED,PENDING...,0,0.1429
+7,robot_room_first_trial,trial_x_0.37.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles and hazards in the room include the black blurry circle; which represents an Age-Related Macular Degeneration simulation; and the cluttered desk area with various items such as a computer monitor; keyboard; mouse; and papers. The floor appears to be clear of any significant obstructions; but there is a potential tripping hazard due to the clutter on the desk.,4546.3,0.2857
+8,robot_room_first_trial,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.2500
+9,robot_room_first_trial,trial_x_0.37.mp4,0.5639,YOLO_ONLY,N/A,0,0.2222
+10,robot_room_first_trial,trial_x_0.37.mp4,0.3896,YOLO_ONLY,N/A,0,0.2000
+11,robot_room_first_trial,trial_x_0.37.mp4,0.3508,YOLO_ONLY,N/A,0,0.1818
+12,robot_room_first_trial,trial_x_0.37.mp4,0.3146,VLM_TRIGGERED,PENDING...,0,0.1667
+12,robot_room_first_trial,trial_x_0.37.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles and hazards in the room include the black blurry circle; which represents an Age-Related Macular Degeneration simulation; and the cluttered desk area with various items such as papers; a computer monitor; and other miscellaneous objects. The floor appears to be clear of any significant obstructions; but there is a potential tripping hazard due to the clutter on the desk.,4519.2,0.2500
+13,robot_room_first_trial,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.2308
+14,robot_room_first_trial,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.2143
+15,robot_room_first_trial,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.2000
+16,robot_room_first_trial,trial_x_0.37.mp4,0.2770,VLM_TRIGGERED,PENDING...,0,0.1875
+16,robot_room_first_trial,trial_x_0.37.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles and hazards in the room include the black blurry circle; which represents an Age-Related Macular Degeneration simulation; and the cluttered desk area with various items such as papers; a red object that could be a cup or container; and cables. The floor appears to be clear of obstacles; but there is a potential tripping hazard due to the clutter on the desk.,4572.5,0.2500
+17,robot_room_first_trial,trial_x_0.37.mp4,0.3844,YOLO_ONLY,N/A,0,0.2353
+18,robot_room_first_trial,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.2222
+19,robot_room_first_trial,trial_x_0.37.mp4,0.3506,YOLO_ONLY,N/A,0,0.2105
+20,robot_room_first_trial,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.2000
+21,robot_room_first_trial,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.1905
+22,robot_room_first_trial,trial_x_0.37.mp4,0.2743,VLM_TRIGGERED,PENDING...,0,0.1818
+22,robot_room_first_trial,trial_x_0.37.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles and hazards in the room include the cluttered desk with papers; books; and a computer monitor; which could pose tripping hazards if not cleared. Additionally; the chair's positioning might be an obstacle for movement around the workspace. The floor appears to be clear of any immediate obstacles; but the presence of the desk and chair suggests that there may be limited space for walking or maneuvering in this area.,4776.2,0.2273
+23,robot_room_first_trial,trial_x_0.37.mp4,0.3634,YOLO_ONLY,N/A,0,0.2174
+24,robot_room_first_trial,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.2083
+25,robot_room_first_trial,trial_x_0.37.mp4,0.2866,VLM_TRIGGERED,PENDING...,0,0.2000
+25,robot_room_first_trial,trial_x_0.37.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles and hazards in the room are not clearly visible due to the blurriness of the image. However; based on the visible elements; there appears to be a red object that could be a chair or piece of furniture; and what might be a white wall with some items attached to it. The floor is not distinctly visible; but no immediate hazards can be identified from this perspective.,4548.2,0.2400
+26,robot_room_first_trial,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.2308
+27,robot_room_first_trial,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.2222
+28,robot_room_first_trial,trial_x_0.37.mp4,0.3561,YOLO_ONLY,N/A,0,0.2143
+29,robot_room_first_trial,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.2069
+30,robot_room_first_trial,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.2000
+31,robot_room_first_trial,trial_x_0.37.mp4,0.2539,VLM_TRIGGERED,PENDING...,0,0.1935
+31,robot_room_first_trial,trial_x_0.37.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles and hazards in the room include the cluttered desk with various items; which could pose a risk of tripping or falling over objects. Additionally; the black blurry circle in the center is an artificial representation and does not represent any real-world obstacle or hazard. The clear areas of the image show a floor that appears to be untidy; with no immediate visible obstacles such as furniture or appliances that could cause harm.,4794.6,0.2258
+32,robot_room_first_trial,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.2188
+33,robot_room_first_trial,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.2121
+34,robot_room_first_trial,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.2059
+35,robot_room_first_trial,trial_x_0.37.mp4,0.4992,YOLO_ONLY,N/A,0,0.2000
+36,robot_room_first_trial,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.1944
+37,robot_room_first_trial,trial_x_0.37.mp4,0.2720,VLM_TRIGGERED,PENDING...,0,0.1892
+37,robot_room_first_trial,trial_x_0.37.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles and hazards in the room include the black blurry circle; which represents Age-Related Macular Degeneration; and the overall low clarity of the image due to poor lighting conditions. The clear areas show a tiled floor with a path leading towards a darker area; possibly indicating a staircase or an entrance.,4247.9,0.2162
+38,robot_room_first_trial,trial_x_0.37.mp4,0.2785,VLM_TRIGGERED,PENDING...,0,0.2105
+38,robot_room_first_trial,trial_x_0.37.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles and hazards in the room include the black blurry circle; which represents Age-Related Macular Degeneration; and the white lines that could be interpreted as edges or boundaries within the room. The clear areas of the image show a pathway leading to an unseen destination; with no immediate obstructions visible.,4087.4,0.2368
+39,robot_room_first_trial,trial_x_0.37.mp4,0.3304,YOLO_ONLY,N/A,0,0.2308
+40,robot_room_first_trial,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.2250
+41,robot_room_first_trial,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.2195
+42,robot_room_first_trial,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.2143
+43,robot_room_first_trial,trial_x_0.37.mp4,0.4637,YOLO_ONLY,N/A,0,0.2093
+44,robot_room_first_trial,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.2045
+45,robot_room_first_trial,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.2000
+46,robot_room_first_trial,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.1957
+47,robot_room_first_trial,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.1915
+48,robot_room_first_trial,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.1875
+49,robot_room_first_trial,trial_x_0.37.mp4,0.3338,YOLO_ONLY,N/A,0,0.1837
+50,robot_room_first_trial,trial_x_0.37.mp4,0.3362,YOLO_ONLY,N/A,0,0.1800
+51,robot_room_first_trial,trial_x_0.37.mp4,0.3479,YOLO_ONLY,N/A,0,0.1765
+52,robot_room_first_trial,trial_x_0.37.mp4,0.5493,YOLO_ONLY,N/A,0,0.1731
+53,robot_room_first_trial,trial_x_0.37.mp4,0.3826,YOLO_ONLY,N/A,0,0.1698
+54,robot_room_first_trial,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.1667
+55,robot_room_first_trial,trial_x_0.37.mp4,0.3101,VLM_TRIGGERED,PENDING...,0,0.1636
+55,robot_room_first_trial,trial_x_0.37.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles and hazards in the room include the black blurry circle; which appears to be a representation of Age-Related Macular Degeneration; and the unclear edges of objects that could potentially cause tripping or injury. The floor is not clearly visible due to the blurriness; but it seems to have a smooth surface with no immediate obstructions in the visible area.,4404.1,0.1818
+56,robot_room_first_trial,trial_x_0.37.mp4,0.4647,YOLO_ONLY,N/A,0,0.1786
+57,robot_room_first_trial,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.1754
+58,robot_room_first_trial,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.1724
+59,robot_room_first_trial,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.1695
+60,robot_room_first_trial,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.1667
+61,robot_room_first_trial,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.1639
+62,robot_room_first_trial,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.1613
+63,robot_room_first_trial,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.1587
+64,robot_room_first_trial,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.1562
+65,robot_room_first_trial,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.1538
+66,robot_room_first_trial,trial_x_0.37.mp4,0.2836,VLM_TRIGGERED,PENDING...,0,0.1515
+66,robot_room_first_trial,trial_x_0.37.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a chair with a mesh backrest; which appears to be mounted on a wall or a stand. There are no visible obstacles or hazards in the immediate vicinity of the chair within the frame provided. The floor is not fully visible due to the angle and framing of the photograph; however; from what can be seen; there does not appear to be any tripping hazards or objects that would pose a risk for someone standing near the chair. It's important to note that the black blurry circle in the center is an artificial element added to the image and should not be considered as an actual obstacle or hazard.,5778.4,0.1667
+67,robot_room_first_trial,trial_x_0.37.mp4,0.3389,YOLO_ONLY,N/A,0,0.1642
+68,robot_room_first_trial,trial_x_0.37.mp4,0.3310,YOLO_ONLY,N/A,0,0.1618
+69,robot_room_first_trial,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.1594
+70,robot_room_first_trial,trial_x_0.37.mp4,0.3290,YOLO_ONLY,N/A,0,0.1571
+71,robot_room_first_trial,trial_x_0.37.mp4,0.3019,VLM_TRIGGERED,PENDING...,0,0.1549
+71,robot_room_first_trial,trial_x_0.37.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles and hazards in the room include the black chair with its armrests; which could pose a tripping hazard if not properly cleared from the walkway. Additionally; there is a small white object on the floor that appears to be a piece of paper or a cardboard box; which could also be a tripping hazard if it obstructs the path. The room's overall condition suggests a need for better organization and maintenance to prevent accidents.,4811.9,0.1690
+72,robot_room_first_trial,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.1667
+73,robot_room_first_trial,trial_x_0.37.mp4,0.3117,VLM_TRIGGERED,PENDING...,0,0.1644
+73,robot_room_first_trial,trial_x_0.37.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles and hazards in the room include the black blurry circle; which represents an Age-Related Macular Degeneration simulation; and the chair itself; which is positioned on a white surface with no visible obstructions or hazards. The floor appears to be clear except for the shadow of the chair; and there are no other discernible objects or hazards in the immediate vicinity of the chair.,4741.5,0.1781
+74,robot_room_first_trial,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.1757
+75,robot_room_first_trial,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.1733
+76,robot_room_first_trial,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.1711
+77,robot_room_first_trial,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.1688
+78,robot_room_first_trial,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.1667
+79,robot_room_first_trial,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.1646
+80,robot_room_first_trial,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.1625
+81,robot_room_first_trial,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.1605
+82,robot_room_first_trial,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.1585
+83,robot_room_first_trial,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.1566
+84,robot_room_first_trial,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.1548
+85,robot_room_first_trial,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.1529
+86,robot_room_first_trial,trial_x_0.37.mp4,0.2542,VLM_TRIGGERED,PENDING...,0,0.1512
+86,robot_room_first_trial,trial_x_0.37.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles and hazards in the room include the black blurry circle; which represents an Age-Related Macular Degeneration simulation; and the chair itself; which is positioned on a clear pathway. The chair appears to be stationary with no immediate signs of movement or potential tripping hazards. The floor seems to be smooth and unobstructed; aside from the chair's presence.,4597.9,0.1628
+87,robot_room_first_trial,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.1609
+88,robot_room_first_trial,trial_x_0.37.mp4,0.2860,VLM_TRIGGERED,PENDING...,0,0.1591
+88,robot_room_first_trial,trial_x_0.37.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a chair with a backrest; which appears to be mounted on a wall or a stand. The floor is not fully visible due to the angle and framing of the photograph; however; it seems to be a standard office or classroom setting. There are no immediate obstacles or hazards that can be identified in the clear areas of the image provided.,4365.2,0.1705
+89,robot_room_first_trial,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.1685
+90,robot_room_first_trial,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.1667
+91,robot_room_first_trial,trial_x_0.37.mp4,0.2621,VLM_TRIGGERED,PENDING...,0,0.1648
+91,robot_room_first_trial,trial_x_0.37.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles and hazards in the room include the black blurry circle; which represents an Age-Related Macular Degeneration simulation; and the chair itself; which is positioned on a white surface with no visible obstructions or hazards. The floor appears to be clear except for the shadow of the chair; and there are no other discernible objects or hazards in the immediate vicinity of the chair.,4717.3,0.1758
+92,robot_room_first_trial,trial_x_0.37.mp4,0.2530,VLM_TRIGGERED,PENDING...,0,0.1739
+92,robot_room_first_trial,trial_x_0.37.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacles and hazards in the room include the black blurry circle; which represents an Age-Related Macular Degeneration simulation; and the chair itself; which is positioned on a white surface with no visible obstructions or hazards. The floor appears to be clear except for the shadow of the chair; and there are no other discernible objects that pose immediate risks in the visible area of the image.,4642.3,0.1848
+93,robot_room_first_trial,trial_x_0.37.mp4,0.3581,YOLO_ONLY,N/A,0,0.1828
+94,robot_room_first_trial,trial_x_0.37.mp4,0.3578,YOLO_ONLY,N/A,0,0.1809
+95,robot_room_first_trial,trial_x_0.37.mp4,0.4002,YOLO_ONLY,N/A,0,0.1789
+96,robot_room_first_trial,trial_x_0.37.mp4,0.3307,YOLO_ONLY,N/A,0,0.1771
+97,robot_room_first_trial,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.1753
+98,robot_room_first_trial,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.1735
+99,robot_room_first_trial,trial_x_0.37.mp4,0.0000,YOLO_ONLY,N/A,0,0.1717

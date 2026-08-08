@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+
+# Virtual environments
+.venv/
+.venv*/
+venv/
+env/
+*/.venv*/
+*/venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*~
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets / local env
+.env
+.env.*
+*.pem
+
+# Incomplete / temp downloads
+*.part
+*.ytdl
+*.tmp
+*.log
+
+# Nested repos (tracked as normal folders)
+**/.git/
+
+# Large local caches (keep trained weights under models/ intentionally)
+*.onnx
+midas_model/

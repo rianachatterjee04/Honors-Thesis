@@ -1,0 +1,89 @@
+frame_idx,source_env,source_file,yolo_max_conf,detected_classes,status,vlm_response,latency_ms,usage_ratio
+1,custom,trial_x_0.615_raw.mp4,0.2603,tv,VLM_TRIGGERED,PENDING...,0,0.0000
+1,custom,trial_x_0.615_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image presents a room with a clear floor and a path leading towards a desk. The desk is cluttered with various items; including papers and a red object that could be a book or a container. The walls are painted in a muted green color; and there is a window with blinds partially drawn; allowing some light to filter into the room. The overall atmosphere of the room is dim and somewhat eerie; with the black blurry outer rim of the video simulating a camera defect simulating glaucoma. There are no immediate obstacles or hazards visible in the image; but the cluttered desk and the dim lighting could potentially pose a risk of tripping or falling.,6324.8,1.0000
+2,custom,trial_x_0.615_raw.mp4,0.4895,tv,VLM_TRIGGERED,PENDING...,0,0.5000
+2,custom,trial_x_0.615_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image does not provide a clear view of the floor or path due to the black blurry outer rim; which is a camera defect simulating glaucoma. Therefore; it is not possible to identify any obstacles or hazards in the room based on this image.,3911.1,1.0000
+3,custom,trial_x_0.615_raw.mp4,0.4650,tv,VLM_TRIGGERED,PENDING...,0,0.6667
+3,custom,trial_x_0.615_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image does not provide a clear view of the floor or path due to the black blurry outer rim; which is a camera defect simulating glaucoma. Therefore; it is not possible to identify any obstacles or hazards in the room based on this image.,3896.5,1.0000
+4,custom,trial_x_0.615_raw.mp4,0.4858,tv,VLM_TRIGGERED,PENDING...,0,0.7500
+4,custom,trial_x_0.615_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image does not provide a clear view of the floor or path due to the black blurry outer rim; which is a camera defect simulating glaucoma. Therefore; it is not possible to identify any obstacles or hazards in the room based on this image.,3898.6,1.0000
+5,custom,trial_x_0.615_raw.mp4,0.4996,tv,VLM_TRIGGERED,PENDING...,0,0.8000
+5,custom,trial_x_0.615_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image does not provide a clear view of the floor or path due to the black blurry outer rim; which is a camera defect simulating glaucoma. Therefore; it is not possible to identify any obstacles or hazards in the room based on this image.,3881.5,1.0000
+6,custom,trial_x_0.615_raw.mp4,0.5176,tv,YOLO_ONLY,N/A,0,0.8333
+7,custom,trial_x_0.615_raw.mp4,0.5154,tv,YOLO_ONLY,N/A,0,0.7143
+8,custom,trial_x_0.615_raw.mp4,0.4922,tv,VLM_TRIGGERED,PENDING...,0,0.6250
+8,custom,trial_x_0.615_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image does not provide a clear view of the floor or path due to the black blurry outer rim; which is a camera defect simulating glaucoma. Therefore; it is not possible to identify any obstacles or hazards in the room based on this image.,3948.6,0.7500
+9,custom,trial_x_0.615_raw.mp4,0.4698,tv,VLM_TRIGGERED,PENDING...,0,0.6667
+9,custom,trial_x_0.615_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image does not provide a clear view of the floor or path due to the black blurry outer rim; which is a camera defect simulating glaucoma. Therefore; it is not possible to identify any obstacles or hazards in the room based on this image.,3895.3,0.7778
+10,custom,trial_x_0.615_raw.mp4,0.4407,tv,VLM_TRIGGERED,PENDING...,0,0.7000
+10,custom,trial_x_0.615_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image does not provide a clear view of the floor or path due to the black blurry outer rim; which is a camera defect simulating glaucoma. Therefore; it is not possible to identify any obstacles or hazards in the room based on this image.,3898.7,0.8000
+11,custom,trial_x_0.615_raw.mp4,0.4491,tv,VLM_TRIGGERED,PENDING...,0,0.7273
+11,custom,trial_x_0.615_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image does not provide a clear view of the floor or path due to the black blurry outer rim; which is a camera defect simulating glaucoma. Therefore; it is not possible to identify any obstacles or hazards in the room based on this image.,3925.9,0.8182
+12,custom,trial_x_0.615_raw.mp4,0.4928,tv,VLM_TRIGGERED,PENDING...,0,0.7500
+12,custom,trial_x_0.615_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image does not provide a clear view of the floor or path due to the black blurry outer rim; which is a camera defect simulating glaucoma. Therefore; it is not possible to identify any obstacles or hazards in the room based on this image.,3905.4,0.8333
+13,custom,trial_x_0.615_raw.mp4,0.6081,tv,YOLO_ONLY,N/A,0,0.7692
+14,custom,trial_x_0.615_raw.mp4,0.6161,tv,YOLO_ONLY,N/A,0,0.7143
+15,custom,trial_x_0.615_raw.mp4,0.6100,tv,YOLO_ONLY,N/A,0,0.6667
+16,custom,trial_x_0.615_raw.mp4,0.6119,tv,YOLO_ONLY,N/A,0,0.6250
+17,custom,trial_x_0.615_raw.mp4,0.6270,tv,YOLO_ONLY,N/A,0,0.5882
+18,custom,trial_x_0.615_raw.mp4,0.6173,tv,YOLO_ONLY,N/A,0,0.5556
+19,custom,trial_x_0.615_raw.mp4,0.6358,tv,YOLO_ONLY,N/A,0,0.5263
+20,custom,trial_x_0.615_raw.mp4,0.6547,tv,YOLO_ONLY,N/A,0,0.5000
+21,custom,trial_x_0.615_raw.mp4,0.6635,tv,YOLO_ONLY,N/A,0,0.4762
+22,custom,trial_x_0.615_raw.mp4,0.6480,tv,YOLO_ONLY,N/A,0,0.4545
+23,custom,trial_x_0.615_raw.mp4,0.6585,tv,YOLO_ONLY,N/A,0,0.4348
+24,custom,trial_x_0.615_raw.mp4,0.6477,tv,YOLO_ONLY,N/A,0,0.4167
+25,custom,trial_x_0.615_raw.mp4,0.5539,tv,YOLO_ONLY,N/A,0,0.4000
+26,custom,trial_x_0.615_raw.mp4,0.5909,tv,YOLO_ONLY,N/A,0,0.3846
+27,custom,trial_x_0.615_raw.mp4,0.5903,tv,YOLO_ONLY,N/A,0,0.3704
+28,custom,trial_x_0.615_raw.mp4,0.6240,tv,YOLO_ONLY,N/A,0,0.3571
+29,custom,trial_x_0.615_raw.mp4,0.6182,tv,YOLO_ONLY,N/A,0,0.3448
+30,custom,trial_x_0.615_raw.mp4,0.6146,tv,YOLO_ONLY,N/A,0,0.3333
+31,custom,trial_x_0.615_raw.mp4,0.6273,tv,YOLO_ONLY,N/A,0,0.3226
+32,custom,trial_x_0.615_raw.mp4,0.6177,tv,YOLO_ONLY,N/A,0,0.3125
+33,custom,trial_x_0.615_raw.mp4,0.6190,tv,YOLO_ONLY,N/A,0,0.3030
+34,custom,trial_x_0.615_raw.mp4,0.6099,tv,YOLO_ONLY,N/A,0,0.2941
+35,custom,trial_x_0.615_raw.mp4,0.6146,tv,YOLO_ONLY,N/A,0,0.2857
+36,custom,trial_x_0.615_raw.mp4,0.6317,tv,YOLO_ONLY,N/A,0,0.2778
+37,custom,trial_x_0.615_raw.mp4,0.5645,tv,YOLO_ONLY,N/A,0,0.2703
+38,custom,trial_x_0.615_raw.mp4,0.5925,tv,YOLO_ONLY,N/A,0,0.2632
+39,custom,trial_x_0.615_raw.mp4,0.5999,tv,YOLO_ONLY,N/A,0,0.2564
+40,custom,trial_x_0.615_raw.mp4,0.5904,tv,YOLO_ONLY,N/A,0,0.2500
+41,custom,trial_x_0.615_raw.mp4,0.5839,tv,YOLO_ONLY,N/A,0,0.2439
+42,custom,trial_x_0.615_raw.mp4,0.6002,tv,YOLO_ONLY,N/A,0,0.2381
+43,custom,trial_x_0.615_raw.mp4,0.6035,tv,YOLO_ONLY,N/A,0,0.2326
+44,custom,trial_x_0.615_raw.mp4,0.5987,tv,YOLO_ONLY,N/A,0,0.2273
+45,custom,trial_x_0.615_raw.mp4,0.5972,tv,YOLO_ONLY,N/A,0,0.2222
+46,custom,trial_x_0.615_raw.mp4,0.5917,tv,YOLO_ONLY,N/A,0,0.2174
+47,custom,trial_x_0.615_raw.mp4,0.5634,tv,YOLO_ONLY,N/A,0,0.2128
+48,custom,trial_x_0.615_raw.mp4,0.5832,tv,YOLO_ONLY,N/A,0,0.2083
+49,custom,trial_x_0.615_raw.mp4,0.5343,tv,YOLO_ONLY,N/A,0,0.2041
+50,custom,trial_x_0.615_raw.mp4,0.5179,tv,YOLO_ONLY,N/A,0,0.2000
+51,custom,trial_x_0.615_raw.mp4,0.5220,tv,YOLO_ONLY,N/A,0,0.1961
+52,custom,trial_x_0.615_raw.mp4,0.5367,tv,YOLO_ONLY,N/A,0,0.1923
+53,custom,trial_x_0.615_raw.mp4,0.5100,tv,VLM_TRIGGERED,PENDING...,0,0.1887
+53,custom,trial_x_0.615_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image does not provide a clear view of the floor or path due to the black blurry outer rim; which is a camera defect simulating glaucoma. Therefore; it is not possible to identify any obstacles or hazards in the room based on this image.,3905.5,0.2075
+54,custom,trial_x_0.615_raw.mp4,0.5078,tv,VLM_TRIGGERED,PENDING...,0,0.2037
+54,custom,trial_x_0.615_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image does not provide a clear view of the floor or path due to the black blurry outer rim; which is a camera defect simulating glaucoma. Therefore; it is not possible to identify any obstacles or hazards in the room based on this image.,3907.2,0.2222
+55,custom,trial_x_0.615_raw.mp4,0.5197,tv,YOLO_ONLY,N/A,0,0.2182
+56,custom,trial_x_0.615_raw.mp4,0.5208,tv,YOLO_ONLY,N/A,0,0.2143
+57,custom,trial_x_0.615_raw.mp4,0.5120,tv,YOLO_ONLY,N/A,0,0.2105
+58,custom,trial_x_0.615_raw.mp4,0.5300,tv,YOLO_ONLY,N/A,0,0.2069
+59,custom,trial_x_0.615_raw.mp4,0.5129,tv,YOLO_ONLY,N/A,0,0.2034
+60,custom,trial_x_0.615_raw.mp4,0.5419,tv,YOLO_ONLY,N/A,0,0.2000
+61,custom,trial_x_0.615_raw.mp4,0.5439,tv,YOLO_ONLY,N/A,0,0.1967
+62,custom,trial_x_0.615_raw.mp4,0.5537,tv,YOLO_ONLY,N/A,0,0.1935
+63,custom,trial_x_0.615_raw.mp4,0.4727,tv,VLM_TRIGGERED,PENDING...,0,0.1905
+63,custom,trial_x_0.615_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image does not provide a clear view of the floor or path due to the black blurry outer rim; which is a camera defect simulating glaucoma. Therefore; it is not possible to identify any obstacles or hazards in the room based on this image.,3909.9,0.2063
+64,custom,trial_x_0.615_raw.mp4,0.4668,tv,VLM_TRIGGERED,PENDING...,0,0.2031
+64,custom,trial_x_0.615_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image does not provide a clear view of the floor or path due to the black blurry outer rim; which is a camera defect simulating glaucoma. Therefore; it is not possible to identify any obstacles or hazards in the room based on this image.,3891.1,0.2188
+65,custom,trial_x_0.615_raw.mp4,0.4794,tv,VLM_TRIGGERED,PENDING...,0,0.2154
+65,custom,trial_x_0.615_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image does not provide a clear view of the floor or path due to the black blurry outer rim; which is a camera defect simulating glaucoma. Therefore; it is not possible to identify any obstacles or hazards in the room based on this image.,3931.3,0.2308
+66,custom,trial_x_0.615_raw.mp4,0.4810,tv,VLM_TRIGGERED,PENDING...,0,0.2273
+66,custom,trial_x_0.615_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image does not provide a clear view of the floor or path due to the black blurry outer rim; which is a camera defect simulating glaucoma. Therefore; it is not possible to identify any obstacles or hazards in the room based on this image.,3899.3,0.2424
+67,custom,trial_x_0.615_raw.mp4,0.5022,tv,VLM_TRIGGERED,PENDING...,0,0.2388
+67,custom,trial_x_0.615_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image does not provide a clear view of the floor or path due to the black blurry outer rim; which is a camera defect simulating glaucoma. Therefore; it is not possible to identify any obstacles or hazards in the room based on this image.,3900.9,0.2537
+68,custom,trial_x_0.615_raw.mp4,0.4982,tv,VLM_TRIGGERED,PENDING...,0,0.2500
+68,custom,trial_x_0.615_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image does not provide a clear view of the floor or path due to the black blurry outer rim; which is a camera defect simulating glaucoma. Therefore; it is not possible to identify any obstacles or hazards in the room based on this image.,3897.8,0.2647
+69,custom,trial_x_0.615_raw.mp4,0.4977,tv,VLM_TRIGGERED,PENDING...,0,0.2609
+69,custom,trial_x_0.615_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image does not provide a clear view of the floor or path due to the black blurry outer rim; which is a camera defect simulating glaucoma. Therefore; it is not possible to identify any obstacles or hazards in the room based on this image.,3904.4,0.2754

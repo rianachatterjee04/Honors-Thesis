@@ -1,0 +1,1 @@
+frame_idx,source_env,source_file,moondream_detections,detected_classes,pseudo_conf,status,vlm_response,latency_ms,usage_ratio

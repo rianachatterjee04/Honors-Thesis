@@ -1,0 +1,121 @@
+frame_idx,source_env,source_file,yolo_max_conf,status,vlm_response,latency_ms,usage_ratio
+1,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.0000
+2,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.0000
+3,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.0000
+4,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.0000
+5,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.0000
+6,hallway,trial_x_0.485.mp4,0.2846,VLM_TRIGGERED,PENDING...,0,0.0000
+6,hallway,trial_x_0.485.mp4,N/A,VLM_RESPONSE_RECEIVED,The primary obstacle in the room is the orange traffic cone; which stands out due to its bright color against the muted tones of the carpet. This cone could be a safety measure or a marker for an area that requires attention or caution. The floor itself appears to be made of a textured material with a pattern that suggests it is designed for durability and easy cleaning; typical of commercial or industrial settings. There are no other visible hazards such as tripping obstacles or sharp edges in the immediate vicinity of the cone. However; without additional context or a wider view of the room; it's not possible to determine if there are any other potential hazards outside the frame of this image.,6263.0,0.1667
+7,hallway,trial_x_0.485.mp4,0.2804,VLM_TRIGGERED,PENDING...,0,0.1429
+7,hallway,trial_x_0.485.mp4,N/A,VLM_RESPONSE_RECEIVED,The primary obstacle in the room is the orange traffic cone; which stands out due to its bright color against the muted tones of the carpet. This cone could be a safety measure or a marker for an area that requires attention or caution. The floor itself appears to be made of carpeting with a pattern that includes various shades of blue and gray; providing a contrasting backdrop to the orange cone. There are no other visible hazards such as tripping obstacles or sharp edges in the immediate vicinity of the cone. The focus should remain on the clear areas of the image; which include the carpeted floor and the path leading towards the doorway.,6133.4,0.2857
+8,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.2500
+9,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.2222
+10,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.2000
+11,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.1818
+12,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.1667
+13,hallway,trial_x_0.485.mp4,0.2697,VLM_TRIGGERED,PENDING...,0,0.1538
+13,hallway,trial_x_0.485.mp4,N/A,VLM_RESPONSE_RECEIVED,The clear area of the image shows a section of an office or institutional building's floor; characterized by its patterned carpet with blue and gray tones. The flooring appears to be in good condition without any visible damage or debris. There is no immediate sign of hazards such as tripping hazards or obstructions that are immediately apparent from this angle. However; the black blurry circle in the center could potentially represent a shadow or an object partially obscured by another element not fully captured in the image. Without additional context or a wider view; it is difficult to determine what exactly this black area represents. It does not seem to be a hazardous object like a fire hydrant or a tripping hazard such as a crack or debris on the floor.,6458.3,0.2308
+14,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.2143
+15,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.2000
+16,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.1875
+17,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.1765
+18,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.1667
+19,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.1579
+20,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.1500
+21,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.1429
+22,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.1364
+23,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.1304
+24,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.1250
+25,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.1200
+26,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.1154
+27,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.1111
+28,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.1071
+29,hallway,trial_x_0.485.mp4,0.3061,VLM_TRIGGERED,PENDING...,0,0.1034
+29,hallway,trial_x_0.485.mp4,N/A,VLM_RESPONSE_RECEIVED,The primary obstacle in the room is the orange traffic cone; which stands out due to its bright color against the muted tones of the carpet. This cone could be a safety measure or a marker for an area that requires attention or caution. The floor itself appears to be made of a textured material with a pattern that suggests it is designed for durability and easy cleaning; typical of commercial or industrial settings. There are no other visible hazards such as tripping obstacles or sharp edges in the immediate vicinity of the cone. However; without additional context or a wider view of the room; it's not possible to determine if there are any other potential hazards outside the frame of this image.,6088.6,0.1379
+30,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.1333
+31,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.1290
+32,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.1250
+33,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.1212
+34,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.1176
+35,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.1143
+36,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.1111
+37,hallway,trial_x_0.485.mp4,0.2694,VLM_TRIGGERED,PENDING...,0,0.1081
+37,hallway,trial_x_0.485.mp4,N/A,VLM_RESPONSE_RECEIVED,The obstacle in the room is an orange traffic cone; which is positioned upright on the carpeted floor. The cone's bright color contrasts with the darker tones of the carpet; making it easily identifiable as a hazard or obstruction. There are no other visible objects that would pose a risk in this particular frame of the image.,4271.0,0.1351
+38,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.1316
+39,hallway,trial_x_0.485.mp4,0.2616,VLM_TRIGGERED,PENDING...,0,0.1282
+39,hallway,trial_x_0.485.mp4,N/A,VLM_RESPONSE_RECEIVED,The clear area of the image shows a section of an office or institutional building's floor; characterized by its patterned carpet with a blue and gray color scheme. The flooring appears to be in good condition without any visible damage or debris. There is no immediate sign of hazards such as tripping hazards or obstructions that are immediately apparent from this angle. However; the black blurry circle in the center could potentially represent a shadow or an object partially obscured by another element not fully captured in the image. Without additional context or a wider view; it is difficult to determine what exactly this circle represents. It may be a reflection of light on the floor; a shadow cast by an unseen object; or even part of a digital overlay for illustrative purposes.,6298.3,0.1538
+40,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.1500
+41,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.1463
+42,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.1429
+43,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.1395
+44,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.1364
+45,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.1333
+46,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.1304
+47,hallway,trial_x_0.485.mp4,0.2537,VLM_TRIGGERED,PENDING...,0,0.1277
+47,hallway,trial_x_0.485.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows an orange traffic cone placed on a blue carpeted floor; which is a common safety measure used in construction zones or areas where there are hazards that require caution. The cone's position suggests it may be marking off a restricted area or warning of potential danger ahead. There are no other visible obstacles or hazards within the frame of the image. The focus should remain on the clear areas; which include the carpeted floor and the path leading to the doorway in the background.,5047.1,0.1489
+48,hallway,trial_x_0.485.mp4,0.2947,VLM_TRIGGERED,PENDING...,0,0.1458
+48,hallway,trial_x_0.485.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows an orange traffic cone placed on a carpeted floor; which is a common safety measure used to indicate that there may be construction or hazardous conditions ahead. The cone's position suggests it is meant to alert individuals to proceed with caution. There are no other visible obstacles or hazards in the immediate vicinity of the cone; however; the dark area at the center of the floor could potentially be a shadow or an object that is not immediately discernible due to the lighting conditions and the angle of the photograph. It's important to note that while this image does not show any physical obstacles like furniture or debris; the presence of the cone implies there may be something out of view that requires attention.,6247.7,0.1667
+49,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.1633
+50,hallway,trial_x_0.485.mp4,0.2808,VLM_TRIGGERED,PENDING...,0,0.1600
+50,hallway,trial_x_0.485.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows an orange traffic cone placed on a carpeted floor; which is a common safety measure used to indicate that there may be construction or maintenance work ahead. The cone's bright color stands out against the darker tones of the carpet; making it easily noticeable. There are no other visible obstacles or hazards in the immediate vicinity of the cone; however; the floor itself is a potential hazard due to its texture and pattern; which could pose a tripping risk if not properly maintained. The absence of any people or moving objects suggests that the area is currently unoccupied and safe for walking.,5726.6,0.1800
+51,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.1765
+52,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.1731
+53,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.1698
+54,hallway,trial_x_0.485.mp4,0.2770,VLM_TRIGGERED,PENDING...,0,0.1667
+54,hallway,trial_x_0.485.mp4,N/A,VLM_RESPONSE_RECEIVED,The primary obstacle in the room is the orange traffic cone; which stands out due to its bright color against the muted tones of the carpet. This cone could be a safety measure or a marker for an area that requires attention or caution. The floor itself appears to be made of a textured material with a pattern that suggests it is designed for durability and easy cleaning; typical of commercial or industrial settings. There are no other visible hazards such as tripping obstacles or sharp edges in the immediate vicinity of the cone. However; without additional context or a wider view of the room; it's not possible to determine if there are any other potential hazards outside the frame of this image.,6143.9,0.1852
+55,hallway,trial_x_0.485.mp4,0.3453,VLM_TRIGGERED,PENDING...,0,0.1818
+55,hallway,trial_x_0.485.mp4,N/A,VLM_RESPONSE_RECEIVED,The primary obstacle in the room is the orange traffic cone; which stands out due to its bright color against the muted tones of the carpet. This cone could be a safety measure or a marker for an area that requires attention or caution. The floor itself appears to be made of a textured material with a pattern that suggests it is designed for durability and easy cleaning; typical of commercial or industrial settings. There are no other visible hazards such as tripping obstacles or sharp edges in the immediate vicinity of the cone. However; without additional context or a wider view of the room; it's not possible to determine if there are any other potential hazards outside the frame of this image.,6130.6,0.2000
+56,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.1964
+57,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.1930
+58,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.1897
+59,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.1864
+60,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.1833
+61,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.1803
+62,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.1774
+63,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.1746
+64,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.1719
+65,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.1692
+66,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.1667
+67,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.1642
+68,hallway,trial_x_0.485.mp4,0.3327,VLM_TRIGGERED,PENDING...,0,0.1618
+68,hallway,trial_x_0.485.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows an office environment with a focus on the flooring area. There are no immediate obstacles or hazards visible in the clear areas of the image. The floor is covered with a patterned carpet that appears to be in good condition; without any visible signs of wear or damage. The path leading to the doorway is clear and unobstructed; suggesting that there are no tripping hazards or obstructions along this route. The only item of interest on the floor is an orange traffic cone; which is placed upright and does not appear to be a hazard in itself. It's important to note that while the image shows a clear area; it's crucial to consider all potential hazards when assessing safety in any environment; including those with obscured or hidden elements.,6465.8,0.1765
+69,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.1739
+70,hallway,trial_x_0.485.mp4,0.3246,VLM_TRIGGERED,PENDING...,0,0.1714
+70,hallway,trial_x_0.485.mp4,N/A,VLM_RESPONSE_RECEIVED,The clear area of the image shows a section of an office or institutional building's floor; characterized by its blue carpeting with a pattern that suggests a standard office environment. The flooring appears to be in good condition without any visible damage or debris. There is no immediate sign of hazards such as tripping hazards or obstructions like the black blurry circle mentioned. However; it's important to note that the black blurry circle is not a real object but rather an artistic representation or a simulation effect applied to the image. It does not represent any physical obstacle or hazard in the actual room.,5578.8,0.1857
+71,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.1831
+72,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.1806
+73,hallway,trial_x_0.485.mp4,0.2741,VLM_TRIGGERED,PENDING...,0,0.1781
+73,hallway,trial_x_0.485.mp4,N/A,VLM_RESPONSE_RECEIVED,The primary obstacle in the room is the orange traffic cone; which stands out due to its bright color against the muted tones of the carpet. This cone could be a safety measure or a marker for an area that requires attention or caution. The floor itself appears to be made of a textured material with a pattern that suggests it is designed for durability and easy cleaning; typical of commercial or public spaces. There are no other visible hazards such as tripping obstacles or sharp edges in the immediate vicinity of the cone. However; without additional context or a wider view of the room; it's not possible to determine if there are any other potential hazards outside the frame of this image.,6475.9,0.1918
+74,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.1892
+75,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.1867
+76,hallway,trial_x_0.485.mp4,0.2755,VLM_TRIGGERED,PENDING...,0,0.1842
+76,hallway,trial_x_0.485.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows an office environment with a focus on the flooring area. There are no immediate obstacles or hazards visible in the clear sections of the image. The floor is covered with a patterned carpet that appears to be in good condition; without any visible signs of wear or damage. The path leading to the doorway is clear and unobstructed; suggesting that there are no tripping hazards or obstructions along this route. The only item of interest on the floor is an orange traffic cone; which is placed upright and does not appear to be a hazard in itself. It's important to note that while the image shows a clear area; it's crucial to consider all potential hazards when assessing safety in any environment; including those with obscured or hidden elements.,6573.6,0.1974
+77,hallway,trial_x_0.485.mp4,0.2767,VLM_TRIGGERED,PENDING...,0,0.1948
+77,hallway,trial_x_0.485.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows an orange traffic cone placed on a carpeted floor; which is a common safety measure used to indicate that there may be construction or maintenance work ahead. The cone's bright color stands out against the blue-gray pattern of the carpet; making it easily noticeable. There are no other visible obstacles or hazards in the immediate vicinity of the cone; however; the dark area at the center of the image could be a shadow cast by an object or a reflection on the floor; which is not clearly identifiable due to its darkness and lack of context. The rest of the room appears to be clear except for the carpet's pattern and the cone itself.,5965.5,0.2078
+78,hallway,trial_x_0.485.mp4,0.2650,VLM_TRIGGERED,PENDING...,0,0.2051
+78,hallway,trial_x_0.485.mp4,N/A,VLM_RESPONSE_RECEIVED,The primary obstacle in the room is the orange traffic cone; which stands out due to its bright color against the muted tones of the carpet. This cone could be a safety measure or a marker for an area that requires attention or caution. The floor itself appears to be made of a textured material with a pattern that suggests it is designed for durability and easy cleaning; typical of commercial or industrial settings. There are no other visible hazards such as tripping obstacles or sharp edges in the immediate vicinity of the cone. However; without additional context or a wider view of the room; it's not possible to determine if there are any other potential hazards outside the frame of this image.,6096.9,0.2179
+79,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.2152
+80,hallway,trial_x_0.485.mp4,0.2696,VLM_TRIGGERED,PENDING...,0,0.2125
+80,hallway,trial_x_0.485.mp4,N/A,VLM_RESPONSE_RECEIVED,The primary obstacle in the room is the orange traffic cone; which stands out due to its bright color against the muted tones of the carpet. This cone could be a safety measure or a marker for an area that requires attention or caution. The floor itself appears to be made of a textured material with a pattern that suggests it is designed for durability and easy cleaning; typical of commercial or public spaces. There are no other visible hazards such as tripping obstacles or sharp edges in the immediate vicinity of the cone. However; without additional context or a wider view of the room; it's not possible to determine if there are any other potential hazards outside the frame of this image.,6043.2,0.2250
+81,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.2222
+82,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.2195
+83,hallway,trial_x_0.485.mp4,0.2558,VLM_TRIGGERED,PENDING...,0,0.2169
+83,hallway,trial_x_0.485.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows an orange traffic cone placed on a carpeted floor; which is a common safety measure used to indicate that there may be construction or hazardous conditions ahead. The cone's bright color stands out against the muted tones of the carpet; making it easily noticeable. There are no other visible obstacles or hazards in the immediate vicinity of the cone; however; the dark area at the center could be a shadow cast by an object or a reflection on the floor; which is not clearly identifiable due to the blurriness and lack of context. The rest of the image does not provide enough detail to identify any other specific hazards or obstacles in the room.,6080.5,0.2289
+84,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.2262
+85,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.2235
+86,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.2209
+87,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.2184
+88,hallway,trial_x_0.485.mp4,0.4679,YOLO_ONLY,N/A,0,0.2159
+89,hallway,trial_x_0.485.mp4,0.3019,VLM_TRIGGERED,PENDING...,0,0.2135
+89,hallway,trial_x_0.485.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows an orange traffic cone placed on a carpeted floor; which is a common safety measure used to indicate that there may be construction or hazardous conditions ahead. The cone's positioning suggests it is meant to alert individuals in the vicinity of potential dangers. There are no other visible obstacles or hazards within the frame of the image. The floor appears to be a standard carpeted area; and there are no signs of damage or debris that would indicate recent accidents or spills. The path leading up to the cone is clear; with no tripping hazards in sight. Overall; the room seems to be well-maintained and free from immediate obstructions or hazards.,6123.0,0.2247
+90,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.2222
+91,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.2198
+92,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.2174
+93,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.2151
+94,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.2128
+95,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.2105
+96,hallway,trial_x_0.485.mp4,0.3364,VLM_TRIGGERED,PENDING...,0,0.2083
+96,hallway,trial_x_0.485.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows an orange traffic cone placed on a carpeted floor; which is a common safety measure used to indicate that there may be construction or hazardous conditions ahead. The cone's bright color stands out against the muted tones of the carpet; making it easily noticeable. There are no other visible obstacles or hazards in the immediate vicinity of the cone; however; the dark area at the center of the image could be a shadow cast by an object or a reflection on the floor; which is not clearly identifiable due to the blurriness and lack of context. The rest of the floor appears to be in good condition with no visible damage or debris.,6079.4,0.2188
+97,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.2165
+98,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.2143
+99,hallway,trial_x_0.485.mp4,0.0000,YOLO_ONLY,N/A,0,0.2121

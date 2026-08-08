@@ -1,0 +1,99 @@
+frame_idx,source_env,source_file,yolo_max_conf,detected_classes,status,vlm_response,latency_ms,usage_ratio
+1,DR,trial_x_0.295.mp4,0.2984,giraffe,VLM_TRIGGERED,PENDING...,0,0.0000
+1,DR,trial_x_0.295.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards. It appears to be a corrupted or distorted image; possibly due to a camera defect simulating Glaucoma; which is not a real hazard but a visual effect. Therefore; I cannot provide a description of the actual floor and path in this image.,4255.7,1.0000
+2,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.5000
+3,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.3333
+4,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2500
+5,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2000
+6,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1667
+7,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1429
+8,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1250
+9,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1111
+10,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1000
+11,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0909
+12,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0833
+13,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0769
+14,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0714
+15,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0667
+16,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0625
+17,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0588
+18,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0556
+19,DR,trial_x_0.295.mp4,0.3251,person,VLM_TRIGGERED,PENDING...,0,0.0526
+19,DR,trial_x_0.295.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards. It appears to be a room with a figure in the center; but due to the low resolution and the darkness; it is not possible to provide a detailed description of the floor or path.,3830.7,0.1053
+20,DR,trial_x_0.295.mp4,0.4181,person,YOLO_ONLY,N/A,0,0.1000
+21,DR,trial_x_0.295.mp4,0.2502,person,VLM_TRIGGERED,PENDING...,0,0.0952
+21,DR,trial_x_0.295.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards. It appears to be a low-resolution or corrupted image; possibly due to a camera defect simulating Glaucoma; which is not a real condition but a visual effect. Therefore; I cannot provide a description of the actual floor and path in this image.,4179.3,0.1429
+22,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1364
+23,DR,trial_x_0.295.mp4,0.3328,person;tie,VLM_TRIGGERED,PENDING...,0,0.1304
+23,DR,trial_x_0.295.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards. It appears to be a room with a robotic figure; but due to the poor lighting and lack of visible details; it is not possible to provide a description of the floor or path.,3826.9,0.1739
+24,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1667
+25,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1600
+26,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1538
+27,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1481
+28,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1429
+29,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1379
+30,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1333
+31,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1290
+32,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1250
+33,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1212
+34,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1176
+35,DR,trial_x_0.295.mp4,0.3462,chair,VLM_TRIGGERED,PENDING...,0,0.1143
+35,DR,trial_x_0.295.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards. It appears to be a low-resolution or corrupted image; possibly due to a camera defect simulating Glaucoma; which is not a real condition but a visual effect. Therefore; I cannot provide a description of the actual floor and path in this image.,4268.2,0.1429
+36,DR,trial_x_0.295.mp4,0.3089,chair,VLM_TRIGGERED,PENDING...,0,0.1389
+36,DR,trial_x_0.295.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards. It appears to be a low-resolution photograph with a purple overlay; which obscures any details that might be present. To accurately describe the floor and path; a clearer image would be required.,3986.2,0.1667
+37,DR,trial_x_0.295.mp4,0.3518,cat;chair,VLM_TRIGGERED,PENDING...,0,0.1622
+37,DR,trial_x_0.295.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards. It appears to be a room with a dark edge; possibly a camera defect simulating Glaucoma; and the rest of the image is too dark to provide a description.,3813.2,0.1892
+38,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1842
+39,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1795
+40,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1750
+41,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1707
+42,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1667
+43,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1628
+44,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1591
+45,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1556
+46,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1522
+47,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1489
+48,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1458
+49,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1429
+50,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1400
+51,DR,trial_x_0.295.mp4,0.3571,oven,VLM_TRIGGERED,PENDING...,0,0.1373
+51,DR,trial_x_0.295.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards. It appears to be a corrupted or defective image; possibly due to a camera defect simulating Glaucoma; which is not a real condition but a visual effect. Therefore; I cannot provide a description of the actual floor and path in this image.,4158.0,0.1569
+52,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1538
+53,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1509
+54,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1481
+55,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1455
+56,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1429
+57,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1404
+58,DR,trial_x_0.295.mp4,0.2645,dog,VLM_TRIGGERED,PENDING...,0,0.1379
+58,DR,trial_x_0.295.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards. It appears to be a camera defect simulating Glaucoma; which is not a real-world condition. Therefore; I cannot provide a description of the actual floor and path.,3786.9,0.1552
+59,DR,trial_x_0.295.mp4,0.3310,dog;cat,VLM_TRIGGERED,PENDING...,0,0.1525
+59,DR,trial_x_0.295.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards. It appears to be a blurry photograph; possibly taken in low light conditions or with a camera defect simulating Glaucoma; which is not a real hazard but a visual effect. Therefore; I cannot provide a description of the actual floor and path in this image.,4384.7,0.1695
+60,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1667
+61,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1639
+62,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1613
+63,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1587
+64,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1562
+65,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1538
+66,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1515
+67,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1493
+68,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1471
+69,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1449
+70,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1429
+71,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1408
+72,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1389
+73,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1370
+74,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1351
+75,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1333
+76,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1316
+77,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1299
+78,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1282
+79,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1266
+80,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1250
+81,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1235
+82,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1220
+83,DR,trial_x_0.295.mp4,0.2949,cat,VLM_TRIGGERED,PENDING...,0,0.1205
+83,DR,trial_x_0.295.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards. It appears to be a camera defect simulating Glaucoma; which is a serious eye condition. Therefore; I cannot provide a description of the actual floor and path.,3783.2,0.1325
+84,DR,trial_x_0.295.mp4,0.3753,cat,YOLO_ONLY,N/A,0,0.1310
+85,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1294
+86,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1279
+87,DR,trial_x_0.295.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.1264

@@ -1,0 +1,314 @@
+frame_idx,source_env,source_file,yolo_max_conf,detected_classes,status,vlm_response,latency_ms,usage_ratio
+1,custom,trial_x_0.3_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.0000
+2,custom,trial_x_0.3_raw.mp4,0.4603,airplane,VLM_TRIGGERED,PENDING...,0,0.0000
+2,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear; unobstructed floor with a smooth texture; and there are no visible hazards or obstacles in the room. The floor appears to be made of a material with a reflective surface; possibly polished concrete or a similar material. The path leading to the center of the image is clear and uninterrupted; suggesting that the room is well-maintained and free from any obstructions.,5056.5,0.5000
+3,custom,trial_x_0.3_raw.mp4,0.5058,airplane,YOLO_ONLY,N/A,0,0.3333
+4,custom,trial_x_0.3_raw.mp4,0.4959,airplane,VLM_TRIGGERED,PENDING...,0,0.2500
+4,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear; unobstructed floor with no visible hazards or obstacles. The floor appears to be smooth and even; with no cracks; holes; or debris. The path leading to the center of the image is clear and uninterrupted; suggesting that there are no obstacles or hazards in the immediate vicinity of the camera's viewpoint.,4474.3,0.5000
+5,custom,trial_x_0.3_raw.mp4,0.5023,airplane,YOLO_ONLY,N/A,0,0.4000
+6,custom,trial_x_0.3_raw.mp4,0.5637,airplane,YOLO_ONLY,N/A,0,0.3333
+7,custom,trial_x_0.3_raw.mp4,0.5625,airplane,YOLO_ONLY,N/A,0,0.2857
+8,custom,trial_x_0.3_raw.mp4,0.5625,airplane,YOLO_ONLY,N/A,0,0.2500
+9,custom,trial_x_0.3_raw.mp4,0.5622,airplane,YOLO_ONLY,N/A,0,0.2222
+10,custom,trial_x_0.3_raw.mp4,0.5735,airplane,YOLO_ONLY,N/A,0,0.2000
+11,custom,trial_x_0.3_raw.mp4,0.5533,airplane,YOLO_ONLY,N/A,0,0.1818
+12,custom,trial_x_0.3_raw.mp4,0.5787,airplane,YOLO_ONLY,N/A,0,0.1667
+13,custom,trial_x_0.3_raw.mp4,0.5059,airplane,YOLO_ONLY,N/A,0,0.1538
+14,custom,trial_x_0.3_raw.mp4,0.3831,airplane,VLM_TRIGGERED,PENDING...,0,0.1429
+14,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear; unobstructed floor with a smooth texture; and there are no visible hazards or obstacles in the room. The floor appears to be well-maintained and free from any debris or tripping hazards. The lighting in the room is even; and there are no signs of damage or wear on the floor.,4315.5,0.2143
+15,custom,trial_x_0.3_raw.mp4,0.3779,airplane,VLM_TRIGGERED,PENDING...,0,0.2000
+15,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear; unobstructed floor with a smooth texture; and there are no visible hazards or obstacles in the room. The floor appears to be well-maintained and free from any debris or tripping hazards. The lighting in the room is even; and there are no signs of damage or wear on the floor.,4425.3,0.2667
+16,custom,trial_x_0.3_raw.mp4,0.4493,airplane,VLM_TRIGGERED,PENDING...,0,0.2500
+16,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear floor with a single; bright spot in the center; which could be a light source or a reflection. There are no visible obstacles or hazards in the room; as the focus is solely on the clear areas of the image. The black blurry outer rim of the video is a camera defect simulating Retinitis Pigmentosa; and it should be ignored for the purpose of describing the actual floor and path.,4855.9,0.3125
+17,custom,trial_x_0.3_raw.mp4,0.4614,airplane,VLM_TRIGGERED,PENDING...,0,0.2941
+17,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear; unobstructed floor with a smooth texture; and there are no visible hazards or obstacles in the room. The floor appears to be well-maintained and free from any debris or tripping hazards. The lighting in the room is even; and there are no signs of damage or wear on the floor.,4338.9,0.3529
+18,custom,trial_x_0.3_raw.mp4,0.4307,airplane,VLM_TRIGGERED,PENDING...,0,0.3333
+18,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear; unobstructed floor with a smooth texture; and there are no visible hazards or obstacles in the room. The floor appears to be made of a material with a reflective surface; possibly polished concrete or a similar material. The path leading to the center of the image is clear and uninterrupted; suggesting that the room is well-maintained and free from any obstructions.,4555.4,0.3889
+19,custom,trial_x_0.3_raw.mp4,0.4703,airplane,VLM_TRIGGERED,PENDING...,0,0.3684
+19,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear; unobstructed floor with a smooth texture; and there are no visible hazards or obstacles in the room. The floor appears to be made of a material with a reflective surface; possibly polished concrete or a similar material. The path leading to the center of the image is clear and uninterrupted; suggesting that the room is well-maintained and free from any obstructions.,4561.0,0.4211
+20,custom,trial_x_0.3_raw.mp4,0.4737,airplane,VLM_TRIGGERED,PENDING...,0,0.4000
+20,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear; unobstructed floor with a smooth texture; and there are no visible hazards or obstacles in the room. The floor appears to be made of a material with a reflective surface; possibly polished concrete or a similar material. The path leading to the center of the image is clear and uninterrupted; suggesting that the room is well-maintained and free from any obstructions.,4559.2,0.4500
+21,custom,trial_x_0.3_raw.mp4,0.4648,airplane,VLM_TRIGGERED,PENDING...,0,0.4286
+21,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear; unobstructed floor with a smooth texture; and there are no visible hazards or obstacles in the room. The floor appears to be well-maintained and free from any debris or tripping hazards. The lighting in the room is even; and there are no signs of damage or wear on the floor.,4329.3,0.4762
+22,custom,trial_x_0.3_raw.mp4,0.4932,airplane,VLM_TRIGGERED,PENDING...,0,0.4545
+22,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear; unobstructed floor with a smooth texture; and there are no visible hazards or obstacles in the room. The floor appears to be well-maintained and free from any debris or tripping hazards. The lighting in the room is even; and there are no signs of damage or wear on the floor.,4326.7,0.5000
+23,custom,trial_x_0.3_raw.mp4,0.5513,airplane,YOLO_ONLY,N/A,0,0.4783
+24,custom,trial_x_0.3_raw.mp4,0.5497,airplane,YOLO_ONLY,N/A,0,0.4583
+25,custom,trial_x_0.3_raw.mp4,0.6172,airplane,YOLO_ONLY,N/A,0,0.4400
+26,custom,trial_x_0.3_raw.mp4,0.6152,airplane,YOLO_ONLY,N/A,0,0.4231
+27,custom,trial_x_0.3_raw.mp4,0.5951,airplane,YOLO_ONLY,N/A,0,0.4074
+28,custom,trial_x_0.3_raw.mp4,0.5756,airplane,YOLO_ONLY,N/A,0,0.3929
+29,custom,trial_x_0.3_raw.mp4,0.5844,airplane,YOLO_ONLY,N/A,0,0.3793
+30,custom,trial_x_0.3_raw.mp4,0.5624,airplane,YOLO_ONLY,N/A,0,0.3667
+31,custom,trial_x_0.3_raw.mp4,0.5502,airplane,YOLO_ONLY,N/A,0,0.3548
+32,custom,trial_x_0.3_raw.mp4,0.3090,airplane,VLM_TRIGGERED,PENDING...,0,0.3438
+32,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear; unobstructed floor with no visible hazards or obstacles. The floor appears to be smooth and even; with no cracks; holes; or debris. The path leading to the center of the image is clear and uninterrupted; suggesting that there are no obstacles or hazards in the immediate vicinity of the camera's viewpoint.,4441.3,0.3750
+33,custom,trial_x_0.3_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.3636
+34,custom,trial_x_0.3_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.3529
+35,custom,trial_x_0.3_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.3429
+36,custom,trial_x_0.3_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.3333
+37,custom,trial_x_0.3_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.3243
+38,custom,trial_x_0.3_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.3158
+39,custom,trial_x_0.3_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.3077
+40,custom,trial_x_0.3_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.3000
+41,custom,trial_x_0.3_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2927
+42,custom,trial_x_0.3_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2857
+43,custom,trial_x_0.3_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.2791
+44,custom,trial_x_0.3_raw.mp4,0.4797,airplane,VLM_TRIGGERED,PENDING...,0,0.2727
+44,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear floor with a smooth texture; and there are no visible obstacles or hazards. The room appears to be well-lit; with no apparent dark spots or areas of low visibility. The focus is solely on the clear areas of the image; and the black blurry outer rim is a camera defect simulating Retinitis Pigmentosa; which should be ignored for the purpose of describing the actual floor and path.,5266.4,0.2955
+45,custom,trial_x_0.3_raw.mp4,0.4651,airplane,VLM_TRIGGERED,PENDING...,0,0.2889
+45,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear floor with a single; bright spot in the center; which could be a light source or a reflection. There are no visible obstacles or hazards in the room; as the focus is solely on the clear areas of the image. The black blurry outer rim of the video is a camera defect simulating Retinitis Pigmentosa; and it should be ignored for the purpose of describing the actual floor and path.,5566.9,0.3111
+46,custom,trial_x_0.3_raw.mp4,0.3794,airplane,VLM_TRIGGERED,PENDING...,0,0.3043
+46,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear; unobstructed floor with a smooth texture; and there are no visible hazards or obstacles in the room. The floor appears to be made of a material with a reflective surface; possibly polished concrete or a similar material. The path leading to the center of the image is clear and uninterrupted; suggesting that the room is well-maintained and free from any obstructions.,5064.9,0.3261
+47,custom,trial_x_0.3_raw.mp4,0.3308,airplane,VLM_TRIGGERED,PENDING...,0,0.3191
+47,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear floor with a single; bright spot in the center; which could be a light source or a reflection. There are no visible obstacles or hazards in the room; as the focus is solely on the clear areas of the image. The black blurry outer rim of the video is a camera defect simulating Retinitis Pigmentosa; and it should be ignored for the purpose of describing the actual floor and path.,5025.8,0.3404
+48,custom,trial_x_0.3_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.3333
+49,custom,trial_x_0.3_raw.mp4,0.2973,airplane,VLM_TRIGGERED,PENDING...,0,0.3265
+49,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear; unobstructed floor with a smooth texture; and there are no visible hazards or obstacles in the room. The floor appears to be made of a material with a reflective surface; possibly polished concrete or a similar material. The path leading to the center of the image is clear and uninterrupted; suggesting that the room is well-maintained and free from any obstructions.,4841.7,0.3469
+50,custom,trial_x_0.3_raw.mp4,0.4185,airplane,VLM_TRIGGERED,PENDING...,0,0.3400
+50,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear; unobstructed floor with a smooth texture; and there are no visible hazards or obstacles in the room. The floor appears to be made of a material with a reflective surface; possibly polished concrete or a similar material. The path leading to the center of the image is clear and uninterrupted; suggesting that the room is well-maintained and free from any obstructions.,4880.0,0.3600
+51,custom,trial_x_0.3_raw.mp4,0.3683,airplane,VLM_TRIGGERED,PENDING...,0,0.3529
+51,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear floor with a smooth texture; and there are no visible obstacles or hazards. The room appears to be well-lit; with no apparent dark spots or areas of low visibility. The focus is solely on the clear areas of the image; and the black blurry outer rim is a camera defect simulating Retinitis Pigmentosa; which should be ignored for the purpose of describing the actual floor and path.,4809.6,0.3725
+52,custom,trial_x_0.3_raw.mp4,0.2772,airplane;clock,VLM_TRIGGERED,PENDING...,0,0.3654
+52,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear floor with a smooth texture; and there are no visible obstacles or hazards. The room appears to be well-lit; with no apparent dark spots or areas of low visibility. The focus is solely on the clear areas of the image; and the black blurry outer rim; which is a camera defect simulating Retinitis Pigmentosa; is not relevant to the description of the room's floor and path.,5065.6,0.3846
+53,custom,trial_x_0.3_raw.mp4,0.3027,clock,VLM_TRIGGERED,PENDING...,0,0.3774
+53,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear floor with a smooth texture; and there are no visible obstacles or hazards. The room appears to be well-lit; with no apparent dark spots or areas of low visibility. The focus is solely on the clear areas of the image; and the black blurry outer rim is a camera defect simulating Retinitis Pigmentosa; which should be ignored for the purpose of describing the actual floor and path.,5137.7,0.3962
+54,custom,trial_x_0.3_raw.mp4,0.3563,clock,VLM_TRIGGERED,PENDING...,0,0.3889
+54,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear floor with a single; bright spot in the center; which could be a light source or a reflection. There are no visible obstacles or hazards in the room; as the focus is solely on the clear areas of the image. The black blurry outer rim of the video is a camera defect simulating Retinitis Pigmentosa; and it should be ignored for the purpose of describing the actual floor and path.,5067.5,0.4074
+55,custom,trial_x_0.3_raw.mp4,0.3874,clock,VLM_TRIGGERED,PENDING...,0,0.4000
+55,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear; unobstructed floor with a smooth texture; and there are no visible hazards or obstacles in the room. The floor appears to be made of a polished material; possibly tile or hardwood; and there are no signs of wear; damage; or debris. The room's lighting is even; and there are no shadows or reflections that would indicate any obstructions. The overall impression is of a well-maintained and clean space.,4930.3,0.4182
+56,custom,trial_x_0.3_raw.mp4,0.2607,airplane,VLM_TRIGGERED,PENDING...,0,0.4107
+56,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear floor with a single; bright spot in the center; which could be a light source or a reflection. There are no visible obstacles or hazards in the room; as the focus is solely on the clear areas of the image. The black blurry outer rim of the video is a camera defect simulating Retinitis Pigmentosa; and it should be ignored for the purpose of describing the actual floor and path.,4689.8,0.4286
+57,custom,trial_x_0.3_raw.mp4,0.3427,clock,VLM_TRIGGERED,PENDING...,0,0.4211
+57,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear; unobstructed floor with a smooth texture; and there are no visible hazards or obstacles in the room. The floor appears to be well-maintained and free from any debris or tripping hazards. The lighting in the room is even; and there are no signs of damage or wear on the floor.,4305.2,0.4386
+58,custom,trial_x_0.3_raw.mp4,0.2741,clock;airplane,VLM_TRIGGERED,PENDING...,0,0.4310
+58,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear; unobstructed floor with a smooth texture; and there are no visible hazards or obstacles in the room. The floor appears to be made of a material with a reflective surface; possibly polished concrete or a similar material. The path leading to the center of the image is clear and uninterrupted; suggesting that the room is well-maintained and free from any obstructions.,4705.6,0.4483
+59,custom,trial_x_0.3_raw.mp4,0.2783,airplane;clock,VLM_TRIGGERED,PENDING...,0,0.4407
+59,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear floor with a smooth texture; and there are no visible obstacles or hazards. The room appears to be well-lit; with no apparent dark spots or areas of low visibility. The focus is solely on the clear areas of the image; and the black blurry outer rim is a camera defect simulating Retinitis Pigmentosa; which should be ignored for the purpose of describing the actual floor and path.,4835.4,0.4576
+60,custom,trial_x_0.3_raw.mp4,0.2532,clock,VLM_TRIGGERED,PENDING...,0,0.4500
+60,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear; unobstructed floor with a smooth texture; and there are no visible hazards or obstacles in the room. The floor appears to be made of a material with a reflective surface; possibly polished concrete or a similar material. The path leading to the center of the image is clear and uninterrupted; suggesting that the room is well-maintained and free from any obstructions.,4649.3,0.4667
+61,custom,trial_x_0.3_raw.mp4,0.2866,clock;airplane,VLM_TRIGGERED,PENDING...,0,0.4590
+61,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear floor with a smooth texture; and there are no visible obstacles or hazards. The room appears to be well-lit; with no apparent dark spots or areas of low visibility. The focus is solely on the clear areas of the image; and the black blurry outer rim is a camera defect simulating Retinitis Pigmentosa; which should be ignored for the purpose of describing the actual floor and path.,4789.0,0.4754
+62,custom,trial_x_0.3_raw.mp4,0.3561,airplane,VLM_TRIGGERED,PENDING...,0,0.4677
+62,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear floor with a single; bright spot in the center; which could be a light source or a reflection. There are no visible obstacles or hazards in the room; as the focus is solely on the clear areas of the image. The black blurry outer rim of the video is a camera defect simulating Retinitis Pigmentosa; and it should be ignored for the purpose of describing the actual floor and path.,4783.3,0.4839
+63,custom,trial_x_0.3_raw.mp4,0.4849,airplane,VLM_TRIGGERED,PENDING...,0,0.4762
+63,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear floor with a single; bright spot in the center; which could be a light source or a reflection. There are no visible obstacles or hazards in the room; as the focus is solely on the clear areas of the image. The black blurry outer rim of the video is a camera defect simulating Retinitis Pigmentosa; and it should be ignored for the purpose of describing the actual floor and path.,5229.3,0.4921
+64,custom,trial_x_0.3_raw.mp4,0.4309,airplane,VLM_TRIGGERED,PENDING...,0,0.4844
+64,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear floor with a single; bright spot in the center; which could be a light source or a reflection. There are no visible obstacles or hazards in the room; as the focus is solely on the clear areas of the image. The black blurry outer rim of the video is a camera defect simulating Retinitis Pigmentosa; and it should be ignored for the purpose of describing the actual floor and path.,5460.8,0.5000
+65,custom,trial_x_0.3_raw.mp4,0.4212,airplane,VLM_TRIGGERED,PENDING...,0,0.4923
+65,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear; unobstructed floor with a smooth texture; and there are no visible hazards or obstacles in the room. The floor appears to be made of a material with a reflective surface; possibly polished concrete or a similar material. The path leading to the center of the image is clear and uninterrupted; suggesting that the room is well-maintained and free from any obstructions.,4595.2,0.5077
+66,custom,trial_x_0.3_raw.mp4,0.2965,clock,VLM_TRIGGERED,PENDING...,0,0.5000
+66,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear; unobstructed floor with no visible hazards or obstacles. The floor appears to be smooth and even; with no cracks; holes; or debris. The path leading to the center of the image is clear and uninterrupted; suggesting that there are no obstacles or hazards in the immediate vicinity of the camera's viewpoint.,4427.2,0.5152
+67,custom,trial_x_0.3_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.5075
+68,custom,trial_x_0.3_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.5000
+69,custom,trial_x_0.3_raw.mp4,0.3444,clock,VLM_TRIGGERED,PENDING...,0,0.4928
+69,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear floor with a single; bright spot in the center; which could be a light source or a reflection. There are no visible obstacles or hazards in the room; as the focus is solely on the clear areas of the image. The black blurry outer rim of the video is a camera defect simulating Retinitis Pigmentosa; and it should be ignored for the purpose of describing the actual floor and path.,4727.8,0.5072
+70,custom,trial_x_0.3_raw.mp4,0.3361,clock,VLM_TRIGGERED,PENDING...,0,0.5000
+70,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear; unobstructed floor with a smooth texture; and there are no visible hazards or obstacles in the room. The floor appears to be made of a material with a reflective surface; possibly polished concrete or a similar material. The path leading to the center of the image is clear and uninterrupted; suggesting that the room is well-maintained and free from any obstructions.,4657.0,0.5143
+71,custom,trial_x_0.3_raw.mp4,0.2613,clock,VLM_TRIGGERED,PENDING...,0,0.5070
+71,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear; unobstructed floor with a smooth texture; and there are no visible hazards or obstacles in the room. The floor appears to be made of a material with a reflective surface; possibly polished concrete or a similar material. The path leading to the center of the image is clear and uninterrupted; suggesting that the room is well-maintained and free from any obstructions.,4558.8,0.5211
+72,custom,trial_x_0.3_raw.mp4,0.3015,clock,VLM_TRIGGERED,PENDING...,0,0.5139
+72,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear floor with a single; bright spot in the center; which could be a light source or a reflection. There are no visible obstacles or hazards in the room; as the focus is solely on the clear areas of the image. The black blurry outer rim of the video is a camera defect simulating Retinitis Pigmentosa; and it should be ignored for the purpose of describing the actual floor and path.,4713.1,0.5278
+73,custom,trial_x_0.3_raw.mp4,0.2604,clock,VLM_TRIGGERED,PENDING...,0,0.5205
+73,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear; unobstructed floor with a smooth texture; and there are no visible hazards or obstacles in the room. The floor appears to be made of a material with a reflective surface; possibly polished concrete or a similar material. The path leading to the center of the image is clear and uninterrupted; suggesting that the room is well-maintained and free from any obstructions.,4527.6,0.5342
+74,custom,trial_x_0.3_raw.mp4,0.2593,clock,VLM_TRIGGERED,PENDING...,0,0.5270
+74,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear; unobstructed floor with a smooth texture; and there are no visible hazards or obstacles in the room. The floor appears to be made of a polished material; possibly tile or hardwood; and the path leading to the center of the image is clear and uninterrupted.,4058.8,0.5405
+75,custom,trial_x_0.3_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.5333
+76,custom,trial_x_0.3_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.5263
+77,custom,trial_x_0.3_raw.mp4,0.2685,clock,VLM_TRIGGERED,PENDING...,0,0.5195
+77,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear; unobstructed floor with a smooth texture; and there are no visible hazards or obstacles in the room. The floor appears to be made of a polished material; possibly tile or hardwood; and there are no signs of wear; damage; or debris. The path leading to the center of the image is clear and uninterrupted; suggesting that the room is well-maintained and free from obstacles.,4756.5,0.5325
+78,custom,trial_x_0.3_raw.mp4,0.2577,clock,VLM_TRIGGERED,PENDING...,0,0.5256
+78,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear; unobstructed floor with a smooth texture; and there are no visible hazards or obstacles in the room. The floor appears to be well-maintained and free from any debris or tripping hazards. The lighting in the room is even; and there are no signs of damage or wear on the floor.,4303.9,0.5385
+79,custom,trial_x_0.3_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.5316
+80,custom,trial_x_0.3_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.5250
+81,custom,trial_x_0.3_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.5185
+82,custom,trial_x_0.3_raw.mp4,0.2503,clock,VLM_TRIGGERED,PENDING...,0,0.5122
+82,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear floor with a single; bright spot in the center; which could be a light source or a reflection. There are no visible obstacles or hazards in the room; as the focus is solely on the clear areas of the image. The black blurry outer rim of the video is a camera defect simulating Retinitis Pigmentosa; and it should be ignored for the purpose of describing the actual floor and path.,4696.1,0.5244
+83,custom,trial_x_0.3_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.5181
+84,custom,trial_x_0.3_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.5119
+85,custom,trial_x_0.3_raw.mp4,0.2529,clock,VLM_TRIGGERED,PENDING...,0,0.5059
+85,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear floor with a single; bright spot in the center; which could be a light source or a reflection. There are no visible obstacles or hazards in the room; as the focus is solely on the clear areas of the image. The black blurry outer rim of the video is a camera defect simulating Retinitis Pigmentosa; and it should be ignored for the purpose of describing the actual floor and path.,4685.1,0.5176
+86,custom,trial_x_0.3_raw.mp4,0.2801,clock,VLM_TRIGGERED,PENDING...,0,0.5116
+86,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear; unobstructed floor with a smooth texture; and there are no visible hazards or obstacles in the room. The floor appears to be well-maintained and free from any debris or tripping hazards. The lighting in the room is even; and there are no signs of damage or wear on the floor.,4289.6,0.5233
+87,custom,trial_x_0.3_raw.mp4,0.2835,clock,VLM_TRIGGERED,PENDING...,0,0.5172
+87,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear floor with a single; bright spot in the center; which could be a light source or a reflection. There are no visible obstacles or hazards in the room; as the focus is solely on the clear areas of the image. The black blurry outer rim of the video is a camera defect simulating Retinitis Pigmentosa; and it should be ignored for the purpose of describing the actual floor and path.,4700.7,0.5287
+88,custom,trial_x_0.3_raw.mp4,0.2871,clock,VLM_TRIGGERED,PENDING...,0,0.5227
+88,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear floor with a single; bright spot in the center; which could be a light source or a reflection. There are no visible obstacles or hazards in the room; as the focus is solely on the clear areas of the image. The black blurry outer rim of the video is a camera defect simulating Retinitis Pigmentosa; and it should be ignored for the purpose of describing the actual floor and path.,4704.3,0.5341
+89,custom,trial_x_0.3_raw.mp4,0.3288,clock,VLM_TRIGGERED,PENDING...,0,0.5281
+89,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear; unobstructed floor with a smooth texture; and there are no visible hazards or obstacles in the room. The floor appears to be well-maintained and free from any debris or tripping hazards. The lighting in the room is even; and there are no signs of damage or wear on the floor.,4310.8,0.5393
+90,custom,trial_x_0.3_raw.mp4,0.2868,clock,VLM_TRIGGERED,PENDING...,0,0.5333
+90,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear; unobstructed floor with a smooth texture; and there are no visible hazards or obstacles in the room. The floor appears to be well-maintained and free from any debris or tripping hazards. The lighting in the room is even; and there are no signs of damage or wear on the floor.,4290.6,0.5444
+91,custom,trial_x_0.3_raw.mp4,0.2776,clock,VLM_TRIGGERED,PENDING...,0,0.5385
+91,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear; unobstructed floor with a smooth texture; and there are no visible hazards or obstacles in the room. The floor appears to be well-maintained and free from any debris or tripping hazards. The lighting in the room is even; and there are no signs of damage or wear on the floor.,4308.8,0.5495
+92,custom,trial_x_0.3_raw.mp4,0.2749,clock,VLM_TRIGGERED,PENDING...,0,0.5435
+92,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear; unobstructed floor with a smooth texture; and there are no visible hazards or obstacles in the room. The floor appears to be well-maintained and free from any debris or tripping hazards. The lighting in the room is even; and there are no signs of damage or wear on the floor.,4309.1,0.5543
+93,custom,trial_x_0.3_raw.mp4,0.2527,clock,VLM_TRIGGERED,PENDING...,0,0.5484
+93,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear; unobstructed floor with a smooth texture; and there are no visible hazards or obstacles in the room. The floor appears to be well-maintained and free from any debris or tripping hazards. The lighting in the room is even; and there are no signs of damage or wear on the floor.,4473.6,0.5591
+94,custom,trial_x_0.3_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.5532
+95,custom,trial_x_0.3_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.5474
+96,custom,trial_x_0.3_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.5417
+97,custom,trial_x_0.3_raw.mp4,0.4468,clock,VLM_TRIGGERED,PENDING...,0,0.5361
+97,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear; unobstructed floor with a smooth texture; and there are no visible hazards or obstacles in the room. The floor appears to be made of a material with a reflective surface; possibly polished concrete or a similar material. The path leading to the center of the image is clear and uninterrupted; suggesting that the room is well-maintained and free from any obstructions.,4661.1,0.5464
+98,custom,trial_x_0.3_raw.mp4,0.4171,clock,VLM_TRIGGERED,PENDING...,0,0.5408
+98,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear floor with a single; bright spot in the center; which could be a light source or a reflection. There are no visible obstacles or hazards in the room; as the focus is solely on the clear areas of the image. The black blurry outer rim of the video is a camera defect simulating Retinitis Pigmentosa; and it should be ignored for the purpose of describing the actual floor and path.,4755.2,0.5510
+99,custom,trial_x_0.3_raw.mp4,0.4015,clock,VLM_TRIGGERED,PENDING...,0,0.5455
+99,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear; unobstructed floor with a smooth texture; and there are no visible hazards or obstacles in the room. The floor appears to be made of a material with a reflective surface; possibly polished concrete or a similar material. The path leading to the center of the image is clear and uninterrupted; suggesting that the room is well-maintained and free from any obstructions.,4603.0,0.5556
+100,custom,trial_x_0.3_raw.mp4,0.3695,clock,VLM_TRIGGERED,PENDING...,0,0.5500
+100,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear; unobstructed floor with a smooth texture; and there are no visible hazards or obstacles in the room. The floor appears to be well-maintained and free from any debris or tripping hazards. The lighting in the room is even; and there are no signs of damage or wear on the floor.,4360.1,0.5600
+101,custom,trial_x_0.3_raw.mp4,0.3679,clock,VLM_TRIGGERED,PENDING...,0,0.5545
+101,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear; unobstructed floor with a smooth texture; and there are no visible hazards or obstacles in the room. The floor appears to be well-maintained and free from any debris or tripping hazards. The lighting in the room is even; and there are no signs of damage or wear on the floor.,4337.1,0.5644
+102,custom,trial_x_0.3_raw.mp4,0.3335,clock,VLM_TRIGGERED,PENDING...,0,0.5588
+102,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear; unobstructed floor with a smooth texture; and there are no visible hazards or obstacles in the room. The floor appears to be well-maintained and free from any debris or tripping hazards. The lighting in the room is even; and there are no signs of damage or wear on the floor.,4296.9,0.5686
+103,custom,trial_x_0.3_raw.mp4,0.3395,clock,VLM_TRIGGERED,PENDING...,0,0.5631
+103,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear; unobstructed floor with a smooth texture; and there are no visible hazards or obstacles in the room. The floor appears to be made of a material with a reflective surface; possibly polished concrete or a similar material. The path leading to the center of the image is clear and uninterrupted; suggesting that the room is well-maintained and free from any obstructions.,4540.1,0.5728
+104,custom,trial_x_0.3_raw.mp4,0.3820,clock,VLM_TRIGGERED,PENDING...,0,0.5673
+104,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear; unobstructed floor with a smooth texture; and there are no visible hazards or obstacles in the room. The floor appears to be well-maintained and free from any debris or tripping hazards. The lighting in the room is even; and there are no signs of damage or wear on the floor.,4309.5,0.5769
+105,custom,trial_x_0.3_raw.mp4,0.3710,clock,VLM_TRIGGERED,PENDING...,0,0.5714
+105,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear; unobstructed floor with a smooth texture; and there are no visible hazards or obstacles in the room. The floor appears to be well-maintained and free from any debris or tripping hazards. The lighting in the room is even; and there are no signs of damage or wear on the floor.,4309.0,0.5810
+106,custom,trial_x_0.3_raw.mp4,0.3615,clock,VLM_TRIGGERED,PENDING...,0,0.5755
+106,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear; unobstructed floor with a smooth texture; and there are no visible hazards or obstacles in the room. The floor appears to be well-maintained and free from any debris or tripping hazards. The lighting in the room is even; and there are no signs of damage or wear on the floor.,4308.2,0.5849
+107,custom,trial_x_0.3_raw.mp4,0.3327,clock,VLM_TRIGGERED,PENDING...,0,0.5794
+107,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear; unobstructed floor with a smooth texture; and there are no visible hazards or obstacles in the room. The floor appears to be made of a material with a reflective surface; possibly polished concrete or a similar material. The path leading to the center of the image is clear and uninterrupted; suggesting that the room is well-maintained and free from any obstructions.,4543.2,0.5888
+108,custom,trial_x_0.3_raw.mp4,0.3169,clock,VLM_TRIGGERED,PENDING...,0,0.5833
+108,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear; unobstructed floor with a smooth texture; and there are no visible hazards or obstacles in the room. The floor appears to be made of a material with a reflective surface; possibly polished concrete or a similar material. The path leading to the center of the image is clear and uninterrupted; suggesting that the room is well-maintained and free from any obstructions.,4532.8,0.5926
+109,custom,trial_x_0.3_raw.mp4,0.2740,airplane;clock,VLM_TRIGGERED,PENDING...,0,0.5872
+109,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear; unobstructed floor with a smooth texture; and there are no visible hazards or obstacles in the room. The floor appears to be well-maintained and free from any debris or tripping hazards. The lighting in the room is even; and there are no signs of damage or wear on the floor.,4303.6,0.5963
+110,custom,trial_x_0.3_raw.mp4,0.2795,airplane,VLM_TRIGGERED,PENDING...,0,0.5909
+110,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear; unobstructed floor with a smooth texture; and there are no visible hazards or obstacles in the room. The floor appears to be well-maintained and free from any debris or tripping hazards. The lighting in the room is even; and there are no signs of damage or wear on the floor.,4301.1,0.6000
+111,custom,trial_x_0.3_raw.mp4,0.2700,clock,VLM_TRIGGERED,PENDING...,0,0.5946
+111,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear; unobstructed floor with a smooth texture; and there are no visible hazards or obstacles in the room. The floor appears to be made of a material with a reflective surface; possibly polished concrete or a similar material. The path leading to the center of the image is clear and uninterrupted; suggesting that the room is well-maintained and free from any obstructions.,4543.0,0.6036
+112,custom,trial_x_0.3_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.5982
+113,custom,trial_x_0.3_raw.mp4,0.2563,airplane,VLM_TRIGGERED,PENDING...,0,0.5929
+113,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear; unobstructed floor with a smooth texture; and there are no visible hazards or obstacles in the room. The floor appears to be well-maintained and free from any debris or tripping hazards. The lighting in the room is even; and there are no signs of damage or wear on the floor.,4308.4,0.6018
+114,custom,trial_x_0.3_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.5965
+115,custom,trial_x_0.3_raw.mp4,0.2986,clock,VLM_TRIGGERED,PENDING...,0,0.5913
+115,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear; unobstructed floor with a smooth texture; and there are no visible hazards or obstacles in the room. The floor appears to be well-maintained and free from any debris or tripping hazards. The lighting in the room is even; and there are no signs of damage or wear on the floor.,4490.0,0.6000
+116,custom,trial_x_0.3_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.5948
+117,custom,trial_x_0.3_raw.mp4,0.2673,clock,VLM_TRIGGERED,PENDING...,0,0.5897
+117,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear; unobstructed floor with a smooth texture; and there are no visible hazards or obstacles in the room. The floor appears to be well-maintained and free from any debris or tripping hazards. The lighting in the room is even; and there are no signs of damage or wear on the floor.,4379.3,0.5983
+118,custom,trial_x_0.3_raw.mp4,0.2903,clock,VLM_TRIGGERED,PENDING...,0,0.5932
+118,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear; unobstructed floor with a smooth texture; and there are no visible hazards or obstacles in the room. The floor appears to be well-maintained and free from any debris or tripping hazards. The lighting in the room is even; and there are no signs of damage or wear on the floor.,4413.3,0.6017
+119,custom,trial_x_0.3_raw.mp4,0.2847,clock,VLM_TRIGGERED,PENDING...,0,0.5966
+119,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear; unobstructed floor with a smooth texture; and there are no visible hazards or obstacles in the room. The floor appears to be well-maintained and free from any debris or tripping hazards. The lighting in the room is even; and there are no signs of damage or wear on the floor.,4403.7,0.6050
+120,custom,trial_x_0.3_raw.mp4,0.2819,clock,VLM_TRIGGERED,PENDING...,0,0.6000
+120,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear; unobstructed floor with a smooth texture; and there are no visible hazards or obstacles in the room. The floor appears to be well-maintained and free from any debris or tripping hazards. The lighting in the room is even; and there are no signs of damage or wear on the floor.,4405.0,0.6083
+121,custom,trial_x_0.3_raw.mp4,0.2893,clock,VLM_TRIGGERED,PENDING...,0,0.6033
+121,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear; unobstructed floor with a smooth texture; and there are no visible hazards or obstacles in the room. The floor appears to be well-maintained and free from any debris or tripping hazards. The lighting in the room is even; and there are no signs of damage or wear on the floor.,4417.8,0.6116
+122,custom,trial_x_0.3_raw.mp4,0.2650,clock,VLM_TRIGGERED,PENDING...,0,0.6066
+122,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear; unobstructed floor with a smooth texture; and there are no visible hazards or obstacles in the room. The floor appears to be well-maintained and free from any debris or tripping hazards. The lighting in the room is even; and there are no signs of damage or wear on the floor.,4328.3,0.6148
+123,custom,trial_x_0.3_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.6098
+124,custom,trial_x_0.3_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.6048
+125,custom,trial_x_0.3_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.6000
+126,custom,trial_x_0.3_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.5952
+127,custom,trial_x_0.3_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.5906
+128,custom,trial_x_0.3_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.5859
+129,custom,trial_x_0.3_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.5814
+130,custom,trial_x_0.3_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.5769
+131,custom,trial_x_0.3_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.5725
+132,custom,trial_x_0.3_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.5682
+133,custom,trial_x_0.3_raw.mp4,0.3013,clock,VLM_TRIGGERED,PENDING...,0,0.5639
+133,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear; unobstructed floor with a smooth texture; and there are no visible hazards or obstacles in the room. The floor appears to be well-maintained and free from any debris or tripping hazards. The lighting in the room is even; and there are no signs of damage or wear on the floor.,4302.9,0.5714
+134,custom,trial_x_0.3_raw.mp4,0.3361,clock,VLM_TRIGGERED,PENDING...,0,0.5672
+134,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear; unobstructed floor with a smooth texture; and there are no visible hazards or obstacles in the room. The floor appears to be well-maintained and free from any debris or tripping hazards. The lighting in the room is even; and there are no signs of damage or wear on the floor.,4322.7,0.5746
+135,custom,trial_x_0.3_raw.mp4,0.3644,clock,VLM_TRIGGERED,PENDING...,0,0.5704
+135,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear; unobstructed floor with a smooth texture; and there are no visible hazards or obstacles in the room. The floor appears to be well-maintained and free from any debris or tripping hazards. The lighting in the room is even; and there are no signs of damage or wear on the floor.,4321.0,0.5778
+136,custom,trial_x_0.3_raw.mp4,0.3613,clock,VLM_TRIGGERED,PENDING...,0,0.5735
+136,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear; unobstructed floor with a smooth texture; and there are no visible hazards or obstacles in the room. The floor appears to be well-maintained and free from any debris or tripping hazards. The lighting in the room is even; and there are no signs of damage or wear on the floor.,4646.4,0.5809
+137,custom,trial_x_0.3_raw.mp4,0.3449,clock,VLM_TRIGGERED,PENDING...,0,0.5766
+137,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear; unobstructed floor with a smooth texture; and there are no visible hazards or obstacles in the room. The floor appears to be well-maintained and free from any debris or tripping hazards. The lighting in the room is even; and there are no signs of damage or wear on the floor.,4418.8,0.5839
+138,custom,trial_x_0.3_raw.mp4,0.3378,clock,VLM_TRIGGERED,PENDING...,0,0.5797
+138,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image shows a clear; unobstructed floor with a smooth texture; and there are no visible hazards or obstacles in the room. The floor appears to be well-maintained and free from any debris or tripping hazards. The lighting in the room is even; and there are no signs of damage or wear on the floor.,4319.0,0.5870
+139,custom,trial_x_0.3_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.5827
+140,custom,trial_x_0.3_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.5786
+141,custom,trial_x_0.3_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.5745
+142,custom,trial_x_0.3_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.5704
+143,custom,trial_x_0.3_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.5664
+144,custom,trial_x_0.3_raw.mp4,0.6538,clock,YOLO_ONLY,N/A,0,0.5625
+145,custom,trial_x_0.3_raw.mp4,0.4468,clock,VLM_TRIGGERED,PENDING...,0,0.5586
+145,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards in the room. The black blurry outer rim; which is a camera defect simulating Retinitis Pigmentosa; does not provide any useful information about the actual floor and path.,3896.5,0.5655
+146,custom,trial_x_0.3_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.5616
+147,custom,trial_x_0.3_raw.mp4,0.7898,clock,YOLO_ONLY,N/A,0,0.5578
+148,custom,trial_x_0.3_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.5541
+149,custom,trial_x_0.3_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.5503
+150,custom,trial_x_0.3_raw.mp4,0.2795,clock,VLM_TRIGGERED,PENDING...,0,0.5467
+150,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards in the room. To provide a detailed description of the floor and path; I would need a clearer image.,3499.8,0.5533
+151,custom,trial_x_0.3_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.5497
+152,custom,trial_x_0.3_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.5461
+153,custom,trial_x_0.3_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.5425
+154,custom,trial_x_0.3_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.5390
+155,custom,trial_x_0.3_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.5355
+156,custom,trial_x_0.3_raw.mp4,0.3026,tv,VLM_TRIGGERED,PENDING...,0,0.5321
+156,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards in the room. The black blurry outer rim; which is a camera defect simulating Retinitis Pigmentosa; does not provide any useful information about the actual floor and path.,3903.2,0.5385
+157,custom,trial_x_0.3_raw.mp4,0.2731,tv,VLM_TRIGGERED,PENDING...,0,0.5350
+157,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards in the room. The black blurry outer rim; which is a camera defect simulating Retinitis Pigmentosa; does not provide any useful information about the actual floor and path.,3906.8,0.5414
+158,custom,trial_x_0.3_raw.mp4,0.3165,airplane,VLM_TRIGGERED,PENDING...,0,0.5380
+158,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards in the room. The black blurry outer rim; which is a camera defect simulating Retinitis Pigmentosa; does not provide any useful information about the actual floor and path.,3882.6,0.5443
+159,custom,trial_x_0.3_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.5409
+160,custom,trial_x_0.3_raw.mp4,0.7188,clock,YOLO_ONLY,N/A,0,0.5375
+161,custom,trial_x_0.3_raw.mp4,0.7126,clock,YOLO_ONLY,N/A,0,0.5342
+162,custom,trial_x_0.3_raw.mp4,0.8316,clock,YOLO_ONLY,N/A,0,0.5309
+163,custom,trial_x_0.3_raw.mp4,0.8164,clock,YOLO_ONLY,N/A,0,0.5276
+164,custom,trial_x_0.3_raw.mp4,0.8354,clock,YOLO_ONLY,N/A,0,0.5244
+165,custom,trial_x_0.3_raw.mp4,0.7253,clock,YOLO_ONLY,N/A,0,0.5212
+166,custom,trial_x_0.3_raw.mp4,0.7627,clock,YOLO_ONLY,N/A,0,0.5181
+167,custom,trial_x_0.3_raw.mp4,0.7443,clock,YOLO_ONLY,N/A,0,0.5150
+168,custom,trial_x_0.3_raw.mp4,0.8175,clock,YOLO_ONLY,N/A,0,0.5119
+169,custom,trial_x_0.3_raw.mp4,0.8043,clock,YOLO_ONLY,N/A,0,0.5089
+170,custom,trial_x_0.3_raw.mp4,0.8222,clock,YOLO_ONLY,N/A,0,0.5059
+171,custom,trial_x_0.3_raw.mp4,0.7938,clock,YOLO_ONLY,N/A,0,0.5029
+172,custom,trial_x_0.3_raw.mp4,0.7432,clock,YOLO_ONLY,N/A,0,0.5000
+173,custom,trial_x_0.3_raw.mp4,0.6947,clock,YOLO_ONLY,N/A,0,0.4971
+174,custom,trial_x_0.3_raw.mp4,0.5922,clock,YOLO_ONLY,N/A,0,0.4943
+175,custom,trial_x_0.3_raw.mp4,0.6051,clock,YOLO_ONLY,N/A,0,0.4914
+176,custom,trial_x_0.3_raw.mp4,0.5668,clock,YOLO_ONLY,N/A,0,0.4886
+177,custom,trial_x_0.3_raw.mp4,0.4423,clock,VLM_TRIGGERED,PENDING...,0,0.4859
+177,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards in the room.,3054.6,0.4915
+178,custom,trial_x_0.3_raw.mp4,0.3003,clock,VLM_TRIGGERED,PENDING...,0,0.4888
+178,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards in the room.,3058.3,0.4944
+179,custom,trial_x_0.3_raw.mp4,0.2878,clock,VLM_TRIGGERED,PENDING...,0,0.4916
+179,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards in the room.,3056.4,0.4972
+180,custom,trial_x_0.3_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.4944
+181,custom,trial_x_0.3_raw.mp4,0.3576,clock,VLM_TRIGGERED,PENDING...,0,0.4917
+181,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards in the room.,3063.3,0.4972
+182,custom,trial_x_0.3_raw.mp4,0.3402,clock,VLM_TRIGGERED,PENDING...,0,0.4945
+182,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards in the room.,3278.8,0.5000
+183,custom,trial_x_0.3_raw.mp4,0.3444,clock,VLM_TRIGGERED,PENDING...,0,0.4973
+183,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards in the room.,3143.3,0.5027
+184,custom,trial_x_0.3_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.5000
+185,custom,trial_x_0.3_raw.mp4,0.3853,clock,VLM_TRIGGERED,PENDING...,0,0.4973
+185,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards in the room.,3077.1,0.5027
+186,custom,trial_x_0.3_raw.mp4,0.3155,clock,VLM_TRIGGERED,PENDING...,0,0.5000
+186,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards in the room.,3275.2,0.5054
+187,custom,trial_x_0.3_raw.mp4,0.3150,clock,VLM_TRIGGERED,PENDING...,0,0.5027
+187,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards in the room.,3255.6,0.5080
+188,custom,trial_x_0.3_raw.mp4,0.3352,clock,VLM_TRIGGERED,PENDING...,0,0.5053
+188,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards in the room.,3173.6,0.5106
+189,custom,trial_x_0.3_raw.mp4,0.2957,clock,VLM_TRIGGERED,PENDING...,0,0.5079
+189,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards in the room.,3296.4,0.5132
+190,custom,trial_x_0.3_raw.mp4,0.4732,clock,VLM_TRIGGERED,PENDING...,0,0.5105
+190,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards in the room.,3625.3,0.5158
+191,custom,trial_x_0.3_raw.mp4,0.3849,clock,VLM_TRIGGERED,PENDING...,0,0.5131
+191,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards in the room.,3414.4,0.5183
+192,custom,trial_x_0.3_raw.mp4,0.4155,clock,VLM_TRIGGERED,PENDING...,0,0.5156
+192,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards in the room.,3343.4,0.5208
+193,custom,trial_x_0.3_raw.mp4,0.4228,clock,VLM_TRIGGERED,PENDING...,0,0.5181
+193,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards in the room.,3334.3,0.5233
+194,custom,trial_x_0.3_raw.mp4,0.4253,clock,VLM_TRIGGERED,PENDING...,0,0.5206
+194,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards in the room.,3217.1,0.5258
+195,custom,trial_x_0.3_raw.mp4,0.4750,clock,VLM_TRIGGERED,PENDING...,0,0.5231
+195,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards in the room.,3625.7,0.5282
+196,custom,trial_x_0.3_raw.mp4,0.4413,clock,VLM_TRIGGERED,PENDING...,0,0.5255
+196,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards in the room.,3464.7,0.5306
+197,custom,trial_x_0.3_raw.mp4,0.4049,clock,VLM_TRIGGERED,PENDING...,0,0.5279
+197,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards in the room.,3490.9,0.5330
+198,custom,trial_x_0.3_raw.mp4,0.0000,none,YOLO_ONLY,N/A,0,0.5303
+199,custom,trial_x_0.3_raw.mp4,0.3020,clock,VLM_TRIGGERED,PENDING...,0,0.5276
+199,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards in the room.,3492.6,0.5327
+200,custom,trial_x_0.3_raw.mp4,0.3031,clock,VLM_TRIGGERED,PENDING...,0,0.5300
+200,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards in the room.,3410.2,0.5350
+201,custom,trial_x_0.3_raw.mp4,0.2797,clock,VLM_TRIGGERED,PENDING...,0,0.5323
+201,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards in the room.,3492.7,0.5373
+202,custom,trial_x_0.3_raw.mp4,0.2592,clock,VLM_TRIGGERED,PENDING...,0,0.5347
+202,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards in the room.,3304.8,0.5396
+203,custom,trial_x_0.3_raw.mp4,0.2939,clock,VLM_TRIGGERED,PENDING...,0,0.5369
+203,custom,trial_x_0.3_raw.mp4,N/A,VLM_RESPONSE_RECEIVED,The image is too dark and lacks clarity to identify any obstacles or hazards in the room.,3270.2,0.5419
